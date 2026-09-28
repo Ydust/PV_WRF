@@ -1,7 +1,0 @@
-climate_zone,cells,temperature_c,offset_pct,eligible_cells
-humid_continental_temperate,4257,8.378693,6.475716547219044,3900
-humid_subtropical_dense,3241,19.792267,5.821979328754013,3117
-tropical_wet_dense,2280,25.3144075,8.016927364950876,2155
-hot_arid_sparse,771,26.282501,3.329932157185013,720
-hot_arid_dense_riverine,189,27.895447,6.441125215726379,181
-hot_arid_low_density,309,28.69574,8.594942163215048,262

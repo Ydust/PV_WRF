@@ -1,0 +1,15 @@
+{
+  "mounting_kg_co2e_m2": 33.22,
+  "electrical_kg_co2e_kwp": 40.0,
+  "inverter_kg_co2e_kwp_per_installation": 70.0,
+  "inverter_life_years": 15,
+  "inverter_count_interpretation": "Two generations over 30 years; tested separately as a modelling assumption.",
+  "source": "IEA-PVPS T12-05:2015, Table 6.1, current single-Si rooftop system; 15.1% module efficiency.",
+  "url": "https://iea-pvps.org/wp-content/uploads/2020/01/Future-PV-LCA-IEA-PVPS-Task-12-March-2015.pdf",
+  "status": "Legacy rooftop BOS proxy; not a measured 2025 global inventory.",
+  "replacement_support": "Lin et al. 2026, DOI 10.1038/s41467-026-76424-4, SI Table 2: 15-year inverter lifetime and one replacement.",
+  "freight_kg_co2e_m2": 5.175327394036038,
+  "freight_status": "Willis China-to-Central-Europe module route, applied as a common benchmark; sensitivity 0 to 2 times.",
+  "end_of_life": "No PV modules retire within 2025-2050 (28-year life). No advance recycling credit.",
+  "retired_inverter_treatment": "No recycling credit; treatment not independently quantified in the disaggregated reference."
+}

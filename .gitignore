@@ -3,8 +3,11 @@ __pycache__/
 *.py[cod]
 *.nbc
 *.nbi
-output/*
-!output/.gitkeep
+.ipynb_checkpoints/
 .env
-*.zip
-!output/*.csv
+input/literature/
+output/*
+!output/Source_Data/
+output/Source_Data/*
+!output/Source_Data/CSV/
+!output/Source_Data/Source_Data_Main_Figures.xlsx

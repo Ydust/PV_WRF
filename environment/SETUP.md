@@ -1,36 +1,16 @@
 # Python environment setup
 
-Python: **3.12.14**. Platform: **Windows, 64-bit**.
-
-## Installation
-
-Open PowerShell in the project root:
+The recorded numerical and plotting environment uses Python 3.12.14, Windows 64-bit. Exact package versions are listed in `requirements-lock.txt` and [PACKAGES.md](PACKAGES.md).
 
 ```powershell
-& '.\environment\setup.ps1'
+.\environment\setup.ps1
+.\environment\.venv\Scripts\python.exe code/run.py all
 ```
 
-This creates `environment/.venv`, installs the packages in `requirements-lock.txt`, and runs `check_environment.py` to check versions and imports.
+The setup script creates `environment/.venv`, installs the pinned packages and checks their installed versions. A Python 3.12 installation with the Windows Python launcher is required. Installation requires internet access; the calculation itself uses the supplied inputs without downloads.
 
-## Execution
+For Linux and macOS, create the virtual environment with `python3.12 -m venv environment/.venv`, install `environment/requirements-lock.txt`, and use `environment/.venv/bin/python` to run `code/run.py all`. These platforms have not been independently validated.
 
-```powershell
-& '.\environment\.venv\Scripts\python.exe' '.\code\run.py' baseline
-& '.\environment\.venv\Scripts\python.exe' '.\code\run.py' full
-```
+All plotting code is in `code/main_figures.ipynb` and `code/supplementary_figures.ipynb`. The command-line runner executes their code cells directly, so a Jupyter server is not required. Interactive notebook use additionally requires the notebook support provided by the chosen editor.
 
-The default directories are `input` and `output` in the project root. Optional overrides:
-
-```powershell
-$env:PV_WRF_DATA_ROOT = 'E:/custom_input'
-$env:PV_WRF_OUTPUT_ROOT = 'E:/custom_output'
-$env:NUMBA_NUM_THREADS = '8'
-```
-
-The input directory must contain `grids`, `parameters`, and `maps`. Use a new output directory when changing inputs to avoid reusing old working files.
-
-The first execution includes Numba compilation. Plots use Arial with DejaVu Sans as a fallback.
-
-## Notebook
-
-Open `code/main_figures.ipynb` in a Jupyter-compatible editor, such as VS Code with the Jupyter extension. Select `environment/.venv/Scripts/python.exe` as the kernel and run all cells in order.
+The figure templates prefer Arial and fall back to DejaVu Sans. Font substitution may change label geometry on machines without Arial. Generated figures and numerical working files are stored under `output` and excluded from Git; the supplied main-figure source tables remain tracked.

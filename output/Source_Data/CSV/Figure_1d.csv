@@ -1,0 +1,7 @@
+climate_zone,temperature_c,offset_pct
+humid_continental_temperate,8.378693,6.263648519780766
+humid_subtropical_dense,19.792267,5.360518896999313
+tropical_wet_dense,25.3144075,7.40190880101405
+hot_arid_sparse,26.282501,3.061191282459999
+hot_arid_dense_riverine,27.895447,5.8350042252075935
+hot_arid_low_density,28.69574,7.849965020323706

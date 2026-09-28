@@ -9,7 +9,7 @@ for name,version in expected['packages'].items():
         print(f'{name}: {actual} (expected {version})')
         if actual!=version:errors.append(name)
     except md.PackageNotFoundError:errors.append(name)
-for name in ['numpy','pandas','scipy','numba','llvmlite','matplotlib','PIL','cartopy','shapely','pyproj','shapefile','ipykernel','nbformat','nbclient']:
+for name in ['numpy','pandas','numba','llvmlite','matplotlib','PIL','openpyxl','pypdf']:
     try:importlib.import_module(name)
     except Exception as e:errors.append(name+': '+str(e))
 if sys.version_info[:2]!=(3,12):errors.append('Python must be 3.12 for this locked profile')
