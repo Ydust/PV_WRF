@@ -1,0 +1,15 @@
+parameter,spearman_rho
+displaced_ef_multiplier,-0.8989445912929398
+grid_ef_2050_multiplier,-0.2103771403027213
+deployment_path_exponent,-0.0796755295218299
+direct_use_lift,-0.0756384924645107
+roof_credit_multiplier,-0.0708367839774272
+storage_full_need_pct,-0.0696503560342743
+grid_ef_path_exponent,-0.0599828775558776
+storage_onset_pct,-0.0268519109805014
+cooling_demand_multiplier,-0.0226823546054612
+curtailment_onset_pct,-0.0075151672809224
+battery_life_multiplier,0.0032224024878209
+curtailment_max_fraction,0.0254256837153574
+battery_lca_kg_per_kwh_capacity,0.1470107223230832
+storage_sizing_multiplier,0.2237408643380378

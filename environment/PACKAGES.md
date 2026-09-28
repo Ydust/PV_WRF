@@ -1,6 +1,4 @@
-# Python package versions
-
-Python 3.12.14 (Windows 64-bit).
+# Package versions
 
 | Package | Version |
 |---|---|

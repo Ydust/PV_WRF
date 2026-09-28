@@ -1,4 +1,0 @@
-route,source_cell,source_2023_module_plus_freight_kg_co2e_m2,implied_grid_kg_co2e_kwh,relative_grid_multiplier,status
-china_southwest,Fig 6!C4,78.92073826525034,0.35910857269184093,0.37783966330951535,"Derived source-LCA sub-grid contrast; holding the ratio through 2050 is a scenario assumption, not an observed procurement forecast."
-china_average,Fig 6!C5,134.86044177585876,0.9504258222823976,1.0000000000000262,"Derived source-LCA sub-grid contrast; holding the ratio through 2050 is a scenario assumption, not an observed procurement forecast."
-china_northeast,Fig 6!C6,177.14896579462845,1.3974416651046777,1.4703321735817656,"Derived source-LCA sub-grid contrast; holding the ratio through 2050 is a scenario assumption, not an observed procurement forecast."

@@ -1,36 +1,32 @@
-"""Run the calculation and notebook stages from the project root."""
+"""Reproduce numerical outputs or execute figure notebooks."""
 from pathlib import Path
-import argparse,json,os,subprocess,sys
+import argparse,json,os,shutil
+import numpy as np
+import pandas as pd
+import prepare_main_figure_data as f
 
-ROOT=Path(__file__).resolve().parents[1]
-STAGES={
-    'baseline':'prepare_baseline.py',
-    'uncertainty':'run_uncertainty.py',
-    'main-data':'prepare_main_figures.py',
-    'selection':'prepare_template_data.py',
-    'supplementary-data':'prepare_submission_data.py',
-    'figures':'main_figures.ipynb',
-    'supplementary-figures':'supplementary_figures.ipynb',
-    'verify':'verify.py',
-}
+def notebook(name):
+    os.chdir(f.ROOT)
+    scope={'__name__':'__main__'}
+    for cell in json.loads((f.ROOT/'code'/name).read_text(encoding='utf-8'))['cells']:
+        if cell['cell_type']=='code':exec(compile(''.join(cell['source']),name,'exec'),scope)
 
 def main():
-    parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('stage',choices=['all',*STAGES])
-    args=parser.parse_args()
-    os.chdir(ROOT)
-    for folder in ['output/checks','output/Main_Figure_Data','output/Supplementary_Data']:
-        (ROOT/folder).mkdir(parents=True,exist_ok=True)
-    os.environ.setdefault('NUMBA_NUM_THREADS','8')
-    os.environ.setdefault('MPLBACKEND','Agg')
-    os.environ.setdefault('MPLCONFIGDIR',str(ROOT/'output/checks/mplconfig'))
-    for stage in STAGES if args.stage=='all' else [args.stage]:
-        print(f'Running {stage}',flush=True)
-        path=ROOT/'code'/STAGES[stage]
-        if path.suffix=='.ipynb':
-            scope={'__name__':'__main__'}
-            for cell in json.loads(path.read_text(encoding='utf8'))['cells']:
-                if cell['cell_type']=='code':exec(compile(''.join(cell['source']),str(path),'exec'),scope)
-        else:subprocess.run([sys.executable,str(path)],cwd=ROOT,check=True)
+    ap=argparse.ArgumentParser();ap.add_argument('--mode',choices=['baseline','all','figures','supplementary-figures'],default='baseline');a=ap.parse_args()
+    if a.mode=='figures':notebook('main_figures.ipynb');return
+    if a.mode=='supplementary-figures':notebook('supplementary_figures.ipynb');return
+    x=f.m.prepare_inputs()
+    for cov in [50,75]:np.save(f.ROOT/f'output/reference_{cov}.npy',f.m.evaluate(x,final_coverage=cov)[0][0])
+    if a.mode=='all':f.physical_cache()
+    f.main(baseline_only=a.mode=='baseline')
+    if a.mode=='all':
+        f.procurement_contrasts();f.strategy_tradeoffs()
+        import prepare_final_supplement as s
+        s.main()
+        for n in ['diagnostic_cells','diagnostic_trend']:shutil.copy2(s.SD/(n+'.csv'),f.D/(n+'.csv'))
+        full=pd.read_csv(f.D/'annual_reference.csv').query('final_coverage_pct==75')
+        red=pd.read_csv(s.SD/'reduced_annual.csv')[['country_tag','year','cumulative_net_gt']].rename(columns={'cumulative_net_gt':'cumulative_reduced_net_gt'})
+        full.merge(red,on=['country_tag','year'],validate='one_to_one').to_csv(f.D/'time_paths.csv',index=False)
+    print('Completed',a.mode)
 
 if __name__=='__main__':main()

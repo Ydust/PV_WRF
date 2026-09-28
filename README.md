@@ -1,54 +1,52 @@
-# PV_WRF
+# Rooftop PV carbon accounting
 
-Annual rooftop photovoltaic energy and carbon accounting for 2025–2050, with separate manufacturing-cohort burdens and deployment-region electricity displacement.
+Production-cohort accounting for rooftop PV deployment during 2025–2050, with separate manufacturing-region and deployment-region electricity pathways.
 
-```
-code/          Calculation scripts and plotting notebooks
-input/         Processed grid data, model parameters and map boundaries
-output/        Main-figure source data; calculated results are generated here
-environment/   Python setup and package versions
-```
+## Layout
+
+- `code`: numerical model, inventory adapters and figure notebooks.
+- `input`: processed spatial inputs, scenario vectors, electricity pathways and extracted inventory outputs.
+- `output`: figure inputs and tabulated calculation results.
+- `environment`: Python setup and exact package versions.
 
 ## Run
 
-Use Python 3.12 (64-bit). From the repository root on Windows:
+From the repository root, install the environment described in `environment/SETUP.md`.
+
+```text
+python code/run.py --mode baseline
+python code/run.py --mode all
+python code/run.py --mode figures
+python code/run.py --mode supplementary-figures
+```
+
+The supplied outputs allow figure reproduction without recalculating the ensemble. All plotting is contained in the two notebooks. The full calculation uses 2,048 paired conditional draws plus the deterministic baseline. Run times depend on the processor and first-use Numba compilation.
+
+## Inventory reproduction
+
+The default calculation reads extracted GREET production outputs. To rerun the native inventory, obtain R&D GREET 2025 Rev.1 directly from Argonne (https://greet.anl.gov/) under its terms and place the energy and material workbooks in `input/GREET_2025_Rev1`. Microsoft Excel and trusted GREET VBA functions are required. Source workbooks are opened read-only. The workbooks are not redistributed in this archive.
 
 ```powershell
-.\environment\setup.ps1
-.\environment\.venv\Scripts\python.exe code/run.py all
+./code/run_greet_cases.ps1
+./code/run_greet_cases.ps1 -InputName greet_low_cost_inputs.json -ResultName greet_low_cost_results
+./code/run_greet_cases.ps1 -InputName greet_high_cost_inputs.json -ResultName greet_high_cost_results
+python code/combine_inventory.py
 ```
 
-On Linux or macOS:
+The expected filenames are `R&D GREET1_2025_Rev1.xlsm` and `R&D GREET2_2025_Rev1.xlsm`. Rerun `python code/run.py --mode all` after generating all native inventory cases. Complete files in `output/inventory` take precedence over the supplied inventory extracts.
 
-```bash
-python3.12 -m venv environment/.venv
-environment/.venv/bin/python -m pip install -r environment/requirements-lock.txt
-environment/.venv/bin/python code/run.py all
-```
+Reference results contain frozen supplies, regional transition and additional wind procurement. Low/high zero-carbon technology cost pathways are distinct from procurement. Native source supply regions are retained; the model does not treat every upstream input as Chinese electricity.
 
-The complete pipeline calculates the baseline, 2,048 paired parameter draws, matched-electricity comparisons and supplementary analyses, then executes both plotting notebooks and verifies the results. No downloads are required during calculation. Runtime depends on the machine and includes numerical compilation on the first run.
+## Scope
 
-| Stage | Operation |
-| --- | --- |
-| `baseline` | Physical ledgers at 50% and 75% final coverage and baseline cohort accounting |
-| `uncertainty` | Parameter sensitivity at 75% coverage |
-| `main-data` | Main-figure calculations and matched-electricity comparisons |
-| `selection` | Alternative regional selection rules and grid diagnostic |
-| `supplementary-data` | Structural sensitivities, coverage scans and national milestones |
-| `figures` | Execute `code/main_figures.ipynb` |
-| `supplementary-figures` | Execute `code/supplementary_figures.ipynb` |
-| `verify` | Check accounting invariants and main-figure source data |
+Baseline final coverage is 75% of calibrated roof-reference area; deployment comparisons match cumulative electricity delivered by uniform 50% coverage. Export absorption is assumed. PV burdens are allocated to generation service; storage production is charged at installation or replacement, and auxiliary production only at capacity expansion. End-of-life treatment is excluded. Archived spatial inputs reproduce the reported analysis; they do not reconstruct missing product snapshots or projection metadata. Scenario percentiles are not confidence intervals.
 
-Stages run in this order with `all`. Individual plotting stages require the preceding calculation outputs. The notebooks can also be run interactively in a notebook-capable editor using the configured Python environment. Figure S1 is a system schematic and is not produced by the numerical plotting notebooks.
+The extracted inventory outputs replace aggregate carbon terms from the physical evaluator. Four inactive scalar dimensions in the input vectors are retained for numerical interface compatibility; only the fourteen active dimensions described in the manuscript affect the final results. The initial battery scalar divided by 80 rescales the GREET pack factor and does not rescale auxiliary infrastructure.
 
-## Accounting
+## Reference results
 
-The baseline uses China as the manufacturing reference and couples its electricity trajectory to module production by installation year. An existing installation retains its original manufacturing burden. Manufacturing burdens include upstream life-cycle processes and are not a territorial emissions inventory for China. Source technology coefficients are interpolated through 2034 and then held; the manufacturing electricity trajectory continues through 2050. Freight, balance-of-system equipment and inverter production coefficients remain fixed unless varied explicitly.
+At 75% final roof-reference coverage, cumulative net mitigation is 120.02454030015716 Gt CO2e. Sweden, Norway, Paraguay, Switzerland and Iceland have cumulative net emissions totalling 46.0521924520253 Mt CO2e. The ensemble varies fourteen active parameters across 2,048 paired draws.
 
-PV production burdens are allocated over generation service; batteries are accounted for at production and replacement events. The raw physical kernel retains two inactive aggregate-PV fields for its parameter-array interface. Its aggregate PV burden is replaced by the cohort account before results are reported; neither field is an additional final-model emission term. Sixteen parameters vary across the supplied draws. Positive net balances indicate mitigation. Quantiles describe parameter sensitivity, not statistical confidence intervals.
+## Figure source data
 
-At 75% final roof-reference coverage, the baseline produces 117.6119047 Gt CO₂e of cumulative net mitigation and six net-emitting countries with combined net emissions of 75.6457542 Mt CO₂e.
-
-The model starts from the processed grid inputs under `input/grids`. It does not download or reconstruct the original building polygons or meteorological archives. Source provenance and parameter definitions are recorded in [input documentation](input/README.md). Main-figure plotting values are provided as 17 CSV tables and one matching Excel workbook under `output/Source_Data`.
-
-See [environment setup](environment/SETUP.md) and [package versions](environment/PACKAGES.md).
+`output/Source_Data/Main_Figure_Source_Data.xlsx` contains 18 worksheets for Figures 1–5. `output/Source_Data/Supplementary_Figure_Source_Data.xlsx` contains 12 worksheets for Figures S2–S9. Matching CSV files are stored alongside these workbooks. Figure S1 is a system schematic without numerical plotting data.

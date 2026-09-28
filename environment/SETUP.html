@@ -1,17 +1,14 @@
-<!doctype html><html lang="en"><meta charset="utf-8"><title>Python environment setup</title><style>body{font:16px/1.6 system-ui;max-width:900px;margin:50px auto;padding:0 20px}pre{white-space:pre-wrap}</style><body><pre># Python environment setup
+<!doctype html><html lang="en"><meta charset="utf-8"><title>SETUP</title><style>body{font:16px/1.6 Arial;max-width:900px;margin:40px auto}pre{white-space:pre-wrap}</style><body><pre># Python environment
 
-The recorded numerical and plotting environment uses Python 3.12.14, Windows 64-bit. Exact package versions are listed in `requirements-lock.txt` and [PACKAGES.md](PACKAGES.md).
+Validated on Windows with Python 3.12.14 (64-bit).
 
 ```powershell
-.\environment\setup.ps1
-.\environment\.venv\Scripts\python.exe code/run.py all
+py -3.12 -m venv .venv
+.venv/Scripts/python -m pip install -r environment/requirements-lock.txt
+.venv/Scripts/python code/run.py --mode baseline
 ```
 
-The setup script creates `environment/.venv`, installs the pinned packages and checks their installed versions. A Python 3.12 installation with the Windows Python launcher is required. Installation requires internet access; the calculation itself uses the supplied inputs without downloads.
+Run commands from the project root. Use `--mode all` for all numerical results, `--mode figures` for the five main figures and `--mode supplementary-figures` for supplementary figures S2–S9. The notebook runner executes the notebook cells directly; a Jupyter installation is not required. A notebook editor can be installed separately if desired.
 
-For Linux and macOS, create the virtual environment with `python3.12 -m venv environment/.venv`, install `environment/requirements-lock.txt`, and use `environment/.venv/bin/python` to run `code/run.py all`. These platforms have not been independently validated.
-
-All plotting code is in `code/main_figures.ipynb` and `code/supplementary_figures.ipynb`. The command-line runner executes their code cells directly, so a Jupyter server is not required. Interactive notebook use additionally requires the notebook support provided by the chosen editor.
-
-The figure templates prefer Arial and fall back to DejaVu Sans. Font substitution may change label geometry on machines without Arial. Generated figures and numerical working files are stored under `output` and excluded from Git; the supplied main-figure source tables remain tracked.
+The Python workflow uses supplied extracted inventory factors. Native GREET recalculation additionally requires Windows, Microsoft Excel and the original R&amp;D GREET 2025 Rev.1 energy/material workbooks obtained from Argonne. The validated Excel version was 16.0, build 20326. The GREET workbooks and Microsoft Excel are not included.
 </pre></body></html>

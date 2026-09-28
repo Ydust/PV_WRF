@@ -1,0 +1,221 @@
+strategy,country_tag,net_mt
+Uniform,argentina,436.02438330348576
+Uniform,australia,1151.18872145357
+Uniform,bangladesh,604.4201993307344
+Uniform,brazil,461.0725047976959
+Uniform,china,16750.628104182582
+Uniform,costa_rica,1.4428391176468445
+Uniform,egypt,769.148974097938
+Uniform,ethiopia,16.672337889406304
+Uniform,france,54.890235514250676
+Uniform,germany,565.9939482948124
+Uniform,greece,170.34845461530526
+Uniform,iceland,-0.47286770984409465
+Uniform,india,9679.601574493405
+Uniform,indonesia,4071.9076940380414
+Uniform,iran,609.8851014691422
+Uniform,israel,178.60235509025816
+Uniform,italy,357.553153034844
+Uniform,japan,2514.867270155479
+Uniform,kenya,124.07399477948967
+Uniform,kuwait,4.042663938522637
+Uniform,malaysia,731.4778114128245
+Uniform,mexico,1167.6950721301862
+Uniform,nigeria,1629.1871582658337
+Uniform,norway,-6.458020652591068
+Uniform,pakistan,1411.2714413245312
+Uniform,paraguay,-2.6173365817030527
+Uniform,peru,178.36509456363376
+Uniform,philippines,495.7130514398238
+Uniform,row,22627.64634487514
+Uniform,russia,2397.621990736734
+Uniform,saudi_arabia,763.983309045048
+Uniform,south_africa,1860.026633053683
+Uniform,spain,194.10125705194264
+Uniform,sri_lanka,91.63519745973636
+Uniform,sweden,-9.528254443743247
+Uniform,switzerland,-0.09445618797588196
+Uniform,taiwan,412.76217569521344
+Uniform,thailand,1589.0630792070594
+Uniform,turkey,1519.7677648879255
+Uniform,uae,28.387232775844126
+Uniform,uk,139.3138098012455
+Uniform,uruguay,7.0149481714536535
+Uniform,usa,7604.513976533439
+Uniform,vietnam,1323.088588395807
+Screened,argentina,438.5534732647355
+Screened,australia,1157.965856991941
+Screened,bangladesh,608.1909213740071
+Screened,brazil,463.44402269096133
+Screened,china,16851.373423955487
+Screened,costa_rica,1.4440537973048237
+Screened,egypt,773.8061048160719
+Screened,ethiopia,16.75690806480151
+Screened,france,54.80059877015468
+Screened,germany,568.9988788886786
+Screened,greece,171.322503263913
+Screened,iceland,0.0
+Screened,india,9739.082739725976
+Screened,indonesia,4096.664490034457
+Screened,iran,613.5935868866645
+Screened,israel,179.66778830244525
+Screened,italy,359.5342843312367
+Screened,japan,2529.5599981622654
+Screened,kenya,124.74289583515701
+Screened,kuwait,4.071560001701687
+Screened,malaysia,735.9266775200213
+Screened,mexico,1174.6604513384357
+Screened,nigeria,1639.022149066822
+Screened,norway,0.0
+Screened,pakistan,1419.6240992166393
+Screened,paraguay,0.0
+Screened,peru,179.38792644612707
+Screened,philippines,498.7939235814374
+Screened,row,22760.136401591895
+Screened,russia,2410.819041081842
+Screened,saudi_arabia,768.6453880990496
+Screened,south_africa,1871.0939544878356
+Screened,spain,195.08914621362672
+Screened,sri_lanka,92.19952755356088
+Screened,sweden,0.0
+Screened,switzerland,0.0
+Screened,taiwan,415.23806115187097
+Screened,thailand,1598.6169544460638
+Screened,turkey,1528.571335265746
+Screened,uae,28.559373710834734
+Screened,uk,139.9409282306142
+Screened,uruguay,7.045601935798828
+Screened,usa,7648.0050164413815
+Screened,vietnam,1331.0988938631806
+Yield per roof,argentina,446.2595445088
+Yield per roof,australia,1178.626695401685
+Yield per roof,bangladesh,619.6884000337604
+Yield per roof,brazil,470.64191121091454
+Yield per roof,china,17158.455787562707
+Yield per roof,costa_rica,1.4471129699767893
+Yield per roof,egypt,788.0035911770368
+Yield per roof,ethiopia,17.013221933809056
+Yield per roof,france,54.49280477292981
+Yield per roof,germany,0.0
+Yield per roof,greece,174.2894214051708
+Yield per roof,iceland,0.0
+Yield per roof,india,9920.457437515253
+Yield per roof,indonesia,4172.189324302053
+Yield per roof,iran,624.8976586673725
+Yield per roof,israel,182.91549185555135
+Yield per roof,italy,365.56238671497704
+Yield per roof,japan,2574.3325333353732
+Yield per roof,kenya,126.77678328167106
+Yield per roof,kuwait,4.159656094912891
+Yield per roof,malaysia,749.497774987728
+Yield per roof,mexico,1195.8936327877927
+Yield per roof,nigeria,1669.0188997429666
+Yield per roof,norway,0.0
+Yield per roof,pakistan,1445.0794828134417
+Yield per roof,paraguay,-2.828612863087118
+Yield per roof,peru,182.5036943300249
+Yield per roof,philippines,508.19048556564286
+Yield per roof,row,23163.868779178294
+Yield per roof,russia,2450.975393239043
+Yield per roof,saudi_arabia,782.8661436773494
+Yield per roof,south_africa,1904.8412390155886
+Yield per roof,spain,198.08748058205072
+Yield per roof,sri_lanka,93.92069875169841
+Yield per roof,sweden,0.0
+Yield per roof,switzerland,-0.25641300205194056
+Yield per roof,taiwan,422.78827835456013
+Yield per roof,thailand,1627.7556631059742
+Yield per roof,turkey,1555.3949811590808
+Yield per roof,uae,29.084380724910375
+Yield per roof,uk,0.0
+Yield per roof,uruguay,7.1381340853190745
+Yield per roof,usa,7780.469958593786
+Yield per roof,vietnam,1355.5278850598593
+Procurement,argentina,441.46093424612405
+Procurement,australia,1161.075264100618
+Procurement,bangladesh,608.3532963975773
+Procurement,brazil,486.8508599736359
+Procurement,china,16923.81167440995
+Procurement,costa_rica,1.8130168615432531
+Procurement,egypt,774.7829952679008
+Procurement,ethiopia,17.674594679614852
+Procurement,france,74.54879629280221
+Procurement,germany,586.3324209371301
+Procurement,greece,173.2162769791641
+Procurement,iceland,-0.38807860566688024
+Procurement,india,9739.39392136537
+Procurement,indonesia,4101.56816404302
+Procurement,iran,614.9648231319491
+Procurement,israel,180.1420301417545
+Procurement,italy,367.0100375917716
+Procurement,japan,2553.359938989634
+Procurement,kenya,128.6344386066112
+Procurement,kuwait,4.077328210903703
+Procurement,malaysia,737.7279037341882
+Procurement,mexico,1179.5928685937163
+Procurement,nigeria,1641.2816079256318
+Procurement,norway,-5.183737013734358
+Procurement,pakistan,1423.919660354675
+Procurement,paraguay,-1.024395290422508
+Procurement,peru,182.05213477766864
+Procurement,philippines,500.1736239870237
+Procurement,row,22917.701436782183
+Procurement,russia,2437.785114622202
+Procurement,saudi_arabia,768.6177719782833
+Procurement,south_africa,1868.9431693842632
+Procurement,spain,203.4709668976357
+Procurement,sri_lanka,92.45058169749873
+Procurement,sweden,-6.473142535151348
+Procurement,switzerland,1.7484111388584038
+Procurement,taiwan,416.68424488477416
+Procurement,thailand,1602.0458403886832
+Procurement,turkey,1535.4032578420201
+Procurement,uae,28.56449255072439
+Procurement,uk,150.92248743596633
+Procurement,uruguay,7.582796408814784
+Procurement,usa,7743.089335148266
+Procurement,vietnam,1334.8376878499719
+Combined,argentina,444.0389449635327
+Combined,australia,1167.9414040723748
+Combined,bangladesh,612.1618837552528
+Combined,brazil,489.45458985754107
+Combined,china,17026.082231149223
+Combined,costa_rica,1.8177386233367074
+Combined,egypt,779.4967760268033
+Combined,ethiopia,17.768053560129324
+Combined,france,74.63287009137547
+Combined,germany,589.5134393128628
+Combined,greece,174.2159798899105
+Combined,iceland,0.0
+Combined,india,9799.449711910414
+Combined,indonesia,4126.59142998727
+Combined,iran,618.7194662529388
+Combined,israel,181.22286479396467
+Combined,italy,369.07584090275736
+Combined,japan,2568.3823258055395
+Combined,kenya,129.3438076238133
+Combined,kuwait,4.106565609914694
+Combined,malaysia,742.2320309748214
+Combined,mexico,1186.6733944196028
+Combined,nigeria,1651.2269128446069
+Combined,norway,0.0
+Combined,pakistan,1432.397009267314
+Combined,paraguay,0.0
+Combined,peru,183.10815996236363
+Combined,philippines,503.29469055670586
+Combined,row,23052.841221151335
+Combined,russia,2451.337951328753
+Combined,saudi_arabia,773.324077488825
+Combined,south_africa,1880.091364280438
+Combined,spain,204.542677205895
+Combined,sri_lanka,93.02241182224017
+Combined,sweden,0.0
+Combined,switzerland,0.0
+Combined,taiwan,419.19604516577334
+Combined,thailand,1611.7213673775932
+Combined,turkey,1544.3497989705095
+Combined,uae,28.738394846649385
+Combined,uk,151.6491230640865
+Combined,uruguay,7.618506961955818
+Combined,usa,7787.83757368418
+Combined,vietnam,1342.9559165927235

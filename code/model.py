@@ -305,5 +305,26 @@ def annual_frame(inputs, values, final_cover):
             rows.append(rec)
     return pd.DataFrame(rows)
 
-if __name__ == '__main__':
-    raise SystemExit('Run python code/run.py baseline to apply manufacturing-cohort accounting.')
+def run_baseline():
+    inputs=prepare_inputs()
+    frames=[]; summaries=[]
+    for coverage in [0,25,40,50,75]:
+        a,cells=evaluate(inputs,final_coverage=coverage,collect_cells=(coverage==75))
+        frames.append(annual_frame(inputs,a[0],coverage))
+        metrics=crossing_metrics(a)
+        for r,country in enumerate(inputs['regions']):
+            summaries.append(dict(country_tag=country,final_coverage_pct=coverage,**{k:v[0,r] for k,v in metrics.items()}))
+        if coverage==75:
+            cellout=inputs['meta'][['Id','lat_center','lon_center','country_tag','climate_zone','farea','people','battery_life']].copy()
+            for k,name in enumerate(FIELDS):cellout[('endpoint_' if k in (15,18) else 'cumulative_')+name]=cells[:,k]
+            cellout.to_csv(DATA/'grid_75.csv',index=False)
+        net=a[0,:,:,14].sum(axis=1)
+        print(f'coverage={coverage}: net={net.sum():.6f} Gt; negative={int((net<0).sum())}',flush=True)
+    ledger=pd.concat(frames,ignore_index=True)
+    ledger.to_csv(DATA/'annual_country_ledger.csv',index=False)
+    ledger.query('year == 2050').to_csv(DATA/'country_endpoints.csv',index=False)
+    pd.DataFrame(summaries).to_csv(DATA/'baseline_crossings.csv',index=False)
+    (DATA/'run_manifest.json').write_text(json.dumps(dict(boundary='retained export/absorption; not closed national demand',controls=asdict(Controls()),baseline_parameters=BASE,input_hashes=inputs['sources'],model_sha256=sha(__file__),regions=inputs['regions'],cells=len(inputs['cell']),years=YEARS.tolist(),limitations=['PV factor remains service allocated; event allowance is an SI sensitivity only','Inherited rooftop/population primary identity unresolved','Uniform initial roof/AC ages are study assumptions','Repeated-day dispatch verifies operation under assumed sink, not observed demand feasibility']),indent=2),encoding='utf-8')
+    return inputs
+
+if __name__=='__main__':run_baseline()

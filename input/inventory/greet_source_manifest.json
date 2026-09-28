@@ -1,0 +1,27 @@
+[
+  {
+    "file": "CCLUB_2025 Rev1.xlsm",
+    "bytes": 17587141,
+    "sha256": "f1350447aad61e717ce32541410a14745cf7415e5581656ffe2aff3d4f622cd9"
+  },
+  {
+    "file": "R&D Feedstock CI Calculator 2025 Rev1- Dynamic Version.xlsm",
+    "bytes": 13442662,
+    "sha256": "eeb360ff43f60d9c4ef2c9f6227eb982907404636fd41dc5dda1d8ba661d056d"
+  },
+  {
+    "file": "R&D GREET1_2025_Rev1.xlsm",
+    "bytes": 28220130,
+    "sha256": "0f6a5acb8a965537027f58422cf3f62cfc1639c7269979787c9b4edf4bc3ec16"
+  },
+  {
+    "file": "R&D GREET2_2025_Rev1.xlsm",
+    "bytes": 6653411,
+    "sha256": "3bbf68f621b17da8b71f16db91fc404be509d6dc5b5b020e9979d5fb3013d9c4"
+  },
+  {
+    "file": "STOCHASTIC.xla",
+    "bytes": 1758720,
+    "sha256": "d84033ddc8ef6a4ce213908625abe1ce321bc9fa7c4d0790a36a31d67f6b7799"
+  }
+]
