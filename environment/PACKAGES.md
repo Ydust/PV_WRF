@@ -1,27 +1,20 @@
 # Package versions
 
-| Package | Version |
+The five main figures were replayed on Windows with Python 3.11.15. The original plotting environment and the existing project PyMuPDF runtime supplied these packages; a new standalone environment has not been tested.
+
+| Package | Observed version |
 |---|---|
-| cartopy | 0.26.0 |
-| certifi | 2026.7.22 |
-| contourpy | 1.4.0 |
-| cycler | 0.12.1 |
-| et-xmlfile | 2.0.0 |
-| fonttools | 4.66.0 |
-| kiwisolver | 1.5.1 |
-| llvmlite | 0.49.0 |
-| matplotlib | 3.11.1 |
-| numba | 0.67.0 |
-| numpy | 2.3.5 |
+| Pillow | 10.4.0 |
+| PyMuPDF | 1.28.2 |
+| cartopy | 0.24.0 |
+| lxml | 6.1.1 |
+| matplotlib | 3.11.0 |
+| numpy | 1.26.4 |
 | openpyxl | 3.1.5 |
-| packaging | 26.3 |
-| pandas | 3.0.1 |
-| pillow | 12.3.0 |
-| pyparsing | 3.3.3 |
-| pypdf | 6.10.0 |
-| pyproj | 3.8.0 |
+| pandas | 2.2.3 |
+| pyproj | 3.7.2 |
 | pyshp | 3.1.6 |
-| python-dateutil | 2.9.0.post0 |
+| scipy | 1.14.1 |
 | shapely | 2.1.2 |
-| six | 1.17.0 |
-| tzdata | 2026.3 |
+
+Numba 0.61.2 and llvmlite 0.44.0 are retained for the historical numerical kernel and are unnecessary for figure-only execution. The prior September environment is recorded separately in observed_environment.json.

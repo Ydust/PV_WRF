@@ -1,3 +1,25 @@
+# Rooftop PV carbon-balance research
+
+Sustaining rooftop solar carbon benefits under decarbonizing grids and supply chains
+
+## Current main figures and plotting environment 2026-10-09
+
+This update synchronizes the five main figures, their frozen processed data and the plotting environment with the current submission. Existing repository directories, tracked filenames, notebook structure and run modes are preserved. No new repository file or directory is introduced.
+
+```bash
+python code/run.py --mode figures
+```
+
+The existing main_figures.ipynb contains eight cells and reads current output/Source_Data/CSV tables directly. All five PNG outputs were pixel-identical to the submission figures in the actual replay. The current account reports 108.56632338772748 Gt CO2e of cumulative net mitigation and seven negative cumulative country balances, using production/replacement and quantified-retirement events. Figure 2 adds a declared conditional reference-building correction; it is not a national measured effect.
+
+Environment pins and setup are in the existing environment folder. Exact data-copy hashes, join definitions, units and figure-specific boundaries are documented in input/README.md. The existing main source-data workbook is synchronized. The notebook keeps original colours, scientific plot grammar and final whitespace trimming.
+
+The numerical kernel, baseline/all calculations and supplementary notebook remain the September snapshot. They have not been upgraded to the October model in this figure/environment-only update. Current main graphics replay the frozen October source values; they do not rerun that model. Do not use the retained numerical modes or supplementary graphics as evidence that the October account was recomputed here.
+
+## Retained September numerical snapshot
+
+The following original documentation describes the retained September calculation workflow and its historical results, rather than the current main-figure release.
+
 # Rooftop PV carbon accounting
 
 Production-cohort accounting for rooftop PV deployment during 2025–2050, with separate manufacturing-region and deployment-region electricity pathways.

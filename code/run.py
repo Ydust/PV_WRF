@@ -3,20 +3,22 @@ from pathlib import Path
 import argparse,json,os,shutil
 import numpy as np
 import pandas as pd
-import prepare_main_figure_data as f
+from paths import ROOT
 
 def notebook(name):
-    os.chdir(f.ROOT)
+    os.chdir(ROOT)
     scope={'__name__':'__main__'}
-    for cell in json.loads((f.ROOT/'code'/name).read_text(encoding='utf-8'))['cells']:
+    for cell in json.loads((ROOT/'code'/name).read_text(encoding='utf-8'))['cells']:
         if cell['cell_type']=='code':exec(compile(''.join(cell['source']),name,'exec'),scope)
 
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('--mode',choices=['baseline','all','figures','supplementary-figures'],default='baseline');a=ap.parse_args()
     if a.mode=='figures':notebook('main_figures.ipynb');return
     if a.mode=='supplementary-figures':notebook('supplementary_figures.ipynb');return
+    import prepare_main_figure_data as f
+    print("Numerical baseline/all modes retain the September model; current submission graphics use frozen October source tables.")
     x=f.m.prepare_inputs()
-    for cov in [50,75]:np.save(f.ROOT/f'output/reference_{cov}.npy',f.m.evaluate(x,final_coverage=cov)[0][0])
+    for cov in [50,75]:np.save(ROOT/f'output/reference_{cov}.npy',f.m.evaluate(x,final_coverage=cov)[0][0])
     if a.mode=='all':f.physical_cache()
     f.main(baseline_only=a.mode=='baseline')
     if a.mode=='all':

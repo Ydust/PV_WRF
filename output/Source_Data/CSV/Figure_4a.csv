@@ -1,9 +1,10 @@
-intervention,reduction_pct
-Coverage 75 to 25%,87.94107318364279
-Manufacturing renewable procurement,29.871595135715868
-Direct use +20 pp,21.383561401846062
-Battery footprint halved,20.838859591946388
-Roof credit doubled,12.04565153769733
-Low-emission manufacturing,7.49835389294083
-Battery life +50%,1.075478271557356
-Cooling demand halved,0.3699884079837908
+intervention,reduction_pct,electricity_change_pct,negative_pool_countries
+Smelter P3 + three changes,79.25240853602193,18.780514553009063,brazil;costa_rica;ethiopia;france;germany;iceland;norway;paraguay;spain;sweden;switzerland;uk;uruguay
+All three changes,69.69259200683031,18.780514553009063,brazil;costa_rica;ethiopia;france;germany;iceland;norway;paraguay;spain;sweden;switzerland;uk;uruguay
+PV without storage,63.148769616711405,20.696176377399045,brazil;costa_rica;ethiopia;france;germany;iceland;norway;paraguay;spain;sweden;switzerland;uk;uruguay
+Half storage + procurement,62.76778306072271,8.596789999915512,brazil;costa_rica;ethiopia;france;germany;iceland;norway;paraguay;spain;sweden;switzerland;uk;uruguay
+Half storage + direct use,49.34749942817792,18.780514553009063,brazil;costa_rica;ethiopia;france;germany;iceland;norway;paraguay;spain;sweden;switzerland;uk;uruguay
+Manufacturing procurement,37.37367815841074,0.0,brazil;costa_rica;ethiopia;france;germany;iceland;norway;paraguay;spain;sweden;switzerland;uk;uruguay
+Half-size storage,34.89701395122621,8.596789999915512,brazil;costa_rica;ethiopia;france;germany;iceland;norway;paraguay;spain;sweden;switzerland;uk;uruguay
+Smelter power P3,34.17955773823477,0.0,brazil;costa_rica;ethiopia;france;germany;iceland;norway;paraguay;spain;sweden;switzerland;uk;uruguay
+Direct use +20 pp,28.260599370551652,12.670326055182057,brazil;costa_rica;ethiopia;france;germany;iceland;norway;paraguay;spain;sweden;switzerland;uk;uruguay

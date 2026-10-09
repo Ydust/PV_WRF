@@ -1,13 +1,17 @@
 # Python environment
 
-Validated on Windows with Python 3.12.14 (64-bit).
+The current main-figure workflow was tested on Windows using Python 3.11.15 and the versions listed in requirements-lock.txt. Five generated PNGs were pixel-identical to the 2026-10-09 submission figures. This is a plotting replay from frozen processed data, not a rerun of the current national numerical model.
 
 ```powershell
-py -3.12 -m venv .venv
+py -3.11 -m venv .venv
 .venv/Scripts/python -m pip install -r environment/requirements-lock.txt
-.venv/Scripts/python code/run.py --mode baseline
+.venv/Scripts/python code/run.py --mode figures
 ```
 
-Run commands from the project root. Use `--mode all` for all numerical results, `--mode figures` for the five main figures and `--mode supplementary-figures` for supplementary figures S2–S9. The notebook runner executes the notebook cells directly; a Jupyter installation is not required. A notebook editor can be installed separately if desired.
+Run from the project root. No Jupyter installation is required: the existing runner executes the eight notebook cells directly. Final PDF, SVG, PNG and TIFF files are written to output/Main_Figures; alignment and whitespace-trimming checks are written to checks/main_figures. Existing Natural Earth assets in input/maps are used.
 
-The Python workflow uses supplied extracted inventory factors. Native GREET recalculation additionally requires Windows, Microsoft Excel and the original R&D GREET 2025 Rev.1 energy/material workbooks obtained from Argonne. The validated Excel version was 16.0, build 20326. The GREET workbooks and Microsoft Excel are not included.
+The actual replay used the original plotting environment plus its existing PyMuPDF runtime. The package pins and commands describe a standalone setup; a fresh installation of that setup has not been tested. Windows Conda environments retain the original Library/bin DLL-loading step, guarded by directory existence. NumPy, Pandas and plotting libraries are imported from the plotting environment, rather than shadowed by an auxiliary runtime.
+
+The baseline/all modes and supplementary notebook retain the September numerical snapshot. Their outputs must not be presented as the current October submission account. The main notebook reads the frozen October output/Source_Data/CSV files directly and does not overwrite them. Full October numerical-model and SI synchronization is outside this figure/environment update.
+
+Native GREET recalculation additionally requires Windows, Microsoft Excel and the original R&D GREET 2025 Rev.1 workbooks from Argonne. Those workbooks and Excel are not redistributed here.

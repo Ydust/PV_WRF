@@ -1,7 +1,7 @@
-climate_zone,temperature_c,offset_pct
-humid_continental_temperate,8.378693,4.58556150528948
-humid_subtropical_dense,19.792267,3.9932297012432425
-tropical_wet_dense,25.3144075,6.354299737886033
-hot_arid_sparse,26.282501,2.2841158538851323
-hot_arid_dense_riverine,27.895447,4.675530924790475
-hot_arid_low_density,28.69574,6.697802298266921
+climate_zone,offset_pct,all_cells,eligible_cells
+humid_continental_temperate,4.81527598035084,4257,4029
+humid_subtropical_dense,2.848031316757227,3241,3213
+tropical_wet_dense,2.482884292356638,2280,2256
+hot_arid_sparse,1.7204607466710162,771,771
+hot_arid_dense_riverine,2.498524191227161,189,189
+hot_arid_low_density,2.441802576797984,309,309
