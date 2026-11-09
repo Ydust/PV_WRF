@@ -1,0 +1,314 @@
+{
+  "baseline_repository_commit": "3ec0b9255fc15226150b8a43a1aca88d56f53cc6",
+  "model": "Framework for Assessing the Persistence of Carbon Mitigation Benefits from Rooftop Photovoltaics",
+  "submission_figure_png_sha256": {
+    "Figure1_en.png": "f651df49e1e50f0b833ec0ca1e9b366077413ea1b91457ec45505447f7b9f20e",
+    "Figure2_en.png": "755c542ed4f168d871e861a020259f682ed68fb2065b1fadce3a1353f2ebbe12",
+    "Figure3_en.png": "884c2a6c6753097e9f97f39425c88c0669ad68445a36aeb37b013a648fbf2e4b",
+    "Figure4_en.png": "9aa045bfac5e0d926b724a93234d9f382ca15f74e5c73667e9a12c5e82dfbc55",
+    "Figure5_en.png": "8456b08a3003159f9d7083619421bb365c6cfd482e78692ca37162ee8e1ccb4b",
+    "Figure6_en.png": "ba392c16a9851bfbd7e4386332f051c5fab14192b53c1cf5f9e6c16393250269"
+  },
+  "files": {
+    "figures/figure1.py": {
+      "source": "figure1_smooth_arcs_20261109/code/draw.py",
+      "source_sha256": "1dfa0c41573b747dca98d4e951673583889fc6cb161bfa64baf0a7c574b0d088",
+      "release_sha256": "1ac0dcb255595c8eaa74cf6ddbe7e11e48423da1ead350e248c3d9966ddcf03f"
+    },
+    "figures/figure2.py": {
+      "source": "figure2_inset_legend_scaled_rings_20261109/code/draw.py",
+      "source_sha256": "c38ac762ff290c9f4c967890a5e61377617b03089966b3119a9ecba724ea3277",
+      "release_sha256": "df942ca96917ca5b96cb0f4e04d2c412216daab27888811b1d240a0eb5965c26"
+    },
+    "figures/figure3.py": {
+      "source": "supplementary_information_journal_20261109/qa/figure3_authors_qa/draw_figure3.py",
+      "source_sha256": "7e14b7214589ce0b19a04971d543d569c166445c7f1e372cef9e177d9ae79f53",
+      "release_sha256": "a887cb1e5bf4a77d3d9a985f27fdbb97dbd666f204b5cdc4947b0f130a98d80f"
+    },
+    "figures/figure4.py": {
+      "source": "figure4_outside_legend_raised_20261106/code/draw.py",
+      "source_sha256": "89381124705ffe0c3b4e19a691bc96aa0c37eb3a78745a6ea0a71891a778ff8e",
+      "release_sha256": "8c820e23f900f1213016f4be8bb1ba54caa6136b8d0328a7c99fcd867c9cad0d"
+    },
+    "figures/figure5.py": {
+      "source": "figure5_separate_row_ylabels_20261106/code/draw.py",
+      "source_sha256": "6a199f49a3b64955746be7949d9617be74fba428d2fb5d485bf5df4c806a26ca",
+      "release_sha256": "435695a8b1e7191044d1880ac301dd2a3a87f94dc931df0d592a3de1c99cd2b4"
+    },
+    "figures/figure6.py": {
+      "source": "figure6_colorbar_upper_left_20261106/code/draw.py",
+      "source_sha256": "6441b4ee769a5a5fb796153e2f183859911b996e5ea34d30412083bfcff559c0",
+      "release_sha256": "2bec98fc72b7508e796e92d2c73752ffe8ddc04006b78d445853ff3b515fd8af"
+    },
+    "data/figure2/national_reference_events.csv": {
+      "source": "figure2_compact_rings_20261104/source_data/national_reference_events.csv",
+      "source_sha256": "d643826288d09980af7af0cde2a162cdbcb2b1cf4a9c0ffe287bc1f66cdeb350",
+      "release_sha256": "d643826288d09980af7af0cde2a162cdbcb2b1cf4a9c0ffe287bc1f66cdeb350"
+    },
+    "data/figure2/reference_curves.json": {
+      "source": "figure2_compact_rings_20261104/source_data/reference_curves.json",
+      "source_sha256": "ed3461fb145860d68a7eb6d579850fba66bcb8baca4f9047de7365c510eab880",
+      "release_sha256": "ed3461fb145860d68a7eb6d579850fba66bcb8baca4f9047de7365c510eab880"
+    },
+    "data/figure2/all_configuration_envelope.json": {
+      "source": "figure2_compact_rings_20261104/source_data/all_configuration_envelope.json",
+      "source_sha256": "05343abf9317679705be3a2c4f5e662bc5fe2941e4af8b6c61f6caa6c36b4772",
+      "release_sha256": "05343abf9317679705be3a2c4f5e662bc5fe2941e4af8b6c61f6caa6c36b4772"
+    },
+    "data/figure2/ring_statistics.json": {
+      "source": "figure2_compact_rings_20261104/source_data/ring_statistics.json",
+      "source_sha256": "041d3579b8d586895fa945d98524eca0b416dcd76599cab103b854588ef31b51",
+      "release_sha256": "041d3579b8d586895fa945d98524eca0b416dcd76599cab103b854588ef31b51"
+    },
+    "data/figure3/parameter_time_and_state_response.csv": {
+      "source": "figure3_raincloud_no_median_20261103/source_data/parameter_time_and_state_response.csv",
+      "source_sha256": "359d3cf76f67e27af8f79901a750a1c9a47154375aa74eeec28f510ef67e5d65",
+      "release_sha256": "359d3cf76f67e27af8f79901a750a1c9a47154375aa74eeec28f510ef67e5d65"
+    },
+    "data/figure4/paired_national_effects.csv": {
+      "source": "figure4_national_maps_clean_exportfixed_20261104/source_data/paired_national_effects.csv",
+      "source_sha256": "732ac94e449bdc277ca0a313f1091f7e65e1d2c6813a95d97b638081d333c35a",
+      "release_sha256": "732ac94e449bdc277ca0a313f1091f7e65e1d2c6813a95d97b638081d333c35a"
+    },
+    "data/figure5/figure5_all_fixed_country_records.parquet": {
+      "source": "figure5_coverage_in_caption_20261104/source_data/figure5_all_fixed_country_records.parquet",
+      "source_sha256": "79b5e714f273cccf58986b06c71f9addc6c9f41b67846361d766eea07f6306f5",
+      "release_sha256": "79b5e714f273cccf58986b06c71f9addc6c9f41b67846361d766eea07f6306f5"
+    },
+    "data/figure5/figure5_timing_coverage.csv": {
+      "source": "figure5_coverage_in_caption_20261104/source_data/figure5_timing_coverage.csv",
+      "source_sha256": "a622b8cdce9e4cfd63aada17578b5a352e9a5d90a44b38410734978b438fa651",
+      "release_sha256": "a622b8cdce9e4cfd63aada17578b5a352e9a5d90a44b38410734978b438fa651"
+    },
+    "data/figure5/figure5_full_group_process.csv": {
+      "source": "figure5_coverage_in_caption_20261104/source_data/figure5_full_group_process.csv",
+      "source_sha256": "3061c3bdf196a1c4a793b66255e118386ed121df260163abebf185a1175766a8",
+      "release_sha256": "3061c3bdf196a1c4a793b66255e118386ed121df260163abebf185a1175766a8"
+    },
+    "data/figure6/map_values.csv": {
+      "source": "figure6_legend_tight_labels_20261104/source_data/map_values.csv",
+      "source_sha256": "9ff4acab9a1f0f6521cf8780e5bcd3bcbd6d385811787433adfd5475085e7504",
+      "release_sha256": "9ff4acab9a1f0f6521cf8780e5bcd3bcbd6d385811787433adfd5475085e7504"
+    },
+    "data/figure6/plotted_bar_values.csv": {
+      "source": "figure6_legend_tight_labels_20261104/source_data/plotted_bar_values.csv",
+      "source_sha256": "ac4e2f208b7efcec7f08e9bd3d90e14ba7f776bedc0e003927b6a3ff814b22a6",
+      "release_sha256": "ac4e2f208b7efcec7f08e9bd3d90e14ba7f776bedc0e003927b6a3ff814b22a6"
+    },
+    "data/figure6/bivariate_palette.json": {
+      "source": "figure6_legend_tight_labels_20261104/source_data/bivariate_palette.json",
+      "source_sha256": "16a33b7e8622720cdb772d62d00b47d3af8e8bf93d1af84f127cbf6687db1d18",
+      "release_sha256": "16a33b7e8622720cdb772d62d00b47d3af8e8bf93d1af84f127cbf6687db1d18"
+    },
+    "data/figure3/scenario_dominant_continent.csv": {
+      "source": "figure3_centered_legends_caption_notes_20261106/source_data/scenario_dominant_continent.csv",
+      "source_sha256": "c9e8000c345fc0251d98a70b89c2b8d8c8448f7c6d15728ff11f97454c1c016c",
+      "release_sha256": "c9e8000c345fc0251d98a70b89c2b8d8c8448f7c6d15728ff11f97454c1c016c"
+    },
+    "data/figure6/legend_anchor.json": {
+      "source": "figure6_taller_cost_panel_20261106/qa/Figure6_en.data.json",
+      "source_sha256": "d91371d281367bc54cdbeb227c0d6ca30adfc75087d44c32db7529ce5faa1ebf",
+      "release_sha256": "9fd8937b48e85b6f900ce3261f1c192376abb991921844e458f01ee8a9221ba5"
+    },
+    "model/research/outputs/opening_balance_reference_cohorts_20261102/code/classify.cjs": {
+      "source": "opening_balance_reference_cohorts_20261102/code/classify.cjs",
+      "source_sha256": "9045c886688080dbdd9e01ca4be5514fcd188a74b818470d2fa047060eded703",
+      "release_sha256": "9045c886688080dbdd9e01ca4be5514fcd188a74b818470d2fa047060eded703"
+    },
+    "model/research/outputs/opening_balance_reference_cohorts_20261102/code/recompute_reference.cjs": {
+      "source": "opening_balance_reference_cohorts_20261102/code/recompute_reference.cjs",
+      "source_sha256": "2dfed800129f21772991f7a447f638e92664f8138f3d2b8de3f471ba1a513621",
+      "release_sha256": "3e2a7a38d157bc66d62b3f184d944638592277e3bdc5425506e1a8451216c706"
+    },
+    "model/research/outputs/opening_balance_reference_cohorts_20261102/code/prepare_inputs.py": {
+      "source": "opening_balance_reference_cohorts_20261102/code/prepare_inputs.py",
+      "source_sha256": "49e41c0c174e171e15932b28db20593cf2feb9e2bedb0d205230f4eb24605546",
+      "release_sha256": "bea00d4d0279a1e6803dfef1130768cd1e2f9d683dad18f99f5d6ff866929249"
+    },
+    "model/research/outputs/opening_balance_reference_cohorts_20261102/code/audit_and_freeze.py": {
+      "source": "opening_balance_reference_cohorts_20261102/code/audit_and_freeze.py",
+      "source_sha256": "08a1033150df3c6216564ecc4994d10232bdf8987cf340410bd1f621dc6329c3",
+      "release_sha256": "ae941a143f0a726a77d50e21c54d16c9f9f2505267954af4206b580eb723caaa"
+    },
+    "model/research/outputs/figures3_5_unified_time_metric_20261102/code/recompute.cjs": {
+      "source": "figures3_5_unified_time_metric_20261102/code/recompute.cjs",
+      "source_sha256": "3fee6eafe01925fd6c526b692333d731cffc0690162c83c84d4928408e121252",
+      "release_sha256": "db66c92b2be2ddeaf93cc03dae30e76dd85632328f47ec3b15c3ed0f35c29c67"
+    },
+    "model/research/outputs/figures3_5_unified_time_metric_20261102/code/history_operation_core.js": {
+      "source": "figures3_5_unified_time_metric_20261102/code/history_operation_core.js",
+      "source_sha256": "b6d665d625c96803677ea8293edb8599a35d6c5ea147216644fe57fc432d99bb",
+      "release_sha256": "6846c050450babe0fa75611759e93f0d9e43dcc08be4b574f19721f120b12348"
+    },
+    "model/research/outputs/figures3_5_unified_time_metric_20261102/code/fast_curves.js": {
+      "source": "figures3_5_unified_time_metric_20261102/code/fast_curves.js",
+      "source_sha256": "b0e53112ef0a869d9478791d703c722917f088dfd85f04747b697dc12330748e",
+      "release_sha256": "b0e53112ef0a869d9478791d703c722917f088dfd85f04747b697dc12330748e"
+    },
+    "model/research/outputs/figures3_5_unified_time_metric_20261102/code/test_adapter.cjs": {
+      "source": "figures3_5_unified_time_metric_20261102/code/test_adapter.cjs",
+      "source_sha256": "a794f73952c40ff99a0205cf7b77157f49b69c6ca206716df7504c8a3d4a6bbc",
+      "release_sha256": "6ba6cd44f7eb47170066f91ec259cc45aea6b1e71182935f74570f09655282cd"
+    },
+    "model/research/outputs/figures3_5_unified_time_metric_20261102/code/prepare_analysis.py": {
+      "source": "figures3_5_unified_time_metric_20261102/code/prepare_analysis.py",
+      "source_sha256": "765d685b3cef4d45deffb89d33fac3340da832dcd97826a215dfcdba024afd1a",
+      "release_sha256": "7e5bc965fcb0c8a3ae62b6828b0a68fe35581901879c6d2a14fc4bf1ab67be58"
+    },
+    "model/research/outputs/figures3_5_unified_time_metric_20261102/code/merge_parts.cjs": {
+      "source": "figures3_5_unified_time_metric_20261102/code/merge_parts.cjs",
+      "source_sha256": "d0da2bface52b971c95ba824ee5bc9db7c44b0eb8f82561e987e6ce9d2b79101",
+      "release_sha256": "d0da2bface52b971c95ba824ee5bc9db7c44b0eb8f82561e987e6ce9d2b79101"
+    },
+    "model/research/outputs/figure5_storage_export_joint_20261030/code/exact_operation_core.js": {
+      "source": "figure5_storage_export_joint_20261030/code/exact_operation_core.js",
+      "source_sha256": "0995e6cac9ec25bd7476c0fd5053575542156e52f69b8cac06651bfefad271de",
+      "release_sha256": "0995e6cac9ec25bd7476c0fd5053575542156e52f69b8cac06651bfefad271de"
+    },
+    "model/research/outputs/figure6_matched_config_export_20261102/code/calculate.py": {
+      "source": "figure6_matched_config_export_20261102/code/calculate.py",
+      "source_sha256": "393d25a0d51ff18f19ba4700628fd9b8536456218cd9dd6d61c6b1dfd616cdb7",
+      "release_sha256": "0ff74a0a77233ee4c9667ff78305c26c0bc69d8d9c1490e9a756bdd41c86a581"
+    },
+    "model/research/outputs/figure6_matched_config_export_20261102/code/prepare.cjs": {
+      "source": "figure6_matched_config_export_20261102/code/prepare.cjs",
+      "source_sha256": "c8dfcdb5dc7d334a2a1cb615f7ced99ed638d0045883e77794d75f56e4369bef",
+      "release_sha256": "6e8617504d86fda028587193e96d025af06d8e077ad9c8ccf6414bd66048b351"
+    },
+    "model/research/outputs/figure6_matched_config_export_20261102/code/replay.cjs": {
+      "source": "figure6_matched_config_export_20261102/code/replay.cjs",
+      "source_sha256": "061d7a3f9809b0f072f3bc3f0ed43bfdc85cf60fe20a8f1d7353afe884065852",
+      "release_sha256": "33c8662f5e0b7da04d98570f1bfb09ed1a683f42f8cbdba08275eced4f8ed5a5"
+    },
+    "model/research/outputs/figure6_matched_config_export_20261102/code/history_valuation_adapter.js": {
+      "source": "figure6_matched_config_export_20261102/code/history_valuation_adapter.js",
+      "source_sha256": "c5c7b82b5da56b6d3033054370fa1b0541dc38e1968a14ead7861f9e8255fad0",
+      "release_sha256": "8fa3cd0de465e863f2705c47aa63b5e2917d8d1a4f57c189ba7387467e53f7b4"
+    },
+    "model/research/outputs/figure6_matched_config_export_20261102/code/fast_curves.js": {
+      "source": "figure6_matched_config_export_20261102/code/fast_curves.js",
+      "source_sha256": "b0e53112ef0a869d9478791d703c722917f088dfd85f04747b697dc12330748e",
+      "release_sha256": "b0e53112ef0a869d9478791d703c722917f088dfd85f04747b697dc12330748e"
+    },
+    "model/research/outputs/figure6_device_technology_restored_20261102/code/calculate.py": {
+      "source": "figure6_device_technology_restored_20261102/code/calculate.py",
+      "source_sha256": "315caa0138db6aa5e97f32f69e6ce8111d6cbcbace86a899062b66b7f60d2ebb",
+      "release_sha256": "490a234933d51374b6467f7e4cd35a000dce253f6a57e1def0311ef7464b78b6"
+    },
+    "model/research/outputs/economic_native_aligned_20261030/code/calculate.py": {
+      "source": "economic_native_aligned_20261030/code/calculate.py",
+      "source_sha256": "20b69af2373a0ca93126ceed8d7b30ddae74a57ac1e9e4251ac4e4ab5875bb0b",
+      "release_sha256": "5cf32edfd77e92c75b2a76cf4b187033ee31c061fa2ae7b58c638d08fa8b4ef6"
+    },
+    "model/research/outputs/pathway_optimal_matched_ssp_20261105/code/run_model.cjs": {
+      "source": "pathway_optimal_matched_ssp_20261105/code/run_model.cjs",
+      "source_sha256": "4fa3e5b40a3f47233f3413b62a14f5303efbfae718ab74532f09701dfbe7eade",
+      "release_sha256": "4fa3e5b40a3f47233f3413b62a14f5303efbfae718ab74532f09701dfbe7eade"
+    },
+    "model/research/outputs/pathway_optimal_matched_ssp_20261105/code/worker.inc.js": {
+      "source": "pathway_optimal_matched_ssp_20261105/code/worker.inc.js",
+      "source_sha256": "a0d79f454d1918b65ee28d1021ff9e9d0f24b712b4061de94150085ea993fa98",
+      "release_sha256": "a0d79f454d1918b65ee28d1021ff9e9d0f24b712b4061de94150085ea993fa98"
+    },
+    "model/research/outputs/pathway_optimal_matched_ssp_20261105/code/prepare.py": {
+      "source": "pathway_optimal_matched_ssp_20261105/code/prepare.py",
+      "source_sha256": "71c54c4ffa90313c65970e130c9ec18d00828c55393bd68ad3c26f9ed51b1582",
+      "release_sha256": "7d31c6c044691c81ebc85068ba3d9b482b73a486ee2981ae2c9cb9e601a3cf1a"
+    },
+    "model/research/outputs/pathway_optimal_matched_ssp_20261105/code/price.py": {
+      "source": "pathway_optimal_matched_ssp_20261105/code/price.py",
+      "source_sha256": "bc8e3ee5ce3167066d88f55d127c934a8b5a167d815f57695bfdbe5b5785a6bd",
+      "release_sha256": "6a4dc45a8e2e65dbc828976b7383d657e9e77dd8f96d2557d8dd5288cea73323"
+    },
+    "model/research/outputs/supplementary_complete_figures_20261104/code/compute_missing.cjs": {
+      "source": "supplementary_complete_figures_20261104/code/compute_missing.cjs",
+      "source_sha256": "f058660f83288320d21ae044ae1c9f360942157eb507de1fc7ddb330a8c6d76e",
+      "release_sha256": "8043233e778cf1e48e029fb9d8c0a3f92c909aa10dd8d57356cf7ed06367ed87"
+    },
+    "model/research/outputs/monte_carlo_persistence_pilot_20261105/code/simulate.py": {
+      "source": "monte_carlo_persistence_pilot_20261105/code/simulate.py",
+      "source_sha256": "2c3ac7d2dc9a4b6783fabcdfb9d8be41f5d1cd954100cf993168cd31ed1831a1",
+      "release_sha256": "96770a18e74348afca00265e043e327957388a20d7c65833202c1ef7563bec7d"
+    },
+    "model/research/outputs/monte_carlo_joint_uncertainty_20261105/code/simulate_joint.py": {
+      "source": "monte_carlo_joint_uncertainty_20261105/code/simulate_joint.py",
+      "source_sha256": "d5e98cfa067ca0a27b58eb740819e6cb1824b063f709c9d632a0d741129399de",
+      "release_sha256": "d5e98cfa067ca0a27b58eb740819e6cb1824b063f709c9d632a0d741129399de"
+    },
+    "model/research/outputs/monte_carlo_joint_uncertainty_20261105/code/extract_annual_terms.cjs": {
+      "source": "monte_carlo_joint_uncertainty_20261105/code/extract_annual_terms.cjs",
+      "source_sha256": "fd33e158b21107487a7d4eb1651101db2687c659361c8de6e47876494f14c8d0",
+      "release_sha256": "fd33e158b21107487a7d4eb1651101db2687c659361c8de6e47876494f14c8d0"
+    },
+    "model/research/outputs/monte_carlo_joint_uncertainty_20261105/code/extract_worker.inc.js": {
+      "source": "monte_carlo_joint_uncertainty_20261105/code/extract_worker.inc.js",
+      "source_sha256": "cbbe67c2ed23a3e266148be882f8c37d067c0bb36834858aa9d858046add3101",
+      "release_sha256": "cbbe67c2ed23a3e266148be882f8c37d067c0bb36834858aa9d858046add3101"
+    },
+    "model/research/outputs/monte_carlo_joint_uncertainty_20261105/code/audit_joint.py": {
+      "source": "monte_carlo_joint_uncertainty_20261105/code/audit_joint.py",
+      "source_sha256": "cad7762a1cdd39e84a179071ede2abcb9e1eba6f739605a6a20dd28bca56e637",
+      "release_sha256": "cad7762a1cdd39e84a179071ede2abcb9e1eba6f739605a6a20dd28bca56e637"
+    },
+    "model/native/export_constraints_linkage_20261026/code/compute_accounts.cjs": {
+      "source": "export_constraints_linkage_20261026/code/compute_accounts.cjs",
+      "source_sha256": "6a701df0be5b1f84c83e5ecda377caa8b7c56f3d50c064fb1a1f7038d477cbfa",
+      "release_sha256": "6a701df0be5b1f84c83e5ecda377caa8b7c56f3d50c064fb1a1f7038d477cbfa"
+    },
+    "model/native/multiscale_full_resolution_20261024/code/benchmark_core_native.cjs": {
+      "source": "multiscale_full_resolution_20261024/code/benchmark_core_native.cjs",
+      "source_sha256": "2d3a6a1edc6be017afcd4b006e2f698ad41763ae1515620ccde99c40ff2d9aab",
+      "release_sha256": "2d3a6a1edc6be017afcd4b006e2f698ad41763ae1515620ccde99c40ff2d9aab"
+    },
+    "model/native/multiscale_full_resolution_20261024/code/build_warm_accounts.cjs": {
+      "source": "multiscale_full_resolution_20261024/code/build_warm_accounts.cjs",
+      "source_sha256": "c5146de7676b625a9fb312ee64bfadc18422cf0cf160375530f72efc58a330af",
+      "release_sha256": "c5146de7676b625a9fb312ee64bfadc18422cf0cf160375530f72efc58a330af"
+    },
+    "model/research/outputs/figures3_5_unified_time_metric_20261102/source_data/configuration_registry.json": {
+      "source": "figures3_5_unified_time_metric_20261102/source_data/configuration_registry.json",
+      "source_sha256": "e9c7bcde39407040cbbc1b2d050b46a8e1fcb685fc2e45ca68543c0255336c90",
+      "release_sha256": "e9c7bcde39407040cbbc1b2d050b46a8e1fcb685fc2e45ca68543c0255336c90"
+    },
+    "model/research/outputs/opening_balance_reference_cohorts_20261102/source_data/fixed_reference_cohorts.json": {
+      "source": "opening_balance_reference_cohorts_20261102/source_data/fixed_reference_cohorts.json",
+      "source_sha256": "28a03739c96ded83cf627af4ac7e1d60e20433bfb1bc69c80a3eb7d2acf83814",
+      "release_sha256": "28a03739c96ded83cf627af4ac7e1d60e20433bfb1bc69c80a3eb7d2acf83814"
+    },
+    "model/research/supplementary_figures/SI_Figure6_crossed_costs_120_20261102/code/cross_operation_core.js": {
+      "source": "supplementary_figures/SI_Figure6_crossed_costs_120_20261102/code/cross_operation_core.js",
+      "source_sha256": "c627fa9140bef8a904d8f8749f37062e56b1045a4455138b20919484121e1a51",
+      "release_sha256": "c627fa9140bef8a904d8f8749f37062e56b1045a4455138b20919484121e1a51"
+    },
+    "model/research/supplementary_figures/SI_main_figures_complete_20261104/source_data/F2_roof_climate_80_curves.csv": {
+      "source": "supplementary_figures/SI_main_figures_complete_20261104/source_data/F2_roof_climate_80_curves.csv",
+      "source_sha256": "1ab3781efeb7913d9d7c38cb1954fedfd59fca97ce5df733b98ea65478ded65f",
+      "release_sha256": "1ab3781efeb7913d9d7c38cb1954fedfd59fca97ce5df733b98ea65478ded65f"
+    },
+    "data/reference/CP.json.gz": {
+      "source": "opening_balance_reference_cohorts_20261102/accounts/CP__REF.json.gz",
+      "source_sha256": "e0733452614d7e484f8ee748c452cc61bb367069dd659a279315fd78c186d91c",
+      "release_sha256": "2793ebe20b30687986f8ee8eb03deeea783333d98c744fe06731150fdc853200"
+    },
+    "data/reference/NDC.json.gz": {
+      "source": "opening_balance_reference_cohorts_20261102/accounts/NDC__REF.json.gz",
+      "source_sha256": "413525f4090c61bf102f539447aeb57b567e7d51fe045095133293af311a4b27",
+      "release_sha256": "4df8faec61423a2a4eb7bd5118688faeeac3ce62b59bacda58484d28f482f219"
+    },
+    "data/reference/B2C.json.gz": {
+      "source": "opening_balance_reference_cohorts_20261102/accounts/B2C__REF.json.gz",
+      "source_sha256": "ce1ae783899daf64aa84dca7cd0028d7882bbb36f80d6569f92049b5ac8b9a01",
+      "release_sha256": "fb0077e13b21fed1d3e624a7a5b5165e0698ac43d5214f8c8ba0fee147a1a7b1"
+    },
+    "data/reference/NZ2050.json.gz": {
+      "source": "opening_balance_reference_cohorts_20261102/accounts/NZ2050__REF.json.gz",
+      "source_sha256": "bdd2be2b1d7092c3978df6783680c8a7f70b3b5becc7de0f0d138f8f42d353d0",
+      "release_sha256": "a8e49e0c260e690f82b6e0eb6b49f9da7d3480bfcf2494413553290773216347"
+    },
+    "data/reference/LD.json.gz": {
+      "source": "opening_balance_reference_cohorts_20261102/accounts/LD__REF.json.gz",
+      "source_sha256": "4f22627f6beabc4b1c71cf2195a12d7a96c5f59e7e3b4045fb8d5ed0e2108854",
+      "release_sha256": "8d48a2c40f13a00f7ab612bbc0dfe250df82e2b2db34f72dd3405afa3a830cee"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "cost_boundaries": [
+    -30,
+    -10,
+    -8,
+    -6,
+    -5,
+    -4,
+    0
+  ],
+  "cost_order": "more_savings_dark_to_less_savings_light",
+  "row_order": [
+    "UNLIMITED_only",
+    "CAP50_still_qualified",
+    "CAP0_still_qualified"
+  ],
+  "palette": {
+    "UNLIMITED_only": [
+      "#2E4049",
+      "#4A5C66",
+      "#677A84",
+      "#8699A3",
+      "#A5B9C4",
+      "#C6DAE6"
+    ],
+    "CAP50_still_qualified": [
+      "#014828",
+      "#05673D",
+      "#268756",
+      "#4AA773",
+      "#6BC892",
+      "#8DEAB3"
+    ],
+    "CAP0_still_qualified": [
+      "#4D2C79",
+      "#6C4898",
+      "#8C66B8",
+      "#AC84DA",
+      "#CEA4FD",
+      "#E6CEFF"
+    ]
+  },
+  "target_Lstar": [
+    26.0,
+    38.0,
+    50.0,
+    62.0,
+    74.0,
+    86.0
+  ],
+  "normal_vision_CIELAB76_minimum_pair_distance": 11.815684960649863,
+  "adjacent_cost_distances": {
+    "UNLIMITED_only": [
+      12.023977523951077,
+      12.098247809288083,
+      12.022899597438567,
+      11.913394899426137,
+      11.957289712236195
+    ],
+    "CAP50_still_qualified": [
+      14.293040307000364,
+      12.640396848714147,
+      11.95028965277804,
+      11.937042998856235,
+      12.027579354484962
+    ],
+    "CAP0_still_qualified": [
+      11.966617869172508,
+      12.160407453805995,
+      11.815684960649863,
+      12.097527875402367,
+      26.0375262148022
+    ]
+  },
+  "colourblind_safety_not_claimed": true,
+  "meaning": "same selected plan retaining carbon qualification; not actual grid permission"
+}

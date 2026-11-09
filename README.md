@@ -1,3 +1,9 @@
+# Framework for Assessing the Persistence of Carbon Mitigation Benefits from Rooftop Photovoltaics
+
+The current 2025–2100 submission is documented in [persistence_20261109](persistence_20261109/README.md). That directory contains the current analysis code, six figure renderers, frozen plot data and a reference-account check.
+
+The material below documents the earlier 2025–2050 study and its October figure update.
+
 # Rooftop PV carbon-balance research
 
 Sustaining rooftop solar carbon benefits under decarbonizing grids and supply chains

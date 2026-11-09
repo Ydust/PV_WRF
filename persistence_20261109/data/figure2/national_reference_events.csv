@@ -1,0 +1,1156 @@
+﻿background,country,name,opening_balance_Gt,first_loss_year,state,C2025_Gt,C2100_Gt,recovery_after_loss,recovered_at_2100,positive_at_2100
+CP,ABW,Aruba,0.0,,benefit_without_observed_loss,1.6316241148233415e-07,-0.00024091055370823483,False,False,False
+CP,AFG,Afghanistan,0.0,,no_observed_benefit,0.00032266663948529614,0.02627629323783307,False,False,True
+CP,AGO,Angola,0.0,2058,formed_then_lost,0.0002727904398322949,0.02038052837701797,False,False,True
+CP,AIA,Anguilla,0.0,,benefit_without_observed_loss,6.71710310697851e-09,-6.949244529403527e-06,False,False,False
+CP,ALB,Albania,0.0,,no_observed_benefit,0.00011004120056035504,0.012641050708896833,False,False,True
+CP,ALD,Aland,0.0,,no_observed_benefit,4.3934589318670904e-07,4.5608477368230375e-05,False,False,True
+CP,AND,Andorra,0.0,,benefit_without_observed_loss,1.3221391793227422e-06,-5.827452772501557e-05,False,False,False
+CP,ARE,United Arab Emirates,0.0,,benefit_without_observed_loss,-5.328467238906908e-05,-0.22844534110327125,False,False,False
+CP,ARG,Argentina,0.0,,benefit_without_observed_loss,0.0009481828634985368,-0.022888156064893618,False,False,False
+CP,ARM,Armenia,0.0,,benefit_without_observed_loss,0.00010728195270777501,-0.03626646943220754,False,False,False
+CP,ASM,American Samoa,0.0,,benefit_without_observed_loss,-2.7183423377595375e-08,-0.0005410486508738299,False,False,False
+CP,ATG,Antigua and Barbuda,0.0,,benefit_without_observed_loss,-1.8118661556919579e-09,-3.607747747384937e-06,False,False,False
+CP,AUS,Australia,-0.093460901257942,,benefit_without_observed_loss,-0.11320243302849967,-0.1760376301468246,False,False,False
+CP,AUT,Austria,0.0030553676087259,,no_observed_benefit,0.0025789143149802245,0.06238727435722531,False,False,True
+CP,AZE,Azerbaijan,0.0,,benefit_without_observed_loss,6.637532055912185e-05,-0.3219124787532529,False,False,False
+CP,BDI,Burundi,0.0,2060,formed_then_lost,7.549859448725959e-05,0.0054320754244052295,False,False,True
+CP,BEL,Belgium,0.0,,no_observed_benefit,0.000611499902190881,0.06514023355163563,False,False,True
+CP,BEN,Benin,0.0,,benefit_without_observed_loss,1.606327373786223e-05,-0.01545071478542103,False,False,False
+CP,BFA,Burkina Faso,0.0,,benefit_without_observed_loss,1.2217439569881886e-05,-0.017668318716760646,False,False,False
+CP,BGD,Bangladesh,0.0,,benefit_without_observed_loss,8.286209566480661e-05,-0.21572947279123736,False,False,False
+CP,BGR,Bulgaria,0.0,,no_observed_benefit,0.0002652712318394296,0.021518886854473448,False,False,True
+CP,BHR,Bahrain,0.0,,benefit_without_observed_loss,-2.499420641499111e-05,-0.02755761964630026,False,False,False
+CP,BHS,The Bahamas,0.0,,benefit_without_observed_loss,-6.627178539037705e-09,-0.002749241925494951,False,False,False
+CP,BIH,Bosnia and Herzegovina,0.0,,benefit_without_observed_loss,4.841314292089358e-05,-0.01346349289668001,False,False,False
+CP,BLM,Saint Barthelemy,0.0,,benefit_without_observed_loss,1.1544223917315263e-08,-1.1577734845332121e-05,False,False,False
+CP,BLR,Belarus,0.0,,benefit_without_observed_loss,0.0002716740117037951,-0.1639737728067891,False,False,False
+CP,BLZ,Belize,0.0,,no_observed_benefit,1.3883688521172441e-05,0.001156630556520899,False,False,True
+CP,BMU,Bermuda,0.0,,benefit_without_observed_loss,3.193499348623311e-08,-1.61562036999535e-05,False,False,False
+CP,BOL,Bolivia,0.0,,benefit_without_observed_loss,0.00010173378098429543,-0.02125784387074151,False,False,False
+CP,BRA,Brazil,0.0156029846503584,,no_observed_benefit,0.015257488525483682,0.5538593009848415,False,False,True
+CP,BRB,Barbados,0.0,,benefit_without_observed_loss,-2.0627403094642608e-07,-0.0006740018290001115,False,False,False
+CP,BRN,Brunei,0.0,,benefit_without_observed_loss,-1.070295938378787e-05,-0.010983350900045223,False,False,False
+CP,BTN,Bhutan,0.0,,no_observed_benefit,1.999734199856048e-05,0.0022176243116103864,False,False,True
+CP,BWA,Botswana,0.0,,benefit_without_observed_loss,-4.0778624187326386e-05,-0.022968001860910466,False,False,False
+CP,CAF,Central African Republic,0.0,,no_observed_benefit,3.442953419400523e-05,0.0038931203209857613,False,False,True
+CP,CAN,Canada,-9.489027678522731e-05,2025,opening_benefit_then_lost,0.0016135056796426719,0.24237122275212192,False,False,True
+CP,CHE,Switzerland,0.0056873603316516,,no_observed_benefit,0.00579267691859219,0.05622880807009686,False,False,True
+CP,CHL,Chile,-3.245681968130714e-05,2025,opening_benefit_then_lost,0.00021649052841848438,-0.025731683892464444,True,True,False
+CP,CHN,China,-0.3009266842944314,,benefit_without_observed_loss,-0.5133261971791603,-14.80119917473186,False,False,False
+CP,CIV,Ivory Coast,0.0,,benefit_without_observed_loss,0.00014281420512155581,-0.006768565934845399,False,False,False
+CP,CMR,Cameroon,0.0,2096,formed_then_lost,0.00014507851891369902,0.0021559721660608755,False,False,True
+CP,COD,Democratic Republic of the Congo,0.0,,no_observed_benefit,0.0004371842084587029,0.04940150328245869,False,False,True
+CP,COG,Republic of the Congo,0.0,,benefit_without_observed_loss,5.739955379577555e-06,-0.006690867958078218,False,False,False
+CP,COK,Cook Islands,0.0,,benefit_without_observed_loss,1.28765325553405e-07,-7.87388782110369e-05,False,False,False
+CP,COL,Colombia,0.0002819819935135,2063,formed_then_lost,0.0007294918233523131,0.03154447711954488,False,False,True
+CP,COM,Comoros,0.0,,benefit_without_observed_loss,-6.128866800425724e-07,-0.0005625600524309701,False,False,False
+CP,CPV,Cabo Verde,0.0,,benefit_without_observed_loss,4.716680918641556e-07,-0.0010339726264391338,False,False,False
+CP,CRI,Costa Rica,0.0,,no_observed_benefit,0.0002303176957148414,0.025979282642010697,False,False,True
+CP,CUB,Cuba,0.0,,benefit_without_observed_loss,-4.846234610633701e-06,-0.028460522758487962,False,False,False
+CP,CUW,Curaçao,0.0,,benefit_without_observed_loss,4.587445408542324e-07,-0.0006119738592621945,False,False,False
+CP,CYM,Cayman Islands,0.0,,benefit_without_observed_loss,-8.137755488892226e-08,-0.00017410564261534142,False,False,False
+CP,CYN,Northern Cyprus,0.0,,no_observed_benefit,2.8177107687608693e-05,0.0024175472272140704,False,False,True
+CP,CYP,Cyprus,0.0,,benefit_without_observed_loss,1.0906855863093645e-05,-0.003487054032386324,False,False,False
+CP,CZE,Czechia,-0.0080166164479314,2043,opening_benefit_then_lost,-0.008488494576521136,0.03954754275338779,False,False,True
+CP,DEU,Germany,-0.1053989787587892,2071,opening_benefit_then_lost,-0.1195391650031891,0.12326883960967955,False,False,True
+CP,DJI,Djibouti,0.0,,benefit_without_observed_loss,-1.6480000803801603e-06,-0.0014060395969506508,False,False,False
+CP,DMA,Dominica,0.0,,benefit_without_observed_loss,8.790640251041157e-09,-3.525500821357414e-05,False,False,False
+CP,DNK,Denmark,-0.0002116893705941,2026,opening_benefit_then_lost,-4.303130913877376e-05,0.03728278844620058,False,False,True
+CP,DOM,Dominican Republic,0.0,,benefit_without_observed_loss,2.15912971294927e-05,-0.03389112875050509,False,False,False
+CP,DZA,Algeria,0.0,,benefit_without_observed_loss,0.00010253564715566755,-0.3924017179794022,False,False,False
+CP,ECU,Ecuador,0.0,,no_observed_benefit,0.0002242915236884592,0.020324506769550565,False,False,True
+CP,EGY,Egypt,0.0,,benefit_without_observed_loss,8.53398645254066e-05,-0.5862482349414898,False,False,False
+CP,ERI,Eritrea,0.0,,benefit_without_observed_loss,-7.833561029784158e-07,-0.004305471447206889,False,False,False
+CP,ESP,Spain,0.0006707481569136,,no_observed_benefit,0.0008030262602826764,0.19323024002113431,False,False,True
+CP,EST,Estonia,0.0,,no_observed_benefit,5.69721649610869e-05,0.005134124457124511,False,False,True
+CP,ETH,Ethiopia,0.0,,no_observed_benefit,0.0010887715374116702,0.1204472422152166,False,False,True
+CP,FIN,Finland,0.0006097183048751,,no_observed_benefit,0.0008445811669363888,0.039728371522546206,False,False,True
+CP,FJI,Fiji,0.0,,benefit_without_observed_loss,2.0749150777678446e-05,-0.0005832200467963797,False,False,False
+CP,FRA,France,0.0069745840107748,,no_observed_benefit,0.010391266720195785,0.5119576985960431,False,False,True
+CP,FRO,Faroe Islands,0.0,,no_observed_benefit,1.4861129129179462e-06,0.00015150239214852112,False,False,True
+CP,FSM,Federated States of Micronesia,0.0,,benefit_without_observed_loss,9.929412610156817e-08,-6.358304872424804e-05,False,False,False
+CP,GAB,Gabon,0.0,,benefit_without_observed_loss,1.7453300460042314e-05,-0.0005343215520278335,False,False,False
+CP,GBR,United Kingdom,-0.006032182040172,2030,opening_benefit_then_lost,-0.005258633905882001,0.19939373272556052,False,False,True
+CP,GEO,Georgia,0.0,,benefit_without_observed_loss,0.00018392401017747908,-0.021525868454215846,False,False,False
+CP,GGY,Guernsey,0.0,,no_observed_benefit,2.465293571945935e-06,0.00023867476612539744,False,False,True
+CP,GHA,Ghana,0.0,,benefit_without_observed_loss,0.0001889050229020233,-0.029009802547208016,False,False,False
+CP,GIN,Guinea,0.0,2088,formed_then_lost,6.709596922923053e-05,0.002239962833088994,False,False,True
+CP,GMB,Gambia,0.0,,benefit_without_observed_loss,-6.589866948360204e-06,-0.006283089526701608,False,False,False
+CP,GNB,Guinea-Bissau,0.0,,benefit_without_observed_loss,-5.720221976747029e-07,-0.0019132409743354663,False,False,False
+CP,GNQ,Equatorial Guinea,0.0,,benefit_without_observed_loss,3.589247574067077e-06,-0.0009641408477055072,False,False,False
+CP,GRC,Greece,-0.0152473469975596,,benefit_without_observed_loss,-0.017710742488785975,-0.01316824139239863,False,False,False
+CP,GRD,Grenada,0.0,,benefit_without_observed_loss,-2.1789679526211227e-08,-4.7673601508231234e-05,False,False,False
+CP,GRL,Greenland,0.0,,no_observed_benefit,6.120483084684303e-07,6.475638887590674e-05,False,False,True
+CP,GTM,Guatemala,0.0,2067,formed_then_lost,0.0002173062772509176,0.008161137728710856,False,False,True
+CP,GUM,Guam,0.0,,benefit_without_observed_loss,1.7379852868729645e-07,-0.002387476562083097,False,False,False
+CP,GUY,Guyana,0.0,,benefit_without_observed_loss,6.604286680629226e-07,-0.000616742252115768,False,False,False
+CP,HKG,Hong Kong S.A.R.,0.0,,benefit_without_observed_loss,3.3240371558154522e-06,-0.015451005037804923,False,False,False
+CP,HND,Honduras,0.0,2099,formed_then_lost,0.00012732332838867486,0.0003611483581058993,False,False,True
+CP,HRV,Croatia,0.0,,no_observed_benefit,0.0002133254461450213,0.02156594725997924,False,False,True
+CP,HTI,Haiti,0.0,,benefit_without_observed_loss,2.8248977834400984e-06,-0.01341903667733209,False,False,False
+CP,HUN,Hungary,7.990771363292843e-05,2033,formed_then_lost,-0.00025149425829911116,0.04631248860132558,False,False,True
+CP,IDN,Indonesia,0.0,,benefit_without_observed_loss,-1.5948449052098275e-05,-1.7532032584067765,False,False,False
+CP,IMN,Isle of Man,0.0,,no_observed_benefit,3.4025363425873656e-06,0.00032536733744041726,False,False,True
+CP,IND,India,-0.0432842765203429,,benefit_without_observed_loss,-0.0585478043511942,-2.229617556644613,False,False,False
+CP,IOA,Indian Ocean Territories,0.0,,benefit_without_observed_loss,2.2024231268049333e-11,-1.6402996668746048e-06,False,False,False
+CP,IRL,Ireland,0.0,,no_observed_benefit,0.00025340642448757163,0.025224273459624975,False,False,True
+CP,IRN,Iran,0.0,,benefit_without_observed_loss,6.384109302892494e-05,-1.0486546952398073,False,False,False
+CP,IRQ,Iraq,0.0,,benefit_without_observed_loss,-3.497491722571492e-05,-0.41015800865734114,False,False,False
+CP,ISL,Iceland,0.0,,no_observed_benefit,1.8226963296290802e-05,0.0021119288787508016,False,False,True
+CP,ISR,Israel,0.0,,benefit_without_observed_loss,2.244789703701621e-05,-0.12226162769623612,False,False,False
+CP,ITA,Italy,-0.0601057090379451,2066,opening_benefit_then_lost,-0.0665063801669537,0.11050140126935248,False,False,True
+CP,JAM,Jamaica,0.0,,benefit_without_observed_loss,8.328113461936385e-06,-0.011065537160338671,False,False,False
+CP,JEY,Jersey,0.0,,no_observed_benefit,2.352580573004725e-06,0.00022726196677406977,False,False,True
+CP,JOR,Jordan,0.0,,benefit_without_observed_loss,2.3464403192044795e-05,-0.09274073075586875,False,False,False
+CP,JPN,Japan,-0.0957245038755166,,benefit_without_observed_loss,-0.10734150888044794,-2.371549338167282,False,False,False
+CP,KAZ,Kazakhstan,0.0,,benefit_without_observed_loss,2.666235887414694e-05,-0.7225084868134188,False,False,False
+CP,KEN,Kenya,0.0,,no_observed_benefit,0.0006156739939241682,0.06070558520941663,False,False,True
+CP,KGZ,Kyrgyzstan,0.0,,benefit_without_observed_loss,0.00024991712948998536,-0.0068723713712360805,False,False,False
+CP,KHM,Cambodia,0.0,,benefit_without_observed_loss,0.0001327051439065387,-0.02594246099713472,False,False,False
+CP,KIR,Kiribati,0.0,,benefit_without_observed_loss,2.196683038043609e-08,-3.5626662032562445e-05,False,False,False
+CP,KNA,Saint Kitts and Nevis,0.0,,benefit_without_observed_loss,-3.026388649482012e-08,-5.230769795209979e-05,False,False,False
+CP,KOR,South Korea,-0.0072474120912978,,benefit_without_observed_loss,-0.008708782763791976,-0.1381515847988829,False,False,False
+CP,KOS,Kosovo,0.0,,benefit_without_observed_loss,-1.011391922871986e-05,-0.01391770931552175,False,False,False
+CP,KWT,Kuwait,0.0,,benefit_without_observed_loss,-1.1479053783687502e-05,-0.05903507427237594,False,False,False
+CP,LAO,Laos,0.0,,benefit_without_observed_loss,0.00012584985246106046,-0.005207506212972775,False,False,False
+CP,LBN,Lebanon,0.0,,benefit_without_observed_loss,1.1803801482129812e-05,-0.06758428655518331,False,False,False
+CP,LBR,Liberia,0.0,,benefit_without_observed_loss,1.5575162701446892e-05,-0.0012220315683831012,False,False,False
+CP,LBY,Libya,0.0,,benefit_without_observed_loss,-0.00010775586250746823,-0.18091635208655282,False,False,False
+CP,LCA,Saint Lucia,0.0,,benefit_without_observed_loss,-6.693679760511313e-08,-0.00011543532807374777,False,False,False
+CP,LIE,Liechtenstein,0.0,,benefit_without_observed_loss,1.8649524291434095e-06,-2.2213766472032055e-05,False,False,False
+CP,LKA,Sri Lanka,-0.0014038491089634,,benefit_without_observed_loss,-0.0020740123411999937,-0.07480348180875797,False,False,False
+CP,LSO,Lesotho,0.0,,no_observed_benefit,4.2372531472883105e-05,0.004835347558531188,False,False,True
+CP,LTU,Lithuania,0.0008343303916948,,no_observed_benefit,0.0007019431086121405,0.015396686135298428,False,False,True
+CP,LUX,Luxembourg,-1.3703586579389364e-05,2034,opening_benefit_then_lost,-4.82305491748011e-05,0.003133918809251608,False,False,True
+CP,LVA,Latvia,0.0,,no_observed_benefit,0.00010629768689545812,0.011321978406014377,False,False,True
+CP,MAC,Macao S.A.R,0.0,,benefit_without_observed_loss,1.0778713853447165e-06,-0.0005456820446193502,False,False,False
+CP,MAF,Saint Martin,0.0,,benefit_without_observed_loss,1.930750182803563e-08,-1.8609859072326287e-05,False,False,False
+CP,MAR,Morocco,0.0,,benefit_without_observed_loss,1.7530293208538056e-05,-0.3240955907079153,False,False,False
+CP,MCO,Monaco,0.0,,benefit_without_observed_loss,4.5983331045894474e-07,-2.541605999256195e-05,False,False,False
+CP,MDA,Moldova,0.0,,benefit_without_observed_loss,9.192796169562938e-05,-0.14751141394976375,False,False,False
+CP,MDG,Madagascar,0.0,,benefit_without_observed_loss,4.258072291045822e-05,-0.004289531762934623,False,False,False
+CP,MDV,Maldives,0.0,,benefit_without_observed_loss,-8.331234017088515e-09,-5.72645860959053e-05,False,False,False
+CP,MEX,Mexico,0.0,,benefit_without_observed_loss,0.0009932190920864377,-0.3225734381357613,False,False,False
+CP,MHL,Marshall Islands,0.0,,benefit_without_observed_loss,7.185326491715659e-09,-6.380925597012933e-06,False,False,False
+CP,MKD,North Macedonia,0.0,,benefit_without_observed_loss,2.4461072130066485e-05,-0.005194657730925236,False,False,False
+CP,MLI,Mali,0.0,,benefit_without_observed_loss,5.621917338670532e-05,-0.006267189800808868,False,False,False
+CP,MLT,Malta,0.0,,benefit_without_observed_loss,8.004779258674681e-06,-7.788227096060829e-05,False,False,False
+CP,MMR,Myanmar,0.0,,benefit_without_observed_loss,0.0003174924173447478,-0.12511210876261789,False,False,False
+CP,MNE,Montenegro,0.0,,benefit_without_observed_loss,4.804334125372699e-06,-0.0002294813289425741,False,False,False
+CP,MNG,Mongolia,0.0,,benefit_without_observed_loss,9.163242711403086e-06,-0.024961882533451836,False,False,False
+CP,MNP,Northern Mariana Islands,0.0,,benefit_without_observed_loss,6.570282853731579e-07,-0.0005992707493161422,False,False,False
+CP,MOZ,Mozambique,0.0,,no_observed_benefit,0.00019131105835516215,0.017050741461691825,False,False,True
+CP,MRT,Mauritania,0.0,,benefit_without_observed_loss,8.016394992185325e-06,-0.0035296839901131404,False,False,False
+CP,MUS,Mauritius,0.0,,benefit_without_observed_loss,-7.266169041145891e-07,-0.005309326024374007,False,False,False
+CP,MWI,Malawi,0.0,,no_observed_benefit,0.0001847033018469211,0.020406470541657756,False,False,True
+CP,MYS,Malaysia,0.0,,benefit_without_observed_loss,9.635447613499855e-05,-0.3433366179639501,False,False,False
+CP,NAM,Namibia,0.0,,no_observed_benefit,5.50797260467688e-05,0.005781380385986376,False,False,True
+CP,NCL,New Caledonia,0.0,,benefit_without_observed_loss,1.5879593506901898e-06,-0.003819047951910786,False,False,False
+CP,NER,Niger,0.0,,benefit_without_observed_loss,-2.1046200530134142e-05,-0.014876522504047049,False,False,False
+CP,NFK,Norfolk Island,0.0,,benefit_without_observed_loss,6.894748483494433e-08,-2.9268733959628905e-05,False,False,False
+CP,NGA,Nigeria,0.0,,benefit_without_observed_loss,0.0003736618171456923,-0.16507205769582936,False,False,False
+CP,NIC,Nicaragua,0.0,2065,formed_then_lost,8.111407569492087e-05,0.003509936878428908,False,False,True
+CP,NIU,Niue,0.0,,benefit_without_observed_loss,2.43356356271642e-08,-1.599598724803737e-05,False,False,False
+CP,NLD,Netherlands,-0.0149902867092522,,benefit_without_observed_loss,-0.020188444240746888,-0.0045669325068785765,False,False,False
+CP,NOR,Norway,0.0,,no_observed_benefit,0.0003308169878909388,0.0381852672560992,False,False,True
+CP,NPL,Nepal,0.0,,no_observed_benefit,0.0003995165207348826,0.044552862573372105,False,False,True
+CP,NRU,Nauru,0.0,,benefit_without_observed_loss,-2.1461955231306458e-07,-0.0002048899230364896,False,False,False
+CP,NZL,New Zealand,0.0,,no_observed_benefit,0.00035247241994838704,0.04220961415846483,False,False,True
+CP,OMN,Oman,0.0,,benefit_without_observed_loss,1.1365051176808595e-05,-0.07328361187576331,False,False,False
+CP,PAK,Pakistan,0.0,,benefit_without_observed_loss,0.0008779363964493966,-0.46084428555010865,False,False,False
+CP,PAN,Panama,0.0,,no_observed_benefit,0.00012509666685506682,0.010005203454291593,False,False,True
+CP,PER,Peru,0.0,2066,formed_then_lost,0.0004977911914742401,0.0203515953148388,False,False,True
+CP,PHL,Philippines,-0.000165644238992,,benefit_without_observed_loss,-6.6933097994517155e-06,-0.33026784858641695,False,False,False
+CP,PLW,Palau,0.0,,benefit_without_observed_loss,5.882185812760514e-08,-3.840906582899363e-05,False,False,False
+CP,PNG,Papua New Guinea,0.0,,benefit_without_observed_loss,1.9532112962484634e-05,-0.007285994332506957,False,False,False
+CP,POL,Poland,-0.0066933132435234,,benefit_without_observed_loss,-0.012145498828348963,-0.05510774518860959,False,False,False
+CP,PRI,Puerto Rico,0.0,,benefit_without_observed_loss,-2.7591904350937128e-05,-0.02800442809393886,False,False,False
+CP,PRK,North Korea,0.0,,benefit_without_observed_loss,0.00024523417078629303,-0.01939569396544572,False,False,False
+CP,PRT,Portugal,-0.0017900451427217,2036,opening_benefit_then_lost,-0.0019208394966024158,0.03830288099438597,False,False,True
+CP,PRY,Paraguay,0.0,,no_observed_benefit,0.00030022080022154237,0.03433668054743677,False,False,True
+CP,PSX,Palestine,0.0,,benefit_without_observed_loss,3.249027016374871e-05,-0.04796404385807667,False,False,False
+CP,PYF,French Polynesia,0.0,,benefit_without_observed_loss,2.1376700085144407e-06,-0.0013330763504394662,False,False,False
+CP,QAT,Qatar,0.0,,benefit_without_observed_loss,-1.4718151250004173e-06,-0.05844933850151522,False,False,False
+CP,ROU,Romania,-0.0011306576904195,2028,opening_benefit_then_lost,-0.000711726539462386,0.09132055830950521,False,False,True
+CP,RUS,Russia,0.0,,benefit_without_observed_loss,0.004378225398999068,-2.127612097443918,False,False,False
+CP,RWA,Rwanda,0.0,2072,formed_then_lost,9.801730129408227e-05,0.004605205025994282,False,False,True
+CP,SAH,Western Sahara,0.0,,benefit_without_observed_loss,-3.353741398913332e-08,-0.00010675005050410949,False,False,False
+CP,SAU,Saudi Arabia,0.0,,benefit_without_observed_loss,-0.00033509921080829047,-0.7155304880488195,False,False,False
+CP,SDN,Sudan,0.0,,benefit_without_observed_loss,0.00024627470662522995,-0.03661256237361011,False,False,False
+CP,SDS,South Sudan,0.0,,benefit_without_observed_loss,-7.477281955921761e-07,-0.0027977514891259223,False,False,False
+CP,SEN,Senegal,0.0,,benefit_without_observed_loss,7.518543724437803e-06,-0.020814403337961737,False,False,False
+CP,SGP,Singapore,0.0,,benefit_without_observed_loss,2.042835417831655e-05,-0.009916750208761978,False,False,False
+CP,SHN,Saint Helena,0.0,,benefit_without_observed_loss,-8.817182805686524e-08,-3.4593268452884284e-05,False,False,False
+CP,SLB,Solomon Islands,0.0,,benefit_without_observed_loss,-2.496988332388876e-08,-0.0008528614356406789,False,False,False
+CP,SLE,Sierra Leone,0.0,,no_observed_benefit,6.276321797329215e-05,0.0068364636254585245,False,False,True
+CP,SLV,El Salvador,0.0,,no_observed_benefit,0.00013004595480379627,0.010555713978880957,False,False,True
+CP,SMR,San Marino,0.0,,benefit_without_observed_loss,6.973322672926415e-07,-2.0264671134303565e-05,False,False,False
+CP,SOL,Somaliland,0.0,,benefit_without_observed_loss,3.4885268641163296e-06,-0.001900795163844584,False,False,False
+CP,SOM,Somalia,0.0,,benefit_without_observed_loss,-1.7582095003835112e-06,-0.0051123983869002165,False,False,False
+CP,SPM,Saint Pierre and Miquelon,0.0,2050,formed_then_lost,6.688319951989506e-08,9.014799914735431e-06,False,False,True
+CP,SRB,Republic of Serbia,0.0,,benefit_without_observed_loss,9.190548159317839e-05,-0.032658515413258274,False,False,False
+CP,STP,São Tomé and Principe,0.0,,benefit_without_observed_loss,1.3954211250811093e-07,-0.00017771447934995463,False,False,False
+CP,SUR,Suriname,0.0,2095,formed_then_lost,1.449147432299545e-05,0.0001783845100595777,False,False,True
+CP,SVK,Slovakia,0.0,,no_observed_benefit,0.00031953867569232063,0.034439328589836254,False,False,True
+CP,SVN,Slovenia,0.0,,no_observed_benefit,0.0001084812494807615,0.010628998652651484,False,False,True
+CP,SWE,Sweden,0.0037012072044723,,no_observed_benefit,0.004079772679492813,0.06756575330981686,False,False,True
+CP,SWZ,eSwatini,0.0,,no_observed_benefit,2.5839048857855798e-05,0.002226119616924667,False,False,True
+CP,SXM,Sint Maarten,0.0,,benefit_without_observed_loss,4.547431336538785e-08,-4.905254255873894e-05,False,False,False
+CP,SYC,Seychelles,0.0,,benefit_without_observed_loss,9.812790044684848e-08,-0.00023919695556120696,False,False,False
+CP,SYR,Syria,0.0,,benefit_without_observed_loss,-3.8736664292852994e-05,-0.24474549948459248,False,False,False
+CP,TCA,Turks and Caicos Islands,0.0,,benefit_without_observed_loss,-2.028747263221047e-08,-4.5830826378576097e-05,False,False,False
+CP,TCD,Chad,0.0,,benefit_without_observed_loss,-4.445215862072118e-06,-0.006916457250644163,False,False,False
+CP,TGO,Togo,0.0,,benefit_without_observed_loss,2.4340571428077176e-05,-0.00873294767761799,False,False,False
+CP,THA,Thailand,0.0,,benefit_without_observed_loss,0.0006127911054757685,-0.7233991508238163,False,False,False
+CP,TJK,Tajikistan,0.0,,benefit_without_observed_loss,0.0002320206471814672,-0.011156181628366279,False,False,False
+CP,TKM,Turkmenistan,0.0,,benefit_without_observed_loss,-0.0002725701654859153,-0.5666590101966992,False,False,False
+CP,TLS,East Timor,0.0,,benefit_without_observed_loss,-8.452159357185512e-07,-0.009129030033203709,False,False,False
+CP,TON,Tonga,0.0,,benefit_without_observed_loss,4.2250699690589534e-08,-4.3357526488297056e-05,False,False,False
+CP,TTO,Trinidad and Tobago,0.0,,benefit_without_observed_loss,-1.7862702002872154e-06,-0.002839506414207006,False,False,False
+CP,TUN,Tunisia,0.0,,benefit_without_observed_loss,9.516638772597485e-05,-0.12932755798912515,False,False,False
+CP,TUR,Turkey,0.0,,benefit_without_observed_loss,0.0011324904732847407,-0.11741173198025898,False,False,False
+CP,TWN,Taiwan,-0.0214114320853155,,benefit_without_observed_loss,-0.02897243803337506,-0.3186033330322087,False,False,False
+CP,TZA,United Republic of Tanzania,0.0,,benefit_without_observed_loss,0.0003284727042828931,-0.0006060759170635154,False,False,False
+CP,UGA,Uganda,0.0,,no_observed_benefit,0.0003603220900424164,0.038245895619334676,False,False,True
+CP,UKR,Ukraine,0.0,,benefit_without_observed_loss,0.0017739500028546844,-0.5204692201220052,False,False,False
+CP,URY,Uruguay,0.0,,no_observed_benefit,0.00014902176535789647,0.015258525431716002,False,False,True
+CP,USA,United States of America,-0.1000120978229487,2096,opening_benefit_then_lost,-0.11642764019463028,0.1753318779718682,False,False,True
+CP,UZB,Uzbekistan,0.0,,benefit_without_observed_loss,-0.0008131738137039571,-2.150153689192881,False,False,False
+CP,VAT,Vatican,0.0,,benefit_without_observed_loss,7.349232529247127e-08,-3.472741599747058e-06,False,False,False
+CP,VCT,Saint Vincent and the Grenadines,0.0,,benefit_without_observed_loss,-4.2735966415666045e-09,-3.033084094679952e-05,False,False,False
+CP,VEN,Venezuela,0.0,,no_observed_benefit,0.0006205855572893119,0.04576150039333925,False,False,True
+CP,VGB,British Virgin Islands,0.0,,benefit_without_observed_loss,-1.62014832734862e-08,-1.279514202681895e-05,False,False,False
+CP,VIR,United States Virgin Islands,0.0,,benefit_without_observed_loss,-7.481671785530839e-07,-0.0010792099831131291,False,False,False
+CP,VNM,Vietnam,0.0,,benefit_without_observed_loss,0.0009530496475039683,-0.43430946104289514,False,False,False
+CP,VUT,Vanuatu,0.0,,benefit_without_observed_loss,1.6861427735137912e-06,-0.0005118100390990255,False,False,False
+CP,WLF,Wallis and Futuna,0.0,,benefit_without_observed_loss,6.187624757296784e-08,-3.9813243674331655e-05,False,False,False
+CP,WSM,Samoa,0.0,,benefit_without_observed_loss,1.6527031815758823e-06,-0.00034822725452353235,False,False,False
+CP,YEM,Yemen,0.0,,benefit_without_observed_loss,-1.495934453052938e-06,-0.07858349152218172,False,False,False
+CP,ZAF,South Africa,-0.0239230298300597,,benefit_without_observed_loss,-0.031314053545242616,-0.44823637152462137,False,False,False
+CP,ZMB,Zambia,0.0,,no_observed_benefit,0.000155062613582963,0.012520478556393702,False,False,True
+CP,ZWE,Zimbabwe,0.0,,benefit_without_observed_loss,6.448889472911474e-05,-0.005696795083618101,False,False,False
+NDC,ABW,Aruba,0.0,2038,formed_then_lost,1.6316241148233415e-07,3.8239469668553063e-05,True,False,True
+NDC,AFG,Afghanistan,0.0,,no_observed_benefit,0.00032266663948529614,0.036291684478197084,False,False,True
+NDC,AGO,Angola,0.0,,no_observed_benefit,0.0002727904398322949,0.031756845148895756,False,False,True
+NDC,AIA,Anguilla,0.0,2038,formed_then_lost,6.71710310697851e-09,1.3308045384557884e-06,False,False,True
+NDC,ALB,Albania,0.0,,no_observed_benefit,0.00011004120056035504,0.012414162308622207,False,False,True
+NDC,ALD,Aland,0.0,,no_observed_benefit,4.3934589318670904e-07,5.856234561622882e-05,False,False,True
+NDC,AND,Andorra,0.0,2090,formed_then_lost,1.3221391793227422e-06,5.439278669066989e-05,False,False,True
+NDC,ARE,United Arab Emirates,0.0,,benefit_without_observed_loss,-5.328467238906908e-05,-0.12543590123891254,False,False,False
+NDC,ARG,Argentina,0.0,2031,formed_then_lost,0.0009481828634985368,0.11719630859854542,False,False,True
+NDC,ARM,Armenia,0.0,,benefit_without_observed_loss,0.00010728195270777501,-0.015501876745001853,False,False,False
+NDC,ASM,American Samoa,0.0,,benefit_without_observed_loss,-2.7183423377595375e-08,-4.026671639149676e-05,False,False,False
+NDC,ATG,Antigua and Barbuda,0.0,2043,formed_then_lost,-1.8118661556919579e-09,5.537773361919775e-08,True,False,True
+NDC,AUS,Australia,-0.093460901257942,2089,opening_benefit_then_lost,-0.11320243302849967,0.04559503206751915,False,False,True
+NDC,AUT,Austria,0.0030553676087259,,no_observed_benefit,0.0025789143149802245,0.07291438631749153,False,False,True
+NDC,AZE,Azerbaijan,0.0,,benefit_without_observed_loss,6.637532055912185e-05,-0.17970883894268713,False,False,False
+NDC,BDI,Burundi,0.0,,no_observed_benefit,7.549859448725959e-05,0.008683884251453106,False,False,True
+NDC,BEL,Belgium,0.0,,no_observed_benefit,0.000611499902190881,0.07649562379238052,False,False,True
+NDC,BEN,Benin,0.0,2068,formed_then_lost,1.606327373786223e-05,0.0026124265405557618,False,False,True
+NDC,BFA,Burkina Faso,0.0,2070,formed_then_lost,1.2217439569881886e-05,0.002259730408847992,False,False,True
+NDC,BGD,Bangladesh,0.0,,benefit_without_observed_loss,8.286209566480661e-05,-0.009415960314805441,False,False,False
+NDC,BGR,Bulgaria,0.0,,no_observed_benefit,0.0002652712318394296,0.045155422583066054,False,False,True
+NDC,BHR,Bahrain,0.0,,benefit_without_observed_loss,-2.499420641499111e-05,-0.016035848921605558,False,False,False
+NDC,BHS,The Bahamas,0.0,2040,formed_then_lost,-6.627178539037705e-09,0.00023395490062521612,True,False,True
+NDC,BIH,Bosnia and Herzegovina,0.0,,benefit_without_observed_loss,4.841314292089358e-05,-0.0031726684300016363,False,False,False
+NDC,BLM,Saint Barthelemy,0.0,2038,formed_then_lost,1.1544223917315263e-08,2.320518234963816e-06,False,False,True
+NDC,BLR,Belarus,0.0,,benefit_without_observed_loss,0.0002716740117037951,-0.08164783268045905,False,False,False
+NDC,BLZ,Belize,0.0,,no_observed_benefit,1.3883688521172441e-05,0.0016064284895620003,False,False,True
+NDC,BMU,Bermuda,0.0,2037,formed_then_lost,3.193499348623311e-08,5.642525618619281e-06,False,False,True
+NDC,BOL,Bolivia,0.0,2035,formed_then_lost,0.00010173378098429543,0.01421211623289288,False,False,True
+NDC,BRA,Brazil,0.0156029846503584,,no_observed_benefit,0.015257488525483682,0.7380649808491888,False,False,True
+NDC,BRB,Barbados,0.0,2042,formed_then_lost,-2.0627403094642608e-07,1.3595304334267318e-05,True,False,True
+NDC,BRN,Brunei,0.0,,benefit_without_observed_loss,-1.070295938378787e-05,-0.0020707705709041755,False,False,False
+NDC,BTN,Bhutan,0.0,,no_observed_benefit,1.999734199856048e-05,0.0022583005636466575,False,False,True
+NDC,BWA,Botswana,0.0,,benefit_without_observed_loss,-4.0778624187326386e-05,-0.0043207507532235095,False,False,False
+NDC,CAF,Central African Republic,0.0,,no_observed_benefit,3.442953419400523e-05,0.0039258385839096785,False,False,True
+NDC,CAN,Canada,-9.489027678522731e-05,2025,opening_benefit_then_lost,0.0016135056796426719,0.26954056468274407,False,False,True
+NDC,CHE,Switzerland,0.0056873603316516,,no_observed_benefit,0.00579267691859219,0.05572053177981034,False,False,True
+NDC,CHL,Chile,-3.245681968130714e-05,2025,opening_benefit_then_lost,0.00021649052841848438,0.03445513860942218,True,False,True
+NDC,CHN,China,-0.3009266842944314,,benefit_without_observed_loss,-0.5133261971791603,-5.55005127928773,False,False,False
+NDC,CIV,Ivory Coast,0.0,2035,formed_then_lost,0.00014281420512155581,0.01723151530341278,False,False,True
+NDC,CMR,Cameroon,0.0,,no_observed_benefit,0.00014507851891369902,0.0171243865393407,False,False,True
+NDC,COD,Democratic Republic of the Congo,0.0,,no_observed_benefit,0.0004371842084587029,0.04979196022546155,False,False,True
+NDC,COG,Republic of the Congo,0.0,2068,formed_then_lost,5.739955379577555e-06,0.0010345025607904385,False,False,True
+NDC,COK,Cook Islands,0.0,2093,formed_then_lost,1.28765325553405e-07,5.547881875127489e-06,False,False,True
+NDC,COL,Colombia,0.0002819819935135,,no_observed_benefit,0.0007294918233523131,0.07777074361606279,False,False,True
+NDC,COM,Comoros,0.0,,benefit_without_observed_loss,-6.128866800425724e-07,-5.971957089376066e-05,False,False,False
+NDC,CPV,Cabo Verde,0.0,2071,formed_then_lost,4.716680918641556e-07,0.00011562348589199759,False,False,True
+NDC,CRI,Costa Rica,0.0,,no_observed_benefit,0.0002303176957148414,0.026226492062405165,False,False,True
+NDC,CUB,Cuba,0.0,2041,formed_then_lost,-4.846234610633701e-06,0.0014342573662082631,True,False,True
+NDC,CUW,Curaçao,0.0,2038,formed_then_lost,4.587445408542324e-07,9.86978965891306e-05,True,False,True
+NDC,CYM,Cayman Islands,0.0,2043,formed_then_lost,-8.137755488892226e-08,2.43637200110186e-06,True,False,True
+NDC,CYN,Northern Cyprus,0.0,,no_observed_benefit,2.8177107687608693e-05,0.004572558895018352,False,False,True
+NDC,CYP,Cyprus,0.0,2037,formed_then_lost,1.0906855863093645e-05,0.008211648865494567,False,False,True
+NDC,CZE,Czechia,-0.0080166164479314,2038,opening_benefit_then_lost,-0.008488494576521136,0.07695523619148914,False,False,True
+NDC,DEU,Germany,-0.1053989787587892,2055,opening_benefit_then_lost,-0.1195391650031891,0.3508430324885764,False,False,True
+NDC,DJI,Djibouti,0.0,,benefit_without_observed_loss,-1.6480000803801603e-06,-0.00013700494835786083,False,False,False
+NDC,DMA,Dominica,0.0,2040,formed_then_lost,8.790640251041157e-09,3.162211547779585e-06,True,False,True
+NDC,DNK,Denmark,-0.0002116893705941,2026,opening_benefit_then_lost,-4.303130913877376e-05,0.044444219316387035,False,False,True
+NDC,DOM,Dominican Republic,0.0,2039,formed_then_lost,2.15912971294927e-05,0.005251862879973477,True,False,True
+NDC,DZA,Algeria,0.0,,benefit_without_observed_loss,0.00010253564715566755,-0.2064153949510054,False,False,False
+NDC,ECU,Ecuador,0.0,,no_observed_benefit,0.0002242915236884592,0.025800888353799945,False,False,True
+NDC,EGY,Egypt,0.0,,benefit_without_observed_loss,8.53398645254066e-05,-0.31152477498593356,False,False,False
+NDC,ERI,Eritrea,0.0,2098,formed_then_lost,-7.833561029784158e-07,8.77844741802611e-05,False,False,True
+NDC,ESP,Spain,0.0006707481569136,,no_observed_benefit,0.0008030262602826764,0.27635437527522067,False,False,True
+NDC,EST,Estonia,0.0,,no_observed_benefit,5.69721649610869e-05,0.00826179044606654,False,False,True
+NDC,ETH,Ethiopia,0.0,,no_observed_benefit,0.0010887715374116702,0.12442694692564213,False,False,True
+NDC,FIN,Finland,0.0006097183048751,,no_observed_benefit,0.0008445811669363888,0.043018697806346054,False,False,True
+NDC,FJI,Fiji,0.0,2037,formed_then_lost,2.0749150777678446e-05,0.0021125809527713334,False,False,True
+NDC,FRA,France,0.0069745840107748,,no_observed_benefit,0.010391266720195785,0.5360993629985312,False,False,True
+NDC,FRO,Faroe Islands,0.0,,no_observed_benefit,1.4861129129179462e-06,0.00020489994694944662,False,False,True
+NDC,FSM,Federated States of Micronesia,0.0,2090,formed_then_lost,9.929412610156817e-08,6.252272533533136e-06,False,False,True
+NDC,GAB,Gabon,0.0,2033,formed_then_lost,1.7453300460042314e-05,0.002104449101021877,False,False,True
+NDC,GBR,United Kingdom,-0.006032182040172,2030,opening_benefit_then_lost,-0.005258633905882001,0.26514626397649005,False,False,True
+NDC,GEO,Georgia,0.0,,benefit_without_observed_loss,0.00018392401017747908,-0.003579992849063949,False,False,False
+NDC,GGY,Guernsey,0.0,,no_observed_benefit,2.465293571945935e-06,0.00034166780556611434,False,False,True
+NDC,GHA,Ghana,0.0,2041,formed_then_lost,0.0001889050229020233,0.024126062080966897,False,False,True
+NDC,GIN,Guinea,0.0,,no_observed_benefit,6.709596922923053e-05,0.007872719891037888,False,False,True
+NDC,GMB,Gambia,0.0,,benefit_without_observed_loss,-6.589866948360204e-06,-0.000438948920892676,False,False,False
+NDC,GNB,Guinea-Bissau,0.0,2099,formed_then_lost,-5.720221976747029e-07,2.2147498466133902e-05,False,False,True
+NDC,GNQ,Equatorial Guinea,0.0,2058,formed_then_lost,3.589247574067077e-06,0.0004807165199908231,False,False,True
+NDC,GRC,Greece,-0.0152473469975596,2061,opening_benefit_then_lost,-0.017710742488785975,0.04737189145679094,False,False,True
+NDC,GRD,Grenada,0.0,2071,formed_then_lost,-2.1789679526211227e-08,1.878770231383693e-08,True,False,True
+NDC,GRL,Greenland,0.0,,no_observed_benefit,6.120483084684303e-07,6.640336516209003e-05,False,False,True
+NDC,GTM,Guatemala,0.0,,no_observed_benefit,0.0002173062772509176,0.02540315431325992,False,False,True
+NDC,GUM,Guam,0.0,,benefit_without_observed_loss,1.7379852868729645e-07,-0.00017460310257324656,False,False,False
+NDC,GUY,Guyana,0.0,2038,formed_then_lost,6.604286680629226e-07,0.00013475736408411463,False,False,True
+NDC,HKG,Hong Kong S.A.R.,0.0,,benefit_without_observed_loss,3.3240371558154522e-06,-0.00560483172204921,False,False,False
+NDC,HND,Honduras,0.0,,no_observed_benefit,0.00012732332838867486,0.015280756365975956,False,False,True
+NDC,HRV,Croatia,0.0,,no_observed_benefit,0.0002133254461450213,0.029563867121818566,False,False,True
+NDC,HTI,Haiti,0.0,2040,formed_then_lost,2.8248977834400984e-06,0.00130783489103264,True,False,True
+NDC,HUN,Hungary,7.990771363292843e-05,2031,formed_then_lost,-0.00025149425829911116,0.06885579641726083,False,False,True
+NDC,IDN,Indonesia,0.0,,benefit_without_observed_loss,-1.5948449052098275e-05,-0.15770148684334134,False,False,False
+NDC,IMN,Isle of Man,0.0,,no_observed_benefit,3.4025363425873656e-06,0.00045341952973326175,False,False,True
+NDC,IND,India,-0.0432842765203429,2094,opening_benefit_then_lost,-0.058581778563029055,0.23198060181018748,False,False,True
+NDC,IOA,Indian Ocean Territories,0.0,,benefit_without_observed_loss,2.2024231268049333e-11,-1.4619112268067428e-07,False,False,False
+NDC,IRL,Ireland,0.0,,no_observed_benefit,0.00025340642448757163,0.03411134402492119,False,False,True
+NDC,IRN,Iran,0.0,,benefit_without_observed_loss,6.384109302892494e-05,-0.5587275929010215,False,False,False
+NDC,IRQ,Iraq,0.0,,benefit_without_observed_loss,-3.497491722571492e-05,-0.22262666289643024,False,False,False
+NDC,ISL,Iceland,0.0,,no_observed_benefit,1.8226963296290802e-05,0.00205820881910716,False,False,True
+NDC,ISR,Israel,0.0,,benefit_without_observed_loss,2.244789703701621e-05,-0.06485757304573751,False,False,False
+NDC,ITA,Italy,-0.0601057090379451,2046,opening_benefit_then_lost,-0.0665063801669537,0.2834577794138223,False,False,True
+NDC,JAM,Jamaica,0.0,2038,formed_then_lost,8.328113461936385e-06,0.001848334264130414,True,False,True
+NDC,JEY,Jersey,0.0,,no_observed_benefit,2.352580573004725e-06,0.0003266647217047367,False,False,True
+NDC,JOR,Jordan,0.0,,benefit_without_observed_loss,2.3464403192044795e-05,-0.04889392560965316,False,False,False
+NDC,JPN,Japan,-0.0957245038755166,2082,opening_benefit_then_lost,-0.10734150888044794,0.20386761273307596,False,False,True
+NDC,KAZ,Kazakhstan,0.0,,benefit_without_observed_loss,2.666235887414694e-05,-0.40884312500297554,False,False,False
+NDC,KEN,Kenya,0.0,,no_observed_benefit,0.0006156739939241682,0.07034283669364909,False,False,True
+NDC,KGZ,Kyrgyzstan,0.0,2081,formed_then_lost,0.00024991712948998536,0.00791156932625218,False,False,True
+NDC,KHM,Cambodia,0.0,2064,formed_then_lost,0.0001327051439065387,0.011678236728736283,False,False,True
+NDC,KIR,Kiribati,0.0,2100,formed_then_lost,2.196683038043609e-08,1.9017122456681423e-08,False,False,True
+NDC,KNA,Saint Kitts and Nevis,0.0,2070,formed_then_lost,-3.026388649482012e-08,3.0851041095062614e-07,True,False,True
+NDC,KOR,South Korea,-0.0072474120912978,2068,opening_benefit_then_lost,-0.008708782763791976,0.05327479852244297,False,False,True
+NDC,KOS,Kosovo,0.0,,benefit_without_observed_loss,-1.011391922871986e-05,-0.006866982017152218,False,False,False
+NDC,KWT,Kuwait,0.0,,benefit_without_observed_loss,-1.1479053783687502e-05,-0.032251681609166305,False,False,False
+NDC,LAO,Laos,0.0,2039,formed_then_lost,0.00012584985246106046,0.012578822557297656,False,False,True
+NDC,LBN,Lebanon,0.0,,benefit_without_observed_loss,1.1803801482129812e-05,-0.03593122613268063,False,False,False
+NDC,LBR,Liberia,0.0,2037,formed_then_lost,1.5575162701446892e-05,0.001896434030422111,False,False,True
+NDC,LBY,Libya,0.0,,benefit_without_observed_loss,-0.00010775586250746823,-0.10290764361284092,False,False,False
+NDC,LCA,Saint Lucia,0.0,2072,formed_then_lost,-6.693679760511313e-08,-1.464399530423345e-06,True,True,False
+NDC,LIE,Liechtenstein,0.0,2075,formed_then_lost,1.8649524291434095e-06,9.643097319357694e-05,False,False,True
+NDC,LKA,Sri Lanka,-0.0014038491089634,,benefit_without_observed_loss,-0.0020740123411999937,-0.0009471736870125215,False,False,False
+NDC,LSO,Lesotho,0.0,,no_observed_benefit,4.2372531472883105e-05,0.0048561741622530135,False,False,True
+NDC,LTU,Lithuania,0.0008343303916948,,no_observed_benefit,0.0007019431086121405,0.0205300085548694,False,False,True
+NDC,LUX,Luxembourg,-1.3703586579389364e-05,2033,opening_benefit_then_lost,-4.82305491748011e-05,0.003956689987137142,False,False,True
+NDC,LVA,Latvia,0.0,,no_observed_benefit,0.00010629768689545812,0.01329781666727936,False,False,True
+NDC,MAC,Macao S.A.R,0.0,,benefit_without_observed_loss,1.0778713853447165e-06,-0.0001314312766201501,False,False,False
+NDC,MAF,Saint Martin,0.0,2038,formed_then_lost,1.930750182803563e-08,3.7214464852748313e-06,False,False,True
+NDC,MAR,Morocco,0.0,,benefit_without_observed_loss,1.7530293208538056e-05,-0.1730867736203779,False,False,False
+NDC,MCO,Monaco,0.0,2092,formed_then_lost,4.5983331045894474e-07,1.6959501096692215e-05,False,False,True
+NDC,MDA,Moldova,0.0,,benefit_without_observed_loss,9.192796169562938e-05,-0.07951701260583585,False,False,False
+NDC,MDG,Madagascar,0.0,2039,formed_then_lost,4.258072291045822e-05,0.0050891384844620234,False,False,True
+NDC,MDV,Maldives,0.0,,benefit_without_observed_loss,-8.331234017088515e-09,-4.7594448676837275e-06,False,False,False
+NDC,MEX,Mexico,0.0,2036,formed_then_lost,0.0009932190920864377,0.13938330374529284,False,False,True
+NDC,MHL,Marshall Islands,0.0,2095,formed_then_lost,7.185326491715659e-09,3.0486611916944794e-07,False,False,True
+NDC,MKD,North Macedonia,0.0,,benefit_without_observed_loss,2.4461072130066485e-05,-0.0008254456205101636,False,False,False
+NDC,MLI,Mali,0.0,2039,formed_then_lost,5.621917338670532e-05,0.007083569135363605,False,False,True
+NDC,MLT,Malta,0.0,2034,formed_then_lost,8.004779258674681e-06,0.002509247846677472,False,False,True
+NDC,MMR,Myanmar,0.0,2072,formed_then_lost,0.0003174924173447478,0.02244165880673741,False,False,True
+NDC,MNE,Montenegro,0.0,2090,formed_then_lost,4.804334125372699e-06,0.0001877070432503066,False,False,True
+NDC,MNG,Mongolia,0.0,,benefit_without_observed_loss,9.163242711403086e-06,-0.0007272061126084052,False,False,False
+NDC,MNP,Northern Mariana Islands,0.0,2096,formed_then_lost,6.570282853731579e-07,2.2547516124654086e-05,False,False,True
+NDC,MOZ,Mozambique,0.0,,no_observed_benefit,0.00019131105835516215,0.02183398749550356,False,False,True
+NDC,MRT,Mauritania,0.0,2063,formed_then_lost,8.016394992185325e-06,0.001126136094807421,False,False,True
+NDC,MUS,Mauritius,0.0,2098,formed_then_lost,-7.266169041145891e-07,9.905842130260672e-05,False,False,True
+NDC,MWI,Malawi,0.0,,no_observed_benefit,0.0001847033018469211,0.02102563853147206,False,False,True
+NDC,MYS,Malaysia,0.0,,benefit_without_observed_loss,9.635447613499855e-05,-0.020063810485676948,False,False,False
+NDC,NAM,Namibia,0.0,,no_observed_benefit,5.50797260467688e-05,0.006347723367702243,False,False,True
+NDC,NCL,New Caledonia,0.0,,benefit_without_observed_loss,1.5879593506901898e-06,-0.00013672470904575146,False,False,False
+NDC,NER,Niger,0.0,,benefit_without_observed_loss,-2.1046200530134142e-05,-0.001920792881647429,False,False,False
+NDC,NFK,Norfolk Island,0.0,2074,formed_then_lost,6.894748483494433e-08,4.666952399604336e-06,False,False,True
+NDC,NGA,Nigeria,0.0,2063,formed_then_lost,0.0003736618171456923,0.05300109955771224,False,False,True
+NDC,NIC,Nicaragua,0.0,,no_observed_benefit,8.111407569492087e-05,0.009588117749107943,False,False,True
+NDC,NIU,Niue,0.0,2092,formed_then_lost,2.43356356271642e-08,1.281571859903219e-06,False,False,True
+NDC,NLD,Netherlands,-0.0149902867092522,2068,opening_benefit_then_lost,-0.020188444240746888,0.03777761077818104,False,False,True
+NDC,NOR,Norway,0.0,,no_observed_benefit,0.0003308169878909388,0.03731657537072713,False,False,True
+NDC,NPL,Nepal,0.0,,no_observed_benefit,0.0003995165207348826,0.045330327140359686,False,False,True
+NDC,NRU,Nauru,0.0,,benefit_without_observed_loss,-2.1461955231306458e-07,-3.64416763697568e-05,False,False,False
+NDC,NZL,New Zealand,0.0,,no_observed_benefit,0.00035247241994838704,0.046726066418177496,False,False,True
+NDC,OMN,Oman,0.0,,benefit_without_observed_loss,1.1365051176808595e-05,-0.03880079355811356,False,False,False
+NDC,PAK,Pakistan,0.0,2077,formed_then_lost,0.0008779363964493966,0.06140551872405084,False,False,True
+NDC,PAN,Panama,0.0,,no_observed_benefit,0.00012509666685506682,0.014401385659917571,False,False,True
+NDC,PER,Peru,0.0,,no_observed_benefit,0.0004977911914742401,0.05853980125683389,False,False,True
+NDC,PHL,Philippines,-0.000165644238992,,benefit_without_observed_loss,-6.6933097994517155e-06,-0.0030597223103437906,False,False,False
+NDC,PLW,Palau,0.0,2091,formed_then_lost,5.882185812760514e-08,3.4379261526818604e-06,False,False,True
+NDC,PNG,Papua New Guinea,0.0,2072,formed_then_lost,1.9532112962484634e-05,0.0013473756275751742,False,False,True
+NDC,POL,Poland,-0.0066933132435234,2046,opening_benefit_then_lost,-0.012145498828348963,0.14963225157398047,False,False,True
+NDC,PRI,Puerto Rico,0.0,,benefit_without_observed_loss,-2.7591904350937128e-05,-0.0011837657141790777,False,False,False
+NDC,PRK,North Korea,0.0,2044,formed_then_lost,0.00024523417078629303,0.024583739875513374,False,False,True
+NDC,PRT,Portugal,-0.0017900451427217,2033,opening_benefit_then_lost,-0.0019208394966024158,0.06846160992002584,False,False,True
+NDC,PRY,Paraguay,0.0,,no_observed_benefit,0.00030022080022154237,0.034402130586880936,False,False,True
+NDC,PSX,Palestine,0.0,,benefit_without_observed_loss,3.249027016374871e-05,-0.024243644719180425,False,False,False
+NDC,PYF,French Polynesia,0.0,2092,formed_then_lost,2.1376700085144407e-06,0.00011522107087551421,False,False,True
+NDC,QAT,Qatar,0.0,,benefit_without_observed_loss,-1.4718151250004173e-06,-0.031439567308656595,False,False,False
+NDC,ROU,Romania,-0.0011306576904195,2028,opening_benefit_then_lost,-0.000711726539462386,0.14584592792302228,False,False,True
+NDC,RUS,Russia,0.0,,benefit_without_observed_loss,0.004378225398999068,-1.0069054299768605,False,False,False
+NDC,RWA,Rwanda,0.0,,no_observed_benefit,9.801730129408227e-05,0.011299144253973777,False,False,True
+NDC,SAH,Western Sahara,0.0,,benefit_without_observed_loss,-3.353741398913332e-08,-5.931499319260256e-05,False,False,False
+NDC,SAU,Saudi Arabia,0.0,,benefit_without_observed_loss,-0.00033509921080829047,-0.40192144451672324,False,False,False
+NDC,SDN,Sudan,0.0,,benefit_without_observed_loss,0.00024627470662522995,-0.007421206604708714,False,False,False
+NDC,SDS,South Sudan,0.0,,benefit_without_observed_loss,-7.477281955921761e-07,-2.8173768881868797e-05,False,False,False
+NDC,SEN,Senegal,0.0,2071,formed_then_lost,7.518543724437803e-06,0.00205999203607895,True,False,True
+NDC,SGP,Singapore,0.0,2077,formed_then_lost,2.042835417831655e-05,0.0012991269040556494,False,False,True
+NDC,SHN,Saint Helena,0.0,,benefit_without_observed_loss,-8.817182805686524e-08,-8.847184645009423e-06,False,False,False
+NDC,SLB,Solomon Islands,0.0,,benefit_without_observed_loss,-2.496988332388876e-08,-5.706891472377215e-05,False,False,False
+NDC,SLE,Sierra Leone,0.0,,no_observed_benefit,6.276321797329215e-05,0.007147867150123507,False,False,True
+NDC,SLV,El Salvador,0.0,,no_observed_benefit,0.00013004595480379627,0.015058910202613233,False,False,True
+NDC,SMR,San Marino,0.0,2085,formed_then_lost,6.973322672926415e-07,3.273713883965243e-05,False,False,True
+NDC,SOL,Somaliland,0.0,2065,formed_then_lost,3.4885268641163296e-06,0.0004891788298539626,False,False,True
+NDC,SOM,Somalia,0.0,,benefit_without_observed_loss,-1.7582095003835112e-06,-7.10536197392217e-05,False,False,False
+NDC,SPM,Saint Pierre and Miquelon,0.0,,no_observed_benefit,6.688319951989506e-08,1.6339779628627804e-05,False,False,True
+NDC,SRB,Republic of Serbia,0.0,,benefit_without_observed_loss,9.190548159317839e-05,-0.009246348253913192,False,False,False
+NDC,STP,São Tomé and Principe,0.0,2069,formed_then_lost,1.3954211250811093e-07,2.5478443677294867e-05,False,False,True
+NDC,SUR,Suriname,0.0,,no_observed_benefit,1.449147432299545e-05,0.0017720909608666996,False,False,True
+NDC,SVK,Slovakia,0.0,,no_observed_benefit,0.00031953867569232063,0.04050222908716205,False,False,True
+NDC,SVN,Slovenia,0.0,,no_observed_benefit,0.0001084812494807615,0.01553193380794719,False,False,True
+NDC,SWE,Sweden,0.0037012072044723,,no_observed_benefit,0.004079772679492813,0.06773311737051006,False,False,True
+NDC,SWZ,eSwatini,0.0,,no_observed_benefit,2.5839048857855798e-05,0.00296811465931188,False,False,True
+NDC,SXM,Sint Maarten,0.0,2038,formed_then_lost,4.547431336538785e-08,9.156966017565113e-06,False,False,True
+NDC,SYC,Seychelles,0.0,2073,formed_then_lost,9.812790044684848e-08,1.9493108729532696e-05,True,False,True
+NDC,SYR,Syria,0.0,,benefit_without_observed_loss,-3.8736664292852994e-05,-0.13413468111177568,False,False,False
+NDC,TCA,Turks and Caicos Islands,0.0,2043,formed_then_lost,-2.028747263221047e-08,8.842847304712606e-07,True,False,True
+NDC,TCD,Chad,0.0,,benefit_without_observed_loss,-4.445215862072118e-06,-0.0002525854960113786,False,False,False
+NDC,TGO,Togo,0.0,2061,formed_then_lost,2.4340571428077176e-05,0.0033076753281041905,False,False,True
+NDC,THA,Thailand,0.0,2100,formed_then_lost,0.0006127911054757685,0.0015867784193975996,False,False,True
+NDC,TJK,Tajikistan,0.0,2092,formed_then_lost,0.0002320206471814672,0.004674255808964935,False,False,True
+NDC,TKM,Turkmenistan,0.0,,benefit_without_observed_loss,-0.0002725701654859153,-0.33405546493225197,False,False,False
+NDC,TLS,East Timor,0.0,,benefit_without_observed_loss,-8.452159357185512e-07,-0.0007668260674993024,False,False,False
+NDC,TON,Tonga,0.0,,benefit_without_observed_loss,4.2250699690589534e-08,-5.9425614051718424e-08,False,False,False
+NDC,TTO,Trinidad and Tobago,0.0,2072,formed_then_lost,-1.7862702002872154e-06,-2.7083031523346543e-05,True,True,False
+NDC,TUN,Tunisia,0.0,,benefit_without_observed_loss,9.516638772597485e-05,-0.06511131444742986,False,False,False
+NDC,TUR,Turkey,0.0,2098,formed_then_lost,0.0011324904732847407,0.017035844376196242,False,False,True
+NDC,TWN,Taiwan,-0.0214114320853155,,benefit_without_observed_loss,-0.02897243803337506,-0.16298402183170208,False,False,False
+NDC,TZA,United Republic of Tanzania,0.0,,no_observed_benefit,0.0003284727042828931,0.03813031114587488,False,False,True
+NDC,UGA,Uganda,0.0,,no_observed_benefit,0.0003603220900424164,0.0410382398177706,False,False,True
+NDC,UKR,Ukraine,0.0,,benefit_without_observed_loss,0.0017739500028546844,-0.21312017571429737,False,False,False
+NDC,URY,Uruguay,0.0,,no_observed_benefit,0.00014902176535789647,0.01716973883762659,False,False,True
+NDC,USA,United States of America,-0.1000120978229487,2037,opening_benefit_then_lost,-0.11646695602584363,2.5426825247262563,False,False,True
+NDC,UZB,Uzbekistan,0.0,,benefit_without_observed_loss,-0.0008131738137039571,-1.2570744780138008,False,False,False
+NDC,VAT,Vatican,0.0,2091,formed_then_lost,7.349232529247127e-08,2.857342408653216e-06,False,False,True
+NDC,VCT,Saint Vincent and the Grenadines,0.0,2041,formed_then_lost,-4.2735966415666045e-09,1.170199699155372e-06,True,False,True
+NDC,VEN,Venezuela,0.0,,no_observed_benefit,0.0006205855572893119,0.07193261720781305,False,False,True
+NDC,VGB,British Virgin Islands,0.0,,benefit_without_observed_loss,-1.62014832734862e-08,-1.0691400485336215e-06,False,False,False
+NDC,VIR,United States Virgin Islands,0.0,2072,formed_then_lost,-7.481671785530839e-07,-1.3975118084627132e-05,True,True,False
+NDC,VNM,Vietnam,0.0,2075,formed_then_lost,0.0009530496475039683,0.061681513553497075,False,False,True
+NDC,VUT,Vanuatu,0.0,2068,formed_then_lost,1.6861427735137912e-06,0.00013459961018340004,False,False,True
+NDC,WLF,Wallis and Futuna,0.0,2091,formed_then_lost,6.187624757296784e-08,3.6018974683492324e-06,False,False,True
+NDC,WSM,Samoa,0.0,2064,formed_then_lost,1.6527031815758823e-06,0.0001508934472576415,False,False,True
+NDC,YEM,Yemen,0.0,,benefit_without_observed_loss,-1.495934453052938e-06,-0.04256698094141868,False,False,False
+NDC,ZAF,South Africa,-0.0239230298300597,,benefit_without_observed_loss,-0.031314053545242616,-0.10075527990634797,False,False,False
+NDC,ZMB,Zambia,0.0,,no_observed_benefit,0.000155062613582963,0.017608407807758065,False,False,True
+NDC,ZWE,Zimbabwe,0.0,2038,formed_then_lost,6.448889472911474e-05,0.00697003945971041,False,False,True
+B2C,ABW,Aruba,0.0,,benefit_without_observed_loss,1.6316241148233415e-07,-0.00011885264048988328,False,False,False
+B2C,AFG,Afghanistan,0.0,,no_observed_benefit,0.00032266663948529614,0.03568023246519851,False,False,True
+B2C,AGO,Angola,0.0,,no_observed_benefit,0.0002727904398322949,0.03314157646889006,False,False,True
+B2C,AIA,Anguilla,0.0,,benefit_without_observed_loss,6.71710310697851e-09,-3.3368630437402624e-06,False,False,False
+B2C,ALB,Albania,0.0,,no_observed_benefit,0.00011004120056035504,0.012381666430760585,False,False,True
+B2C,ALD,Aland,0.0,,no_observed_benefit,4.3934589318670904e-07,4.880326440146977e-05,False,False,True
+B2C,AND,Andorra,0.0,2045,formed_then_lost,1.3221391793227422e-06,0.00022172258653486797,False,False,True
+B2C,ARE,United Arab Emirates,0.0,,benefit_without_observed_loss,-5.328467238906908e-05,-0.04572417361153315,False,False,False
+B2C,ARG,Argentina,0.0,2065,formed_then_lost,0.0009481828634985368,0.033503668765926566,False,False,True
+B2C,ARM,Armenia,0.0,2073,formed_then_lost,0.00010728195270777501,0.005169175414660691,False,False,True
+B2C,ASM,American Samoa,0.0,,benefit_without_observed_loss,-2.7183423377595375e-08,-2.1246231955880874e-05,False,False,False
+B2C,ATG,Antigua and Barbuda,0.0,,benefit_without_observed_loss,-1.8118661556919579e-09,-1.984964334844915e-06,False,False,False
+B2C,AUS,Australia,-0.093460901257942,,benefit_without_observed_loss,-0.11320243302849967,-0.0681635295697914,False,False,False
+B2C,AUT,Austria,0.0030553676087259,,no_observed_benefit,0.0025789143149802245,0.0641504120235612,False,False,True
+B2C,AZE,Azerbaijan,0.0,,benefit_without_observed_loss,6.637532055912185e-05,-0.03861057617539536,False,False,False
+B2C,BDI,Burundi,0.0,,no_observed_benefit,7.549859448725959e-05,0.009094463227732694,False,False,True
+B2C,BEL,Belgium,0.0,,no_observed_benefit,0.000611499902190881,0.06668954706571933,False,False,True
+B2C,BEN,Benin,0.0,2074,formed_then_lost,1.606327373786223e-05,0.0059155057790354505,False,False,True
+B2C,BFA,Burkina Faso,0.0,2076,formed_then_lost,1.2217439569881886e-05,0.005923556359445763,False,False,True
+B2C,BGD,Bangladesh,0.0,,benefit_without_observed_loss,8.286209566480661e-05,-0.000310677087871308,False,False,False
+B2C,BGR,Bulgaria,0.0,,no_observed_benefit,0.0002652712318394296,0.030391752872498047,False,False,True
+B2C,BHR,Bahrain,0.0,,benefit_without_observed_loss,-2.499420641499111e-05,-0.007118129144265255,False,False,False
+B2C,BHS,The Bahamas,0.0,,benefit_without_observed_loss,-6.627178539037705e-09,-0.0014337076249121559,False,False,False
+B2C,BIH,Bosnia and Herzegovina,0.0,2062,formed_then_lost,4.841314292089358e-05,0.011819789384988405,False,False,True
+B2C,BLM,Saint Barthelemy,0.0,,benefit_without_observed_loss,1.1544223917315263e-08,-5.526118201313563e-06,False,False,False
+B2C,BLR,Belarus,0.0,2100,formed_then_lost,0.0002716740117037951,0.0005804675373408247,False,False,True
+B2C,BLZ,Belize,0.0,,no_observed_benefit,1.3883688521172441e-05,0.001276524763081278,False,False,True
+B2C,BMU,Bermuda,0.0,,benefit_without_observed_loss,3.193499348623311e-08,-6.739176518429377e-06,False,False,False
+B2C,BOL,Bolivia,0.0,,benefit_without_observed_loss,0.00010173378098429543,-0.006319606685871584,False,False,False
+B2C,BRA,Brazil,0.0156029846503584,,no_observed_benefit,0.015257488525483682,0.5990598086664845,False,False,True
+B2C,BRB,Barbados,0.0,,benefit_without_observed_loss,-2.0627403094642608e-07,-0.0003699997197662915,False,False,False
+B2C,BRN,Brunei,0.0,,benefit_without_observed_loss,-1.070295938378787e-05,-0.001655496880668936,False,False,False
+B2C,BTN,Bhutan,0.0,,no_observed_benefit,1.999734199856048e-05,0.002195474749616274,False,False,True
+B2C,BWA,Botswana,0.0,,benefit_without_observed_loss,-4.0778624187326386e-05,-0.0006061512834832337,False,False,False
+B2C,CAF,Central African Republic,0.0,,no_observed_benefit,3.442953419400523e-05,0.00384114773017534,False,False,True
+B2C,CAN,Canada,-9.489027678522731e-05,2025,opening_benefit_then_lost,0.0016135056796426719,0.2448365818844629,False,False,True
+B2C,CHE,Switzerland,0.0056873603316516,,no_observed_benefit,0.00579267691859219,0.0567673815148768,False,False,True
+B2C,CHL,Chile,-3.245681968130714e-05,2025,opening_benefit_then_lost,0.00021649052841848438,-0.000643743169263038,True,True,False
+B2C,CHN,China,-0.3009266842944314,2087,opening_benefit_then_lost,-0.5133261971791603,1.4827365508869366,False,False,True
+B2C,CIV,Ivory Coast,0.0,2059,formed_then_lost,0.00014281420512155581,0.02128246808015648,False,False,True
+B2C,CMR,Cameroon,0.0,2043,formed_then_lost,0.00014507851891369902,0.01948908757152586,False,False,True
+B2C,COD,Democratic Republic of the Congo,0.0,,no_observed_benefit,0.0004371842084587029,0.04871214860802891,False,False,True
+B2C,COG,Republic of the Congo,0.0,2075,formed_then_lost,5.739955379577555e-06,0.002469453595945098,False,False,True
+B2C,COK,Cook Islands,0.0,2092,formed_then_lost,1.28765325553405e-07,8.533248714396276e-06,False,False,True
+B2C,COL,Colombia,0.0002819819935135,2035,formed_then_lost,0.0007294918233523131,0.047969454159445736,False,False,True
+B2C,COM,Comoros,0.0,2095,formed_then_lost,-6.128866800425724e-07,3.6518543081798565e-05,False,False,True
+B2C,CPV,Cabo Verde,0.0,2077,formed_then_lost,4.716680918641556e-07,0.0003246686693760176,False,False,True
+B2C,CRI,Costa Rica,0.0,,no_observed_benefit,0.0002303176957148414,0.02476625233134269,False,False,True
+B2C,CUB,Cuba,0.0,,benefit_without_observed_loss,-4.846234610633701e-06,-0.01523938848097948,False,False,False
+B2C,CUW,Curaçao,0.0,,benefit_without_observed_loss,4.587445408542324e-07,-0.00030163852019551347,False,False,False
+B2C,CYM,Cayman Islands,0.0,,benefit_without_observed_loss,-8.137755488892226e-08,-9.580435111544051e-05,False,False,False
+B2C,CYN,Northern Cyprus,0.0,,no_observed_benefit,2.8177107687608693e-05,0.003206508043328796,False,False,True
+B2C,CYP,Cyprus,0.0,2073,formed_then_lost,1.0906855863093645e-05,0.0016102955149644906,False,False,True
+B2C,CZE,Czechia,-0.0080166164479314,2046,opening_benefit_then_lost,-0.008488494576521136,0.052786055017101825,False,False,True
+B2C,DEU,Germany,-0.1053989787587892,2069,opening_benefit_then_lost,-0.1195391650031891,0.19941375684840726,False,False,True
+B2C,DJI,Djibouti,0.0,2095,formed_then_lost,-1.6480000803801603e-06,0.00010827687107515087,False,False,True
+B2C,DMA,Dominica,0.0,,benefit_without_observed_loss,8.790640251041157e-09,-1.8361457726338724e-05,False,False,False
+B2C,DNK,Denmark,-0.0002116893705941,2026,opening_benefit_then_lost,-4.303130913877376e-05,0.0384066854797443,False,False,True
+B2C,DOM,Dominican Republic,0.0,,benefit_without_observed_loss,2.15912971294927e-05,-0.0167457587669972,False,False,False
+B2C,DZA,Algeria,0.0,,benefit_without_observed_loss,0.00010253564715566755,-0.0624071585300162,False,False,False
+B2C,ECU,Ecuador,0.0,,no_observed_benefit,0.0002242915236884592,0.02141924118471155,False,False,True
+B2C,EGY,Egypt,0.0,,benefit_without_observed_loss,8.53398645254066e-05,-0.09882634335305539,False,False,False
+B2C,ERI,Eritrea,0.0,2086,formed_then_lost,-7.833561029784158e-07,0.000915033186074127,False,False,True
+B2C,ESP,Spain,0.0006707481569136,,no_observed_benefit,0.0008030262602826764,0.2180000497724487,False,False,True
+B2C,EST,Estonia,0.0,,no_observed_benefit,5.69721649610869e-05,0.006196028579825597,False,False,True
+B2C,ETH,Ethiopia,0.0,,no_observed_benefit,0.0010887715374116702,0.1223033151477386,False,False,True
+B2C,FIN,Finland,0.0006097183048751,,no_observed_benefit,0.0008445811669363888,0.03917905779524632,False,False,True
+B2C,FJI,Fiji,0.0,2057,formed_then_lost,2.0749150777678446e-05,0.0021535260735099956,False,False,True
+B2C,FRA,France,0.0069745840107748,,no_observed_benefit,0.010391266720195785,0.4972239737801328,False,False,True
+B2C,FRO,Faroe Islands,0.0,,no_observed_benefit,1.4861129129179462e-06,0.00016628963409602362,False,False,True
+B2C,FSM,Federated States of Micronesia,0.0,2091,formed_then_lost,9.929412610156817e-08,8.496148789122453e-06,False,False,True
+B2C,GAB,Gabon,0.0,2057,formed_then_lost,1.7453300460042314e-05,0.0025385114572990257,False,False,True
+B2C,GBR,United Kingdom,-0.006032182040172,2031,opening_benefit_then_lost,-0.005258633905882001,0.21612698216790152,False,False,True
+B2C,GEO,Georgia,0.0,2055,formed_then_lost,0.00018392401017747908,0.014361322628024776,False,False,True
+B2C,GGY,Guernsey,0.0,,no_observed_benefit,2.465293571945935e-06,0.00027016537939316955,False,False,True
+B2C,GHA,Ghana,0.0,2065,formed_then_lost,0.0001889050229020233,0.033428905465784656,False,False,True
+B2C,GIN,Guinea,0.0,2039,formed_then_lost,6.709596922923053e-05,0.008752484652542905,False,False,True
+B2C,GMB,Gambia,0.0,2093,formed_then_lost,-6.589866948360204e-06,0.0006642270417317193,False,False,True
+B2C,GNB,Guinea-Bissau,0.0,2087,formed_then_lost,-5.720221976747029e-07,0.00038902995315341155,False,False,True
+B2C,GNQ,Equatorial Guinea,0.0,2068,formed_then_lost,3.589247574067077e-06,0.000733455541739142,False,False,True
+B2C,GRC,Greece,-0.0152473469975596,2087,opening_benefit_then_lost,-0.017710742488785975,0.011012031459902018,False,False,True
+B2C,GRD,Grenada,0.0,,benefit_without_observed_loss,-2.1789679526211227e-08,-2.6525455026094865e-05,False,False,False
+B2C,GRL,Greenland,0.0,,no_observed_benefit,6.120483084684303e-07,7.038734662576303e-05,False,False,True
+B2C,GTM,Guatemala,0.0,2036,formed_then_lost,0.0002173062772509176,0.014505804514404641,False,False,True
+B2C,GUM,Guam,0.0,,benefit_without_observed_loss,1.7379852868729645e-07,-9.108245074984043e-05,False,False,False
+B2C,GUY,Guyana,0.0,,benefit_without_observed_loss,6.604286680629226e-07,-0.0002894906930706303,False,False,False
+B2C,HKG,Hong Kong S.A.R.,0.0,2081,formed_then_lost,3.3240371558154522e-06,0.0014820057189386415,False,False,True
+B2C,HND,Honduras,0.0,2042,formed_then_lost,0.00012732332838867486,0.0062121284475446445,False,False,True
+B2C,HRV,Croatia,0.0,,no_observed_benefit,0.0002133254461450213,0.02387588115502971,False,False,True
+B2C,HTI,Haiti,0.0,,benefit_without_observed_loss,2.8248977834400984e-06,-0.00693907525106674,False,False,False
+B2C,HUN,Hungary,7.990771363292843e-05,2033,formed_then_lost,-0.00025149425829911116,0.05322683952665884,False,False,True
+B2C,IDN,Indonesia,0.0,,benefit_without_observed_loss,-1.5948449052098275e-05,-0.09100878290923048,False,False,False
+B2C,IMN,Isle of Man,0.0,,no_observed_benefit,3.4025363425873656e-06,0.00036320052986482323,False,False,True
+B2C,IND,India,-0.0432842765203429,2094,opening_benefit_then_lost,-0.05857155059873975,0.2941859537641124,False,False,True
+B2C,IOA,Indian Ocean Territories,0.0,,benefit_without_observed_loss,2.2024231268049333e-11,-8.42709060712141e-08,False,False,False
+B2C,IRL,Ireland,0.0,,no_observed_benefit,0.00025340642448757163,0.02772786894190755,False,False,True
+B2C,IRN,Iran,0.0,,benefit_without_observed_loss,6.384109302892494e-05,-0.17977910058812735,False,False,False
+B2C,IRQ,Iraq,0.0,,benefit_without_observed_loss,-3.497491722571492e-05,-0.07754911238284516,False,False,False
+B2C,ISL,Iceland,0.0,,no_observed_benefit,1.8226963296290802e-05,0.002027240674171766,False,False,True
+B2C,ISR,Israel,0.0,,benefit_without_observed_loss,2.244789703701621e-05,-0.020412330516034326,False,False,False
+B2C,ITA,Italy,-0.0601057090379451,2064,opening_benefit_then_lost,-0.0665063801669537,0.17422744132041654,False,False,True
+B2C,JAM,Jamaica,0.0,,benefit_without_observed_loss,8.328113461936385e-06,-0.005418349891349676,False,False,False
+B2C,JEY,Jersey,0.0,,no_observed_benefit,2.352580573004725e-06,0.00025780844189219595,False,False,True
+B2C,JOR,Jordan,0.0,,benefit_without_observed_loss,2.3464403192044795e-05,-0.01494800182669935,False,False,False
+B2C,JPN,Japan,-0.0957245038755166,,benefit_without_observed_loss,-0.10734150888044794,-0.1900452565916157,False,False,False
+B2C,KAZ,Kazakhstan,0.0,,benefit_without_observed_loss,2.666235887414694e-05,-0.0977261984713926,False,False,False
+B2C,KEN,Kenya,0.0,,no_observed_benefit,0.0006156739939241682,0.07050356634892802,False,False,True
+B2C,KGZ,Kyrgyzstan,0.0,,no_observed_benefit,0.00024991712948998536,0.022792462718327133,False,False,True
+B2C,KHM,Cambodia,0.0,2071,formed_then_lost,0.0001327051439065387,0.012924408202434765,False,False,True
+B2C,KIR,Kiribati,0.0,2097,formed_then_lost,2.196683038043609e-08,1.3048673455578176e-06,False,False,True
+B2C,KNA,Saint Kitts and Nevis,0.0,,benefit_without_observed_loss,-3.026388649482012e-08,-2.897423128108547e-05,False,False,False
+B2C,KOR,South Korea,-0.0072474120912978,2076,opening_benefit_then_lost,-0.008708782763791976,0.057313284513430846,False,False,True
+B2C,KOS,Kosovo,0.0,2075,formed_then_lost,-1.011391922871986e-05,0.003269788079931414,False,False,True
+B2C,KWT,Kuwait,0.0,,benefit_without_observed_loss,-1.1479053783687502e-05,-0.01153149402297661,False,False,False
+B2C,LAO,Laos,0.0,2059,formed_then_lost,0.00012584985246106046,0.012992910483437215,False,False,True
+B2C,LBN,Lebanon,0.0,,benefit_without_observed_loss,1.1803801482129812e-05,-0.011420940036245835,False,False,False
+B2C,LBR,Liberia,0.0,2062,formed_then_lost,1.5575162701446892e-05,0.002428221422821187,False,False,True
+B2C,LBY,Libya,0.0,,benefit_without_observed_loss,-0.00010775586250746823,-0.04247215278043845,False,False,False
+B2C,LCA,Saint Lucia,0.0,,benefit_without_observed_loss,-6.693679760511313e-08,-6.485662035614654e-05,False,False,False
+B2C,LIE,Liechtenstein,0.0,2041,formed_then_lost,1.8649524291434095e-06,0.00027292347333600614,False,False,True
+B2C,LKA,Sri Lanka,-0.0014038491089634,2099,opening_benefit_then_lost,-0.0020740123411999937,0.0011423474859624063,False,False,True
+B2C,LSO,Lesotho,0.0,,no_observed_benefit,4.2372531472883105e-05,0.004752219098914178,False,False,True
+B2C,LTU,Lithuania,0.0008343303916948,,no_observed_benefit,0.0007019431086121405,0.016740047066232507,False,False,True
+B2C,LUX,Luxembourg,-1.3703586579389364e-05,2035,opening_benefit_then_lost,-4.82305491748011e-05,0.003299153926826515,False,False,True
+B2C,LVA,Latvia,0.0,,no_observed_benefit,0.00010629768689545812,0.011601609440003744,False,False,True
+B2C,MAC,Macao S.A.R,0.0,2065,formed_then_lost,1.0778713853447165e-06,0.0001663037931394834,False,False,True
+B2C,MAF,Saint Martin,0.0,,benefit_without_observed_loss,1.930750182803563e-08,-8.874189298831583e-06,False,False,False
+B2C,MAR,Morocco,0.0,,benefit_without_observed_loss,1.7530293208538056e-05,-0.05609575549291828,False,False,False
+B2C,MCO,Monaco,0.0,2047,formed_then_lost,4.5983331045894474e-07,7.976725637911806e-05,False,False,True
+B2C,MDA,Moldova,0.0,,benefit_without_observed_loss,9.192796169562938e-05,-0.012230613378425617,False,False,False
+B2C,MDG,Madagascar,0.0,2063,formed_then_lost,4.258072291045822e-05,0.00674016077748382,False,False,True
+B2C,MDV,Maldives,0.0,,benefit_without_observed_loss,-8.331234017088515e-09,-2.6588327636313265e-06,False,False,False
+B2C,MEX,Mexico,0.0,,benefit_without_observed_loss,0.0009932190920864377,-0.1244257341818813,False,False,False
+B2C,MHL,Marshall Islands,0.0,2094,formed_then_lost,7.185326491715659e-09,5.371339018838751e-07,False,False,True
+B2C,MKD,North Macedonia,0.0,2061,formed_then_lost,2.4461072130066485e-05,0.005542123007905562,False,False,True
+B2C,MLI,Mali,0.0,2064,formed_then_lost,5.621917338670532e-05,0.009422460782571234,False,False,True
+B2C,MLT,Malta,0.0,2064,formed_then_lost,8.004779258674681e-06,0.0010166198997024482,False,False,True
+B2C,MMR,Myanmar,0.0,2084,formed_then_lost,0.0003174924173447478,0.027868687487640577,False,False,True
+B2C,MNE,Montenegro,0.0,2045,formed_then_lost,4.804334125372699e-06,0.000802109183878038,False,False,True
+B2C,MNG,Mongolia,0.0,2100,formed_then_lost,9.163242711403086e-06,0.0002219335860057565,False,False,True
+B2C,MNP,Northern Mariana Islands,0.0,2095,formed_then_lost,6.570282853731579e-07,4.429034222503889e-05,False,False,True
+B2C,MOZ,Mozambique,0.0,,no_observed_benefit,0.00019131105835516215,0.022264929552257284,False,False,True
+B2C,MRT,Mauritania,0.0,2070,formed_then_lost,8.016394992185325e-06,0.0019822607897068225,False,False,True
+B2C,MUS,Mauritius,0.0,2086,formed_then_lost,-7.266169041145891e-07,0.0011258531083609977,False,False,True
+B2C,MWI,Malawi,0.0,,no_observed_benefit,0.0001847033018469211,0.020669460188095425,False,False,True
+B2C,MYS,Malaysia,0.0,,benefit_without_observed_loss,9.635447613499855e-05,-0.006570469500371661,False,False,False
+B2C,NAM,Namibia,0.0,,no_observed_benefit,5.50797260467688e-05,0.006312963266667909,False,False,True
+B2C,NCL,New Caledonia,0.0,2100,formed_then_lost,1.5879593506901898e-06,1.40775759427264e-05,False,False,True
+B2C,NER,Niger,0.0,2097,formed_then_lost,-2.1046200530134142e-05,0.0005569344508033877,False,False,True
+B2C,NFK,Norfolk Island,0.0,2086,formed_then_lost,6.894748483494433e-08,5.8823662639450464e-06,False,False,True
+B2C,NGA,Nigeria,0.0,2070,formed_then_lost,0.0003736618171456923,0.09254011892203994,False,False,True
+B2C,NIC,Nicaragua,0.0,2035,formed_then_lost,8.111407569492087e-05,0.005721079269156182,False,False,True
+B2C,NIU,Niue,0.0,2092,formed_then_lost,2.43356356271642e-08,1.8881560887233862e-06,False,False,True
+B2C,NLD,Netherlands,-0.0149902867092522,2087,opening_benefit_then_lost,-0.020188444240746888,0.010027971338141786,False,False,True
+B2C,NOR,Norway,0.0,,no_observed_benefit,0.0003308169878909388,0.036915487810675995,False,False,True
+B2C,NPL,Nepal,0.0,,no_observed_benefit,0.0003995165207348826,0.04407689149980739,False,False,True
+B2C,NRU,Nauru,0.0,,benefit_without_observed_loss,-2.1461955231306458e-07,-2.9536098151553484e-05,False,False,False
+B2C,NZL,New Zealand,0.0,,no_observed_benefit,0.00035247241994838704,0.04252360518017115,False,False,True
+B2C,OMN,Oman,0.0,,benefit_without_observed_loss,1.1365051176808595e-05,-0.01212433647028581,False,False,False
+B2C,PAK,Pakistan,0.0,2088,formed_then_lost,0.0008779363964493966,0.08069861011034565,False,False,True
+B2C,PAN,Panama,0.0,,no_observed_benefit,0.00012509666685506682,0.011217421900245873,False,False,True
+B2C,PER,Peru,0.0,2035,formed_then_lost,0.0004977911914742401,0.03438879295905875,False,False,True
+B2C,PHL,Philippines,-0.000165644238992,2098,opening_benefit_then_lost,-6.6933097994517155e-06,0.009154340747294008,False,False,True
+B2C,PLW,Palau,0.0,2091,formed_then_lost,5.882185812760514e-08,4.86874980620823e-06,False,False,True
+B2C,PNG,Papua New Guinea,0.0,2084,formed_then_lost,1.9532112962484634e-05,0.0016461571154455573,False,False,True
+B2C,POL,Poland,-0.0066933132435234,2081,opening_benefit_then_lost,-0.012145498828348963,0.030105782039685818,False,False,True
+B2C,PRI,Puerto Rico,0.0,,benefit_without_observed_loss,-2.7591904350937128e-05,-0.016016917822200803,False,False,False
+B2C,PRK,North Korea,0.0,2063,formed_then_lost,0.00024523417078629303,0.025635464464496795,False,False,True
+B2C,PRT,Portugal,-0.0017900451427217,2037,opening_benefit_then_lost,-0.0019208394966024158,0.048773924666043446,False,False,True
+B2C,PRY,Paraguay,0.0,,no_observed_benefit,0.00030022080022154237,0.03264482099651447,False,False,True
+B2C,PSX,Palestine,0.0,,benefit_without_observed_loss,3.249027016374871e-05,-0.005885201491377446,False,False,False
+B2C,PYF,French Polynesia,0.0,2091,formed_then_lost,2.1376700085144407e-06,0.00016560473914293584,False,False,True
+B2C,QAT,Qatar,0.0,,benefit_without_observed_loss,-1.4718151250004173e-06,-0.010548150573551435,False,False,False
+B2C,ROU,Romania,-0.0011306576904195,2028,opening_benefit_then_lost,-0.000711726539462386,0.10920812038985671,False,False,True
+B2C,RUS,Russia,0.0,2092,formed_then_lost,0.004378225398999068,0.10434812526713444,False,False,True
+B2C,RWA,Rwanda,0.0,,no_observed_benefit,9.801730129408227e-05,0.012316153836313262,False,False,True
+B2C,SAH,Western Sahara,0.0,,benefit_without_observed_loss,-3.353741398913332e-08,-2.2551665844202787e-05,False,False,False
+B2C,SAU,Saudi Arabia,0.0,,benefit_without_observed_loss,-0.00033509921080829047,-0.15929082337634093,False,False,False
+B2C,SDN,Sudan,0.0,2074,formed_then_lost,0.00024627470662522995,0.015110551394735928,False,False,True
+B2C,SDS,South Sudan,0.0,2088,formed_then_lost,-7.477281955921761e-07,0.0004977750716011743,False,False,True
+B2C,SEN,Senegal,0.0,2078,formed_then_lost,7.518543724437803e-06,0.006298576195270393,False,False,True
+B2C,SGP,Singapore,0.0,2088,formed_then_lost,2.042835417831655e-05,0.0017081773257337795,False,False,True
+B2C,SHN,Saint Helena,0.0,,benefit_without_observed_loss,-8.817182805686524e-08,-3.8090092797158455e-06,False,False,False
+B2C,SLB,Solomon Islands,0.0,,benefit_without_observed_loss,-2.496988332388876e-08,-2.759847967017326e-05,False,False,False
+B2C,SLE,Sierra Leone,0.0,,no_observed_benefit,6.276321797329215e-05,0.007038150694824807,False,False,True
+B2C,SLV,El Salvador,0.0,,no_observed_benefit,0.00013004595480379627,0.011789333295668511,False,False,True
+B2C,SMR,San Marino,0.0,2043,formed_then_lost,6.973322672926415e-07,0.00011144732632411701,False,False,True
+B2C,SOL,Somaliland,0.0,2072,formed_then_lost,3.4885268641163296e-06,0.0009336373967427148,False,False,True
+B2C,SOM,Somalia,0.0,2088,formed_then_lost,-1.7582095003835112e-06,0.0008995935672941779,False,False,True
+B2C,SPM,Saint Pierre and Miquelon,0.0,2037,formed_then_lost,6.688319951989506e-08,1.2281148822233418e-05,False,False,True
+B2C,SRB,Republic of Serbia,0.0,2064,formed_then_lost,9.190548159317839e-05,0.02478833866338449,False,False,True
+B2C,STP,São Tomé and Principe,0.0,2075,formed_then_lost,1.3954211250811093e-07,6.26982427405221e-05,False,False,True
+B2C,SUR,Suriname,0.0,2040,formed_then_lost,1.449147432299545e-05,0.0007935545531733015,False,False,True
+B2C,SVK,Slovakia,0.0,,no_observed_benefit,0.00031953867569232063,0.03530235700729302,False,False,True
+B2C,SVN,Slovenia,0.0,,no_observed_benefit,0.0001084812494807615,0.012168500606335548,False,False,True
+B2C,SWE,Sweden,0.0037012072044723,,no_observed_benefit,0.004079772679492813,0.06456583972985118,False,False,True
+B2C,SWZ,eSwatini,0.0,,no_observed_benefit,2.5839048857855798e-05,0.0030450810579963523,False,False,True
+B2C,SXM,Sint Maarten,0.0,,benefit_without_observed_loss,4.547431336538785e-08,-2.364713441124906e-05,False,False,False
+B2C,SYC,Seychelles,0.0,2079,formed_then_lost,9.812790044684848e-08,6.773299007497718e-05,False,False,True
+B2C,SYR,Syria,0.0,,benefit_without_observed_loss,-3.8736664292852994e-05,-0.04849173387728055,False,False,False
+B2C,TCA,Turks and Caicos Islands,0.0,,benefit_without_observed_loss,-2.028747263221047e-08,-2.507520257539081e-05,False,False,False
+B2C,TCD,Chad,0.0,2090,formed_then_lost,-4.445215862072118e-06,0.001011049479410182,False,False,True
+B2C,TGO,Togo,0.0,2070,formed_then_lost,2.4340571428077176e-05,0.0054733118692052544,False,False,True
+B2C,THA,Thailand,0.0,2097,formed_then_lost,0.0006127911054757685,0.03259796450850461,False,False,True
+B2C,TJK,Tajikistan,0.0,,no_observed_benefit,0.0002320206471814672,0.020565529000189983,False,False,True
+B2C,TKM,Turkmenistan,0.0,,benefit_without_observed_loss,-0.0002725701654859153,-0.10391677405029445,False,False,False
+B2C,TLS,East Timor,0.0,,benefit_without_observed_loss,-8.452159357185512e-07,-0.00042858256544935015,False,False,False
+B2C,TON,Tonga,0.0,2097,formed_then_lost,4.2250699690589534e-08,1.5434376243830942e-06,False,False,True
+B2C,TTO,Trinidad and Tobago,0.0,,benefit_without_observed_loss,-1.7862702002872154e-06,-0.0015903465058311071,False,False,False
+B2C,TUN,Tunisia,0.0,,benefit_without_observed_loss,9.516638772597485e-05,-0.015356945983450169,False,False,False
+B2C,TUR,Turkey,0.0,2056,formed_then_lost,0.0011324904732847407,0.2151416247230783,False,False,True
+B2C,TWN,Taiwan,-0.0214114320853155,,benefit_without_observed_loss,-0.02897243803337506,-0.038742317134413354,False,False,False
+B2C,TZA,United Republic of Tanzania,0.0,2047,formed_then_lost,0.0003284727042828931,0.044606658649313936,False,False,True
+B2C,UGA,Uganda,0.0,,no_observed_benefit,0.0003603220900424164,0.04062291584521329,False,False,True
+B2C,UKR,Ukraine,0.0,2070,formed_then_lost,0.0017739500028546844,0.0918973988425894,False,False,True
+B2C,URY,Uruguay,0.0,,no_observed_benefit,0.00014902176535789647,0.015252017200597216,False,False,True
+B2C,USA,United States of America,-0.1000120978229487,2060,opening_benefit_then_lost,-0.11645552661845923,1.7065558153169909,False,False,True
+B2C,UZB,Uzbekistan,0.0,,benefit_without_observed_loss,-0.0008131738137039571,-0.372677874435203,False,False,False
+B2C,VAT,Vatican,0.0,2045,formed_then_lost,7.349232529247127e-08,1.2230135484897727e-05,False,False,True
+B2C,VCT,Saint Vincent and the Grenadines,0.0,,benefit_without_observed_loss,-4.2735966415666045e-09,-1.6417910963405437e-05,False,False,False
+B2C,VEN,Venezuela,0.0,,no_observed_benefit,0.0006205855572893119,0.05371664300917552,False,False,True
+B2C,VGB,British Virgin Islands,0.0,,benefit_without_observed_loss,-1.62014832734862e-08,-7.532554398611726e-06,False,False,False
+B2C,VIR,United States Virgin Islands,0.0,,benefit_without_observed_loss,-7.481671785530839e-07,-0.0006052677108931662,False,False,False
+B2C,VNM,Vietnam,0.0,2087,formed_then_lost,0.0009530496475039683,0.08108951743722512,False,False,True
+B2C,VUT,Vanuatu,0.0,2077,formed_then_lost,1.6861427735137912e-06,0.0001555945717435794,False,False,True
+B2C,WLF,Wallis and Futuna,0.0,2091,formed_then_lost,6.187624757296784e-08,5.047223613909731e-06,False,False,True
+B2C,WSM,Samoa,0.0,2072,formed_then_lost,1.6527031815758823e-06,0.00016439443158833584,False,False,True
+B2C,YEM,Yemen,0.0,,benefit_without_observed_loss,-1.495934453052938e-06,-0.01471890897393718,False,False,False
+B2C,ZAF,South Africa,-0.0239230298300597,,benefit_without_observed_loss,-0.031314053545242616,-0.044573832906487594,False,False,False
+B2C,ZMB,Zambia,0.0,,no_observed_benefit,0.000155062613582963,0.01819054804242188,False,False,True
+B2C,ZWE,Zimbabwe,0.0,2063,formed_then_lost,6.448889472911474e-05,0.00933630053641895,False,False,True
+NZ2050,ABW,Aruba,0.0,2038,formed_then_lost,1.6316241148233415e-07,0.00022965751048526227,False,False,True
+NZ2050,AFG,Afghanistan,0.0,,no_observed_benefit,0.00032266663948529614,0.03876619222418344,False,False,True
+NZ2050,AGO,Angola,0.0,,no_observed_benefit,0.0002727904398322949,0.037939126628946204,False,False,True
+NZ2050,AIA,Anguilla,0.0,2038,formed_then_lost,6.71710310697851e-09,7.003759614790161e-06,False,False,True
+NZ2050,ALB,Albania,0.0,,no_observed_benefit,0.00011004120056035504,0.012209246224061726,False,False,True
+NZ2050,ALD,Aland,0.0,,no_observed_benefit,4.3934589318670904e-07,5.813768906115381e-05,False,False,True
+NZ2050,AND,Andorra,0.0,2035,formed_then_lost,1.3221391793227422e-06,0.0002874410250019476,False,False,True
+NZ2050,ARE,United Arab Emirates,0.0,2059,formed_then_lost,-5.328467238906908e-05,0.03805446047845592,False,False,True
+NZ2050,ARG,Argentina,0.0,2032,formed_then_lost,0.0009481828634985368,0.21037020497399953,False,False,True
+NZ2050,ARM,Armenia,0.0,,no_observed_benefit,0.00010728195270777501,0.013723312751066034,False,False,True
+NZ2050,ASM,American Samoa,0.0,2059,formed_then_lost,-2.7183423377595375e-08,0.0001554308621257392,False,False,True
+NZ2050,ATG,Antigua and Barbuda,0.0,2039,formed_then_lost,-1.8118661556919579e-09,2.583344075413444e-06,False,False,True
+NZ2050,AUS,Australia,-0.093460901257942,2095,opening_benefit_then_lost,-0.11320243302849967,0.021657648906940177,False,False,True
+NZ2050,AUT,Austria,0.0030553676087259,,no_observed_benefit,0.0025789143149802245,0.07270681638311721,False,False,True
+NZ2050,AZE,Azerbaijan,0.0,2067,formed_then_lost,6.637532055912185e-05,0.020619526483534115,False,False,True
+NZ2050,BDI,Burundi,0.0,,no_observed_benefit,7.549859448725959e-05,0.010463529821756962,False,False,True
+NZ2050,BEL,Belgium,0.0,,no_observed_benefit,0.000611499902190881,0.07490959331488703,False,False,True
+NZ2050,BEN,Benin,0.0,2039,formed_then_lost,1.606327373786223e-05,0.013943054791862686,False,False,True
+NZ2050,BFA,Burkina Faso,0.0,2040,formed_then_lost,1.2217439569881886e-05,0.014792085499629095,False,False,True
+NZ2050,BGD,Bangladesh,0.0,2055,formed_then_lost,8.286209566480661e-05,0.07180639488149644,False,False,True
+NZ2050,BGR,Bulgaria,0.0,,no_observed_benefit,0.0002652712318394296,0.04731778036629508,False,False,True
+NZ2050,BHR,Bahrain,0.0,2068,formed_then_lost,-2.499420641499111e-05,0.0022394431281480822,False,False,True
+NZ2050,BHS,The Bahamas,0.0,2039,formed_then_lost,-6.627178539037705e-09,0.002281525843530432,False,False,True
+NZ2050,BIH,Bosnia and Herzegovina,0.0,2038,formed_then_lost,4.841314292089358e-05,0.017773547482221593,False,False,True
+NZ2050,BLM,Saint Barthelemy,0.0,2038,formed_then_lost,1.1544223917315263e-08,1.1850782296405537e-05,False,False,True
+NZ2050,BLR,Belarus,0.0,2042,formed_then_lost,0.0002716740117037951,0.035037023466403,False,False,True
+NZ2050,BLZ,Belize,0.0,,no_observed_benefit,1.3883688521172441e-05,0.001868462809637042,False,False,True
+NZ2050,BMU,Bermuda,0.0,2037,formed_then_lost,3.193499348623311e-08,2.0518652780056916e-05,False,False,True
+NZ2050,BOL,Bolivia,0.0,2036,formed_then_lost,0.00010173378098429543,0.03846086360183774,False,False,True
+NZ2050,BRA,Brazil,0.0156029846503584,,no_observed_benefit,0.015257488525483682,0.8356951705765013,False,False,True
+NZ2050,BRB,Barbados,0.0,2039,formed_then_lost,-2.0627403094642608e-07,0.0004890139315638155,False,False,True
+NZ2050,BRN,Brunei,0.0,2068,formed_then_lost,-1.070295938378787e-05,0.001484985084293684,False,False,True
+NZ2050,BTN,Bhutan,0.0,,no_observed_benefit,1.999734199856048e-05,0.002182837761427372,False,False,True
+NZ2050,BWA,Botswana,0.0,2051,formed_then_lost,-4.0778624187326386e-05,0.007742763097901865,False,False,True
+NZ2050,CAF,Central African Republic,0.0,,no_observed_benefit,3.442953419400523e-05,0.003823147719106575,False,False,True
+NZ2050,CAN,Canada,-9.489027678522731e-05,2025,opening_benefit_then_lost,0.0016135056796426719,0.25322830476735836,False,False,True
+NZ2050,CHE,Switzerland,0.0056873603316516,,no_observed_benefit,0.00579267691859219,0.056850260715487815,False,False,True
+NZ2050,CHL,Chile,-3.245681968130714e-05,2025,opening_benefit_then_lost,0.00021649052841848438,0.07499822401515018,True,False,True
+NZ2050,CHN,China,-0.3009266842944314,2058,opening_benefit_then_lost,-0.5133261971791603,4.1570769524628135,False,False,True
+NZ2050,CIV,Ivory Coast,0.0,2034,formed_then_lost,0.00014281420512155581,0.03183441012325139,False,False,True
+NZ2050,CMR,Cameroon,0.0,,no_observed_benefit,0.00014507851891369902,0.02599905518303638,False,False,True
+NZ2050,COD,Democratic Republic of the Congo,0.0,,no_observed_benefit,0.0004371842084587029,0.04846947972743204,False,False,True
+NZ2050,COG,Republic of the Congo,0.0,2040,formed_then_lost,5.739955379577555e-06,0.005893224659054869,False,False,True
+NZ2050,COK,Cook Islands,0.0,2047,formed_then_lost,1.28765325553405e-07,3.8103569134245345e-05,False,False,True
+NZ2050,COL,Colombia,0.0002819819935135,,no_observed_benefit,0.0007294918233523131,0.10750897474933535,False,False,True
+NZ2050,COM,Comoros,0.0,2045,formed_then_lost,-6.128866800425724e-07,0.00026101754572365637,False,False,True
+NZ2050,CPV,Cabo Verde,0.0,2040,formed_then_lost,4.716680918641556e-07,0.0008352074411928091,False,False,True
+NZ2050,CRI,Costa Rica,0.0,,no_observed_benefit,0.0002303176957148414,0.025626316511625086,False,False,True
+NZ2050,CUB,Cuba,0.0,2039,formed_then_lost,-4.846234610633701e-06,0.02197024596423779,False,False,True
+NZ2050,CUW,Curaçao,0.0,2038,formed_then_lost,4.587445408542324e-07,0.0005867707111728807,False,False,True
+NZ2050,CYM,Cayman Islands,0.0,2039,formed_then_lost,-8.137755488892226e-08,0.00012421221419243672,False,False,True
+NZ2050,CYN,Northern Cyprus,0.0,,no_observed_benefit,2.8177107687608693e-05,0.004749823941415552,False,False,True
+NZ2050,CYP,Cyprus,0.0,2034,formed_then_lost,1.0906855863093645e-05,0.009957206859081996,False,False,True
+NZ2050,CZE,Czechia,-0.0080166164479314,2037,opening_benefit_then_lost,-0.008488494576521136,0.08061007228012701,False,False,True
+NZ2050,DEU,Germany,-0.1053989787587892,2052,opening_benefit_then_lost,-0.1195391650031891,0.37805694765208964,False,False,True
+NZ2050,DJI,Djibouti,0.0,2044,formed_then_lost,-1.6480000803801603e-06,0.0006750484906300757,False,False,True
+NZ2050,DMA,Dominica,0.0,2038,formed_then_lost,8.790640251041157e-09,2.9591610700660057e-05,False,False,True
+NZ2050,DNK,Denmark,-0.0002116893705941,2026,opening_benefit_then_lost,-4.303130913877376e-05,0.04372712115045549,False,False,True
+NZ2050,DOM,Dominican Republic,0.0,2038,formed_then_lost,2.15912971294927e-05,0.03195883075178735,False,False,True
+NZ2050,DZA,Algeria,0.0,2051,formed_then_lost,0.00010253564715566755,0.08951570041388385,False,False,True
+NZ2050,ECU,Ecuador,0.0,,no_observed_benefit,0.0002242915236884592,0.02887484290396114,False,False,True
+NZ2050,EGY,Egypt,0.0,2053,formed_then_lost,8.53398645254066e-05,0.1248276853803869,False,False,True
+NZ2050,ERI,Eritrea,0.0,2041,formed_then_lost,-7.833561029784158e-07,0.0028714094461974476,False,False,True
+NZ2050,ESP,Spain,0.0006707481569136,,no_observed_benefit,0.0008030262602826764,0.27946606934153245,False,False,True
+NZ2050,EST,Estonia,0.0,,no_observed_benefit,5.69721649610869e-05,0.008440210967587222,False,False,True
+NZ2050,ETH,Ethiopia,0.0,,no_observed_benefit,0.0010887715374116702,0.12304055377381218,False,False,True
+NZ2050,FIN,Finland,0.0006097183048751,,no_observed_benefit,0.0008445811669363888,0.0417052713492993,False,False,True
+NZ2050,FJI,Fiji,0.0,,no_observed_benefit,2.0749150777678446e-05,0.003076297725813208,False,False,True
+NZ2050,FRA,France,0.0069745840107748,,no_observed_benefit,0.010391266720195785,0.516442613621018,False,False,True
+NZ2050,FRO,Faroe Islands,0.0,,no_observed_benefit,1.4861129129179462e-06,0.00020484778595879376,False,False,True
+NZ2050,FSM,Federated States of Micronesia,0.0,2046,formed_then_lost,9.929412610156817e-08,3.289798109750214e-05,False,False,True
+NZ2050,GAB,Gabon,0.0,2032,formed_then_lost,1.7453300460042314e-05,0.0036946772929076395,False,False,True
+NZ2050,GBR,United Kingdom,-0.006032182040172,2030,opening_benefit_then_lost,-0.005258633905882001,0.2647740849125103,False,False,True
+NZ2050,GEO,Georgia,0.0,,no_observed_benefit,0.00018392401017747908,0.02171383977124689,False,False,True
+NZ2050,GGY,Guernsey,0.0,,no_observed_benefit,2.465293571945935e-06,0.0003442545172636289,False,False,True
+NZ2050,GHA,Ghana,0.0,2036,formed_then_lost,0.0001889050229020233,0.056896727746835615,False,False,True
+NZ2050,GIN,Guinea,0.0,,no_observed_benefit,6.709596922923053e-05,0.011201705094975499,False,False,True
+NZ2050,GMB,Gambia,0.0,2044,formed_then_lost,-6.589866948360204e-06,0.0032730690879065553,False,False,True
+NZ2050,GNB,Guinea-Bissau,0.0,2042,formed_then_lost,-5.720221976747029e-07,0.0012525057174436753,False,False,True
+NZ2050,GNQ,Equatorial Guinea,0.0,2037,formed_then_lost,3.589247574067077e-06,0.0013719585873051023,False,False,True
+NZ2050,GRC,Greece,-0.0152473469975596,2053,opening_benefit_then_lost,-0.017710742488785975,0.05650410401619796,False,False,True
+NZ2050,GRD,Grenada,0.0,2039,formed_then_lost,-2.1789679526211227e-08,3.301328830925001e-05,False,False,True
+NZ2050,GRL,Greenland,0.0,,no_observed_benefit,6.120483084684303e-07,7.113821983736414e-05,False,False,True
+NZ2050,GTM,Guatemala,0.0,,no_observed_benefit,0.0002173062772509176,0.0366574730389221,False,False,True
+NZ2050,GUM,Guam,0.0,2058,formed_then_lost,1.7379852868729645e-07,0.0006855562161748215,False,False,True
+NZ2050,GUY,Guyana,0.0,2037,formed_then_lost,6.604286680629226e-07,0.0006477876255965968,False,False,True
+NZ2050,HKG,Hong Kong S.A.R.,0.0,2044,formed_then_lost,3.3240371558154522e-06,0.0039479277288024415,False,False,True
+NZ2050,HND,Honduras,0.0,,no_observed_benefit,0.00012732332838867486,0.025163216717023786,False,False,True
+NZ2050,HRV,Croatia,0.0,,no_observed_benefit,0.0002133254461450213,0.02963335526750972,False,False,True
+NZ2050,HTI,Haiti,0.0,2038,formed_then_lost,2.8248977834400984e-06,0.011404992543217852,False,False,True
+NZ2050,HUN,Hungary,7.990771363292843e-05,2030,formed_then_lost,-0.00025149425829911116,0.07013851996364343,False,False,True
+NZ2050,IDN,Indonesia,0.0,2059,formed_then_lost,-1.5948449052098275e-05,0.46836663220352276,False,False,True
+NZ2050,IMN,Isle of Man,0.0,,no_observed_benefit,3.4025363425873656e-06,0.00045496598544590727,False,False,True
+NZ2050,IND,India,-0.0432842765203429,2050,opening_benefit_then_lost,-0.058606247110744414,1.4804755709500832,False,False,True
+NZ2050,IOA,Indian Ocean Territories,0.0,2059,formed_then_lost,2.2024231268049333e-11,4.40371318778829e-07,False,False,True
+NZ2050,IRL,Ireland,0.0,,no_observed_benefit,0.00025340642448757163,0.03409700166518496,False,False,True
+NZ2050,IRN,Iran,0.0,2054,formed_then_lost,6.384109302892494e-05,0.2191754542437416,False,False,True
+NZ2050,IRQ,Iraq,0.0,2057,formed_then_lost,-3.497491722571492e-05,0.07547160597742032,False,False,True
+NZ2050,ISL,Iceland,0.0,,no_observed_benefit,1.8226963296290802e-05,0.0019891635764773875,False,False,True
+NZ2050,ISR,Israel,0.0,2053,formed_then_lost,2.244789703701621e-05,0.02632117189434341,False,False,True
+NZ2050,ITA,Italy,-0.0601057090379451,2043,opening_benefit_then_lost,-0.0665063801669537,0.305628440889123,False,False,True
+NZ2050,JAM,Jamaica,0.0,2038,formed_then_lost,8.328113461936385e-06,0.010690609982828411,False,False,True
+NZ2050,JEY,Jersey,0.0,,no_observed_benefit,2.352580573004725e-06,0.00032931083614742645,False,False,True
+NZ2050,JOR,Jordan,0.0,2052,formed_then_lost,2.3464403192044795e-05,0.020786374252405794,False,False,True
+NZ2050,JPN,Japan,-0.0957245038755166,2061,opening_benefit_then_lost,-0.10734150888044794,0.4444552843433149,False,False,True
+NZ2050,KAZ,Kazakhstan,0.0,2071,formed_then_lost,2.666235887414694e-05,0.0333540706910807,False,False,True
+NZ2050,KEN,Kenya,0.0,,no_observed_benefit,0.0006156739939241682,0.07420557928139798,False,False,True
+NZ2050,KGZ,Kyrgyzstan,0.0,,no_observed_benefit,0.00024991712948998536,0.028688365176002383,False,False,True
+NZ2050,KHM,Cambodia,0.0,2040,formed_then_lost,0.0001327051439065387,0.02592481205747215,False,False,True
+NZ2050,KIR,Kiribati,0.0,2052,formed_then_lost,2.196683038043609e-08,1.3840687243559906e-05,False,False,True
+NZ2050,KNA,Saint Kitts and Nevis,0.0,2039,formed_then_lost,-3.026388649482012e-08,3.663350018576096e-05,False,False,True
+NZ2050,KOR,South Korea,-0.0072474120912978,2047,opening_benefit_then_lost,-0.008708782763791976,0.1257349708690038,False,False,True
+NZ2050,KOS,Kosovo,0.0,2043,formed_then_lost,-1.011391922871986e-05,0.007351695581336221,False,False,True
+NZ2050,KWT,Kuwait,0.0,2058,formed_then_lost,-1.1479053783687502e-05,0.01025056435466461,False,False,True
+NZ2050,LAO,Laos,0.0,,no_observed_benefit,0.00012584985246106046,0.019027307532037935,False,False,True
+NZ2050,LBN,Lebanon,0.0,2053,formed_then_lost,1.1803801482129812e-05,0.014358989348976458,False,False,True
+NZ2050,LBR,Liberia,0.0,2035,formed_then_lost,1.5575162701446892e-05,0.003801705850678647,False,False,True
+NZ2050,LBY,Libya,0.0,2064,formed_then_lost,-0.00010775586250746823,0.021247375384752794,False,False,True
+NZ2050,LCA,Saint Lucia,0.0,2040,formed_then_lost,-6.693679760511313e-08,7.744649031400918e-05,False,False,True
+NZ2050,LIE,Liechtenstein,0.0,2033,formed_then_lost,1.8649524291434095e-06,0.000341238424170832,False,False,True
+NZ2050,LKA,Sri Lanka,-0.0014038491089634,2060,opening_benefit_then_lost,-0.0020740123411999937,0.027724288370380035,False,False,True
+NZ2050,LSO,Lesotho,0.0,,no_observed_benefit,4.2372531472883105e-05,0.004722101374627739,False,False,True
+NZ2050,LTU,Lithuania,0.0008343303916948,,no_observed_benefit,0.0007019431086121405,0.020706765608554615,False,False,True
+NZ2050,LUX,Luxembourg,-1.3703586579389364e-05,2032,opening_benefit_then_lost,-4.82305491748011e-05,0.003959907362937438,False,False,True
+NZ2050,LVA,Latvia,0.0,,no_observed_benefit,0.00010629768689545812,0.013024680213588309,False,False,True
+NZ2050,MAC,Macao S.A.R,0.0,2036,formed_then_lost,1.0778713853447165e-06,0.00026840956818199044,False,False,True
+NZ2050,MAF,Saint Martin,0.0,2038,formed_then_lost,1.930750182803563e-08,1.9017027780980452e-05,False,False,True
+NZ2050,MAR,Morocco,0.0,2054,formed_then_lost,1.7530293208538056e-05,0.06755259970337826,False,False,True
+NZ2050,MCO,Monaco,0.0,2035,formed_then_lost,4.5983331045894474e-07,0.0001044563845476585,False,False,True
+NZ2050,MDA,Moldova,0.0,2060,formed_then_lost,9.192796169562938e-05,0.016222524656134437,False,False,True
+NZ2050,MDG,Madagascar,0.0,2035,formed_then_lost,4.258072291045822e-05,0.010904342077410978,False,False,True
+NZ2050,MDV,Maldives,0.0,2059,formed_then_lost,-8.331234017088515e-09,1.5841114155078564e-05,False,False,True
+NZ2050,MEX,Mexico,0.0,2036,formed_then_lost,0.0009932190920864377,0.45548511552139315,False,False,True
+NZ2050,MHL,Marshall Islands,0.0,2048,formed_then_lost,7.185326491715659e-09,2.87723846509881e-06,False,False,True
+NZ2050,MKD,North Macedonia,0.0,2037,formed_then_lost,2.4461072130066485e-05,0.008062463717514401,False,False,True
+NZ2050,MLI,Mali,0.0,2035,formed_then_lost,5.621917338670532e-05,0.015317733240529494,False,False,True
+NZ2050,MLT,Malta,0.0,2032,formed_then_lost,8.004779258674681e-06,0.002861811100621955,False,False,True
+NZ2050,MMR,Myanmar,0.0,2043,formed_then_lost,0.0003174924173447478,0.0791507995424751,False,False,True
+NZ2050,MNE,Montenegro,0.0,2035,formed_then_lost,4.804334125372699e-06,0.001042073065579073,False,False,True
+NZ2050,MNG,Mongolia,0.0,2055,formed_then_lost,9.163242711403086e-06,0.008726717779571775,False,False,True
+NZ2050,MNP,Northern Mariana Islands,0.0,2049,formed_then_lost,6.570282853731579e-07,0.0002616948228291728,False,False,True
+NZ2050,MOZ,Mozambique,0.0,,no_observed_benefit,0.00019131105835516215,0.02421792491725059,False,False,True
+NZ2050,MRT,Mauritania,0.0,2038,formed_then_lost,8.016394992185325e-06,0.004047961500580922,False,False,True
+NZ2050,MUS,Mauritius,0.0,2041,formed_then_lost,-7.266169041145891e-07,0.0035380219905067787,False,False,True
+NZ2050,MWI,Malawi,0.0,,no_observed_benefit,0.0001847033018469211,0.02077142962002873,False,False,True
+NZ2050,MYS,Malaysia,0.0,2057,formed_then_lost,9.635447613499855e-05,0.10649465813147437,False,False,True
+NZ2050,NAM,Namibia,0.0,,no_observed_benefit,5.50797260467688e-05,0.006513162880545881,False,False,True
+NZ2050,NCL,New Caledonia,0.0,2055,formed_then_lost,1.5879593506901898e-06,0.0013066818486182489,False,False,True
+NZ2050,NER,Niger,0.0,2046,formed_then_lost,-2.1046200530134142e-05,0.006349891325709651,False,False,True
+NZ2050,NFK,Norfolk Island,0.0,2044,formed_then_lost,6.894748483494433e-08,1.773264108823535e-05,False,False,True
+NZ2050,NGA,Nigeria,0.0,2038,formed_then_lost,0.0003736618171456923,0.18918715968057093,False,False,True
+NZ2050,NIC,Nicaragua,0.0,,no_observed_benefit,8.111407569492087e-05,0.01352011680630599,False,False,True
+NZ2050,NIU,Niue,0.0,2047,formed_then_lost,2.43356356271642e-08,7.961130157935876e-06,False,False,True
+NZ2050,NLD,Netherlands,-0.0149902867092522,2062,opening_benefit_then_lost,-0.020188444240746888,0.04561648431015823,False,False,True
+NZ2050,NOR,Norway,0.0,,no_observed_benefit,0.0003308169878909388,0.036281472042541514,False,False,True
+NZ2050,NPL,Nepal,0.0,,no_observed_benefit,0.0003995165207348826,0.04381662755586611,False,False,True
+NZ2050,NRU,Nauru,0.0,2067,formed_then_lost,-2.1461955231306458e-07,3.0119757087848096e-05,False,False,True
+NZ2050,NZL,New Zealand,0.0,,no_observed_benefit,0.00035247241994838704,0.04389199742481267,False,False,True
+NZ2050,OMN,Oman,0.0,2052,formed_then_lost,1.1365051176808595e-05,0.01593799114764567,False,False,True
+NZ2050,PAK,Pakistan,0.0,2044,formed_then_lost,0.0008779363964493966,0.2621836994932251,False,False,True
+NZ2050,PAN,Panama,0.0,,no_observed_benefit,0.00012509666685506682,0.017031517617971215,False,False,True
+NZ2050,PER,Peru,0.0,,no_observed_benefit,0.0004977911914742401,0.08324938169043064,False,False,True
+NZ2050,PHL,Philippines,-0.000165644238992,2053,opening_benefit_then_lost,-6.6933097994517155e-06,0.1237068576488692,False,False,True
+NZ2050,PLW,Palau,0.0,2046,formed_then_lost,5.882185812760514e-08,1.9482174264997297e-05,False,False,True
+NZ2050,PNG,Papua New Guinea,0.0,2043,formed_then_lost,1.9532112962484634e-05,0.00466112501551203,False,False,True
+NZ2050,POL,Poland,-0.0066933132435234,2040,opening_benefit_then_lost,-0.012145498828348963,0.18127693802622494,False,False,True
+NZ2050,PRI,Puerto Rico,0.0,2040,formed_then_lost,-2.7591904350937128e-05,0.017311863238735438,False,False,True
+NZ2050,PRK,North Korea,0.0,2035,formed_then_lost,0.00024523417078629303,0.04069594391364621,False,False,True
+NZ2050,PRT,Portugal,-0.0017900451427217,2032,opening_benefit_then_lost,-0.0019208394966024158,0.07096698628650604,False,False,True
+NZ2050,PRY,Paraguay,0.0,,no_observed_benefit,0.00030022080022154237,0.033450814726610795,False,False,True
+NZ2050,PSX,Palestine,0.0,2046,formed_then_lost,3.249027016374871e-05,0.013452908266668853,False,False,True
+NZ2050,PYF,French Polynesia,0.0,2046,formed_then_lost,2.1376700085144407e-06,0.0006727553106797396,False,False,True
+NZ2050,QAT,Qatar,0.0,2056,formed_then_lost,-1.4718151250004173e-06,0.011437162788000398,False,False,True
+NZ2050,ROU,Romania,-0.0011306576904195,2027,opening_benefit_then_lost,-0.000711726539462386,0.1486972133253146,False,False,True
+NZ2050,RUS,Russia,0.0,2039,formed_then_lost,0.004378225398999068,0.5693930608465414,False,False,True
+NZ2050,RWA,Rwanda,0.0,,no_observed_benefit,9.801730129408227e-05,0.015191785659722236,False,False,True
+NZ2050,SAH,Western Sahara,0.0,2060,formed_then_lost,-3.353741398913332e-08,1.630031520299764e-05,False,False,True
+NZ2050,SAU,Saudi Arabia,0.0,2062,formed_then_lost,-0.00033509921080829047,0.0961347031723529,False,False,True
+NZ2050,SDN,Sudan,0.0,2033,formed_then_lost,0.00024627470662522995,0.039090959763904275,False,False,True
+NZ2050,SDS,South Sudan,0.0,2042,formed_then_lost,-7.477281955921761e-07,0.0017317814692614257,False,False,True
+NZ2050,SEN,Senegal,0.0,2040,formed_then_lost,7.518543724437803e-06,0.01647920985245187,False,False,True
+NZ2050,SGP,Singapore,0.0,2044,formed_then_lost,2.042835417831655e-05,0.005615314339309199,False,False,True
+NZ2050,SHN,Saint Helena,0.0,2060,formed_then_lost,-8.817182805686524e-08,7.734068560099178e-06,False,False,True
+NZ2050,SLB,Solomon Islands,0.0,2058,formed_then_lost,-2.496988332388876e-08,0.00025206755257839355,False,False,True
+NZ2050,SLE,Sierra Leone,0.0,,no_observed_benefit,6.276321797329215e-05,0.0071178386273806965,False,False,True
+NZ2050,SLV,El Salvador,0.0,,no_observed_benefit,0.00013004595480379627,0.017757403912743046,False,False,True
+NZ2050,SMR,San Marino,0.0,2034,formed_then_lost,6.973322672926415e-07,0.00014223972477675308,False,False,True
+NZ2050,SOL,Somaliland,0.0,2039,formed_then_lost,3.4885268641163296e-06,0.0019952087024724696,False,False,True
+NZ2050,SOM,Somalia,0.0,2042,formed_then_lost,-1.7582095003835112e-06,0.0031493643130011675,False,False,True
+NZ2050,SPM,Saint Pierre and Miquelon,0.0,2032,formed_then_lost,6.688319951989506e-08,1.5082887137079376e-05,False,False,True
+NZ2050,SRB,Republic of Serbia,0.0,2038,formed_then_lost,9.190548159317839e-05,0.03832176221133318,False,False,True
+NZ2050,STP,São Tomé and Principe,0.0,2040,formed_then_lost,1.3954211250811093e-07,0.0001530427141399333,False,False,True
+NZ2050,SUR,Suriname,0.0,,no_observed_benefit,1.449147432299545e-05,0.002830384979493904,False,False,True
+NZ2050,SVK,Slovakia,0.0,,no_observed_benefit,0.00031953867569232063,0.03969559266799646,False,False,True
+NZ2050,SVN,Slovenia,0.0,,no_observed_benefit,0.0001084812494807615,0.015694772050278943,False,False,True
+NZ2050,SWE,Sweden,0.0037012072044723,,no_observed_benefit,0.004079772679492813,0.06499905087751569,False,False,True
+NZ2050,SWZ,eSwatini,0.0,,no_observed_benefit,2.5839048857855798e-05,0.003351961750894665,False,False,True
+NZ2050,SXM,Sint Maarten,0.0,2038,formed_then_lost,4.547431336538785e-08,4.9044325460236e-05,False,False,True
+NZ2050,SYC,Seychelles,0.0,2041,formed_then_lost,9.812790044684848e-08,0.00018293873227086138,False,False,True
+NZ2050,SYR,Syria,0.0,2058,formed_then_lost,-3.8736664292852994e-05,0.041637266158780745,False,False,True
+NZ2050,TCA,Turks and Caicos Islands,0.0,2039,formed_then_lost,-2.028747263221047e-08,3.2981681380447014e-05,False,False,True
+NZ2050,TCD,Chad,0.0,2043,formed_then_lost,-4.445215862072118e-06,0.003981772396307838,False,False,True
+NZ2050,TGO,Togo,0.0,2038,formed_then_lost,2.4340571428077176e-05,0.010811849502062251,False,False,True
+NZ2050,THA,Thailand,0.0,2050,formed_then_lost,0.0006127911054757685,0.2854119584699462,False,False,True
+NZ2050,TJK,Tajikistan,0.0,,no_observed_benefit,0.0002320206471814672,0.026926711017031358,False,False,True
+NZ2050,TKM,Turkmenistan,0.0,,benefit_without_observed_loss,-0.0002725701654859153,-0.006836977950939722,False,False,False
+NZ2050,TLS,East Timor,0.0,2059,formed_then_lost,-8.452159357185512e-07,0.0025011141785445967,False,False,True
+NZ2050,TON,Tonga,0.0,2052,formed_then_lost,4.2250699690589534e-08,1.677664591402565e-05,False,False,True
+NZ2050,TTO,Trinidad and Tobago,0.0,2040,formed_then_lost,-1.7862702002872154e-06,0.0019170520481981345,False,False,True
+NZ2050,TUN,Tunisia,0.0,2046,formed_then_lost,9.516638772597485e-05,0.03726715889954047,False,False,True
+NZ2050,TUR,Turkey,0.0,2036,formed_then_lost,0.0011324904732847407,0.29322529377395967,False,False,True
+NZ2050,TWN,Taiwan,-0.0214114320853155,2092,opening_benefit_then_lost,-0.02897243803337506,0.013083571962944032,False,False,True
+NZ2050,TZA,United Republic of Tanzania,0.0,,no_observed_benefit,0.0003284727042828931,0.06152747799928066,False,False,True
+NZ2050,UGA,Uganda,0.0,,no_observed_benefit,0.0003603220900424164,0.04152039922163384,False,False,True
+NZ2050,UKR,Ukraine,0.0,,no_observed_benefit,0.0017739500028546844,0.2191627800328718,False,False,True
+NZ2050,URY,Uruguay,0.0,,no_observed_benefit,0.00014902176535789647,0.017992723989759086,False,False,True
+NZ2050,USA,United States of America,-0.1000120978229487,2037,opening_benefit_then_lost,-0.11648276902495401,2.50372382249791,False,False,True
+NZ2050,UZB,Uzbekistan,0.0,2100,formed_then_lost,-0.0008131738137039571,6.884459029767986e-05,False,False,True
+NZ2050,VAT,Vatican,0.0,2035,formed_then_lost,7.349232529247127e-08,1.5910408924625286e-05,False,False,True
+NZ2050,VCT,Saint Vincent and the Grenadines,0.0,2039,formed_then_lost,-4.2735966415666045e-09,2.2899315192050715e-05,False,False,True
+NZ2050,VEN,Venezuela,0.0,,no_observed_benefit,0.0006205855572893119,0.08799683230812676,False,False,True
+NZ2050,VGB,British Virgin Islands,0.0,2041,formed_then_lost,-1.62014832734862e-08,7.049333022529446e-06,False,False,True
+NZ2050,VIR,United States Virgin Islands,0.0,2040,formed_then_lost,-7.481671785530839e-07,0.0007211535334865221,False,False,True
+NZ2050,VNM,Vietnam,0.0,2044,formed_then_lost,0.0009530496475039683,0.2530450341848132,False,False,True
+NZ2050,VUT,Vanuatu,0.0,2042,formed_then_lost,1.6861427735137912e-06,0.00038040204191899617,False,False,True
+NZ2050,WLF,Wallis and Futuna,0.0,2046,formed_then_lost,6.187624757296784e-08,2.02940436463066e-05,False,False,True
+NZ2050,WSM,Samoa,0.0,2040,formed_then_lost,1.6527031815758823e-06,0.00033824029566213634,False,False,True
+NZ2050,YEM,Yemen,0.0,2057,formed_then_lost,-1.495934453052938e-06,0.014716062214395868,False,False,True
+NZ2050,ZAF,South Africa,-0.0239230298300597,2066,opening_benefit_then_lost,-0.031314053545242616,0.1153569370344999,False,False,True
+NZ2050,ZMB,Zambia,0.0,,no_observed_benefit,0.000155062613582963,0.020309822662462673,False,False,True
+NZ2050,ZWE,Zimbabwe,0.0,2035,formed_then_lost,6.448889472911474e-05,0.0149180859596651,False,False,True
+LD,ABW,Aruba,0.0,2040,formed_then_lost,1.6316241148233415e-07,0.00021808649004199663,False,False,True
+LD,AFG,Afghanistan,0.0,,no_observed_benefit,0.00032266663948529614,0.038210830564623405,False,False,True
+LD,AGO,Angola,0.0,,no_observed_benefit,0.0002727904398322949,0.03688772669604985,False,False,True
+LD,AIA,Anguilla,0.0,2040,formed_then_lost,6.71710310697851e-09,6.6619038178431284e-06,False,False,True
+LD,ALB,Albania,0.0,,no_observed_benefit,0.00011004120056035504,0.012201450179176985,False,False,True
+LD,ALD,Aland,0.0,,no_observed_benefit,4.3934589318670904e-07,5.817497788523634e-05,False,False,True
+LD,AND,Andorra,0.0,2037,formed_then_lost,1.3221391793227422e-06,0.00025222280769085807,False,False,True
+LD,ARE,United Arab Emirates,0.0,2079,formed_then_lost,-5.328467238906908e-05,0.018200205707681737,False,False,True
+LD,ARG,Argentina,0.0,2035,formed_then_lost,0.0009481828634985368,0.2049112916100784,False,False,True
+LD,ARM,Armenia,0.0,2043,formed_then_lost,0.00010728195270777501,0.0121146047719463,False,False,True
+LD,ASM,American Samoa,0.0,2063,formed_then_lost,-2.7183423377595375e-08,0.00012287038295772523,False,False,True
+LD,ATG,Antigua and Barbuda,0.0,2042,formed_then_lost,-1.8118661556919579e-09,2.430215685983858e-06,False,False,True
+LD,AUS,Australia,-0.093460901257942,2096,opening_benefit_then_lost,-0.11320243302849967,0.017594076247085852,False,False,True
+LD,AUT,Austria,0.0030553676087259,,no_observed_benefit,0.0025789143149802245,0.07258231481644908,False,False,True
+LD,AZE,Azerbaijan,0.0,2088,formed_then_lost,6.637532055912185e-05,0.009460220804671557,False,False,True
+LD,BDI,Burundi,0.0,,no_observed_benefit,7.549859448725959e-05,0.010164353416351888,False,False,True
+LD,BEL,Belgium,0.0,,no_observed_benefit,0.000611499902190881,0.07504764704240853,False,False,True
+LD,BEN,Benin,0.0,2043,formed_then_lost,1.606327373786223e-05,0.012200881712520118,False,False,True
+LD,BFA,Burkina Faso,0.0,2044,formed_then_lost,1.2217439569881886e-05,0.012865659603568278,False,False,True
+LD,BGD,Bangladesh,0.0,2060,formed_then_lost,8.286209566480661e-05,0.05829315333085058,False,False,True
+LD,BGR,Bulgaria,0.0,,no_observed_benefit,0.0002652712318394296,0.04711057605506271,False,False,True
+LD,BHR,Bahrain,0.0,2100,formed_then_lost,-2.499420641499111e-05,2.3978542622257382e-05,False,False,True
+LD,BHS,The Bahamas,0.0,2041,formed_then_lost,-6.627178539037705e-09,0.0021573326715112282,False,False,True
+LD,BIH,Bosnia and Herzegovina,0.0,2041,formed_then_lost,4.841314292089358e-05,0.014627261996055166,False,False,True
+LD,BLM,Saint Barthelemy,0.0,2040,formed_then_lost,1.1544223917315263e-08,1.1277097232908967e-05,False,False,True
+LD,BLR,Belarus,0.0,2060,formed_then_lost,0.0002716740117037951,0.0286156085580495,False,False,True
+LD,BLZ,Belize,0.0,,no_observed_benefit,1.3883688521172441e-05,0.0018552734939579199,False,False,True
+LD,BMU,Bermuda,0.0,2039,formed_then_lost,3.193499348623311e-08,1.9633219482002302e-05,False,False,True
+LD,BOL,Bolivia,0.0,2038,formed_then_lost,0.00010173378098429543,0.037017849965239255,False,False,True
+LD,BRA,Brazil,0.0156029846503584,,no_observed_benefit,0.015257488525483682,0.8279489510467499,False,False,True
+LD,BRB,Barbados,0.0,2042,formed_then_lost,-2.0627403094642608e-07,0.0004603020538769131,False,False,True
+LD,BRN,Brunei,0.0,2072,formed_then_lost,-1.070295938378787e-05,0.0008988116195286143,False,False,True
+LD,BTN,Bhutan,0.0,,no_observed_benefit,1.999734199856048e-05,0.002186030991759801,False,False,True
+LD,BWA,Botswana,0.0,2061,formed_then_lost,-4.0778624187326386e-05,0.00591117648753007,False,False,True
+LD,CAF,Central African Republic,0.0,,no_observed_benefit,3.442953419400523e-05,0.0038257133656710448,False,False,True
+LD,CAN,Canada,-9.489027678522731e-05,2025,opening_benefit_then_lost,0.0016135056796426719,0.25417594134407573,False,False,True
+LD,CHE,Switzerland,0.0056873603316516,,no_observed_benefit,0.00579267691859219,0.056490350602206155,False,False,True
+LD,CHL,Chile,-3.245681968130714e-05,2025,opening_benefit_then_lost,0.00021649052841848438,0.07261382550343623,True,False,True
+LD,CHN,China,-0.3009266842944314,2063,opening_benefit_then_lost,-0.5133261971791603,3.6570195395047547,False,False,True
+LD,CIV,Ivory Coast,0.0,2036,formed_then_lost,0.00014281420512155581,0.029536983434368447,False,False,True
+LD,CMR,Cameroon,0.0,,no_observed_benefit,0.00014507851891369902,0.0245855096675887,False,False,True
+LD,COD,Democratic Republic of the Congo,0.0,,no_observed_benefit,0.0004371842084587029,0.04850499028001089,False,False,True
+LD,COG,Republic of the Congo,0.0,2043,formed_then_lost,5.739955379577555e-06,0.005148193941157339,False,False,True
+LD,COK,Cook Islands,0.0,2055,formed_then_lost,1.28765325553405e-07,3.262365369544844e-05,False,False,True
+LD,COL,Colombia,0.0002819819935135,,no_observed_benefit,0.0007294918233523131,0.10576942558734996,False,False,True
+LD,COM,Comoros,0.0,2055,formed_then_lost,-6.128866800425724e-07,0.00021224892758335095,False,False,True
+LD,CPV,Cabo Verde,0.0,2044,formed_then_lost,4.716680918641556e-07,0.0007252559868726463,False,False,True
+LD,CRI,Costa Rica,0.0,,no_observed_benefit,0.0002303176957148414,0.02570636108186469,False,False,True
+LD,CUB,Cuba,0.0,2042,formed_then_lost,-4.846234610633701e-06,0.02072027745606864,False,False,True
+LD,CUW,Curaçao,0.0,2040,formed_then_lost,4.587445408542324e-07,0.0005573239970080502,False,False,True
+LD,CYM,Cayman Islands,0.0,2042,formed_then_lost,-8.137755488892226e-08,0.0001168157663868096,False,False,True
+LD,CYN,Northern Cyprus,0.0,,no_observed_benefit,2.8177107687608693e-05,0.004732958627123119,False,False,True
+LD,CYP,Cyprus,0.0,2035,formed_then_lost,1.0906855863093645e-05,0.009792962500976223,False,False,True
+LD,CZE,Czechia,-0.0080166164479314,2038,opening_benefit_then_lost,-0.008488494576521136,0.08015313767695288,False,False,True
+LD,DEU,Germany,-0.1053989787587892,2053,opening_benefit_then_lost,-0.1195391650031891,0.3723810611627951,False,False,True
+LD,DJI,Djibouti,0.0,2055,formed_then_lost,-1.6480000803801603e-06,0.0005518962479271976,False,False,True
+LD,DMA,Dominica,0.0,2041,formed_then_lost,8.790640251041157e-09,2.799359392728827e-05,False,False,True
+LD,DNK,Denmark,-0.0002116893705941,2026,opening_benefit_then_lost,-4.303130913877376e-05,0.04376246030458395,False,False,True
+LD,DOM,Dominican Republic,0.0,2040,formed_then_lost,2.15912971294927e-05,0.03033778115900141,False,False,True
+LD,DZA,Algeria,0.0,2070,formed_then_lost,0.00010253564715566755,0.05342697362223681,False,False,True
+LD,ECU,Ecuador,0.0,,no_observed_benefit,0.0002242915236884592,0.0287343344799499,False,False,True
+LD,EGY,Egypt,0.0,2072,formed_then_lost,8.53398645254066e-05,0.07180250993949859,False,False,True
+LD,ERI,Eritrea,0.0,2047,formed_then_lost,-7.833561029784158e-07,0.002447009516434005,False,False,True
+LD,ESP,Spain,0.0006707481569136,,no_observed_benefit,0.0008030262602826764,0.2788616351699288,False,False,True
+LD,EST,Estonia,0.0,,no_observed_benefit,5.69721649610869e-05,0.008422942295270876,False,False,True
+LD,ETH,Ethiopia,0.0,,no_observed_benefit,0.0010887715374116702,0.12284165356350078,False,False,True
+LD,FIN,Finland,0.0006097183048751,,no_observed_benefit,0.0008445811669363888,0.041805314382279586,False,False,True
+LD,FJI,Fiji,0.0,,no_observed_benefit,2.0749150777678446e-05,0.0029059573303726093,False,False,True
+LD,FRA,France,0.0069745840107748,,no_observed_benefit,0.010391266720195785,0.5180551335117433,False,False,True
+LD,FRO,Faroe Islands,0.0,,no_observed_benefit,1.4861129129179462e-06,0.0002047958263161405,False,False,True
+LD,FSM,Federated States of Micronesia,0.0,2052,formed_then_lost,9.929412610156817e-08,2.8429259898842995e-05,False,False,True
+LD,GAB,Gabon,0.0,2036,formed_then_lost,1.7453300460042314e-05,0.0034435634678036658,False,False,True
+LD,GBR,United Kingdom,-0.006032182040172,2030,opening_benefit_then_lost,-0.005258633905882001,0.2645341804022016,False,False,True
+LD,GEO,Georgia,0.0,,no_observed_benefit,0.00018392401017747908,0.020330960893683126,False,False,True
+LD,GGY,Guernsey,0.0,,no_observed_benefit,2.465293571945935e-06,0.0003439848069318454,False,False,True
+LD,GHA,Ghana,0.0,2039,formed_then_lost,0.0001889050229020233,0.051795387101833006,False,False,True
+LD,GIN,Guinea,0.0,,no_observed_benefit,6.709596922923053e-05,0.0106644731441465,False,False,True
+LD,GMB,Gambia,0.0,2052,formed_then_lost,-6.589866948360204e-06,0.0027071365340391785,False,False,True
+LD,GNB,Guinea-Bissau,0.0,2047,formed_then_lost,-5.720221976747029e-07,0.0010642466718225052,False,False,True
+LD,GNQ,Equatorial Guinea,0.0,2040,formed_then_lost,3.589247574067077e-06,0.001233690303717883,False,False,True
+LD,GRC,Greece,-0.0152473469975596,2055,opening_benefit_then_lost,-0.017710742488785975,0.055204980520138766,False,False,True
+LD,GRD,Grenada,0.0,2042,formed_then_lost,-2.1789679526211227e-08,3.101695495071083e-05,False,False,True
+LD,GRL,Greenland,0.0,,no_observed_benefit,6.120483084684303e-07,7.022189206399679e-05,False,False,True
+LD,GTM,Guatemala,0.0,,no_observed_benefit,0.0002173062772509176,0.036019047328893994,False,False,True
+LD,GUM,Guam,0.0,2063,formed_then_lost,1.7379852868729645e-07,0.0005426578388058205,False,False,True
+LD,GUY,Guyana,0.0,2040,formed_then_lost,6.604286680629226e-07,0.0006169543266772453,False,False,True
+LD,HKG,Hong Kong S.A.R.,0.0,2055,formed_then_lost,3.3240371558154522e-06,0.0035166826982752594,False,False,True
+LD,HND,Honduras,0.0,2033,formed_then_lost,0.00012732332838867486,0.02459187129413586,False,False,True
+LD,HRV,Croatia,0.0,,no_observed_benefit,0.0002133254461450213,0.029627049775876994,False,False,True
+LD,HTI,Haiti,0.0,2041,formed_then_lost,2.8248977834400984e-06,0.010792687111190254,False,False,True
+LD,HUN,Hungary,7.990771363292843e-05,2030,formed_then_lost,-0.00025149425829911116,0.0698864980910166,False,False,True
+LD,IDN,Indonesia,0.0,2063,formed_then_lost,-1.5948449052098275e-05,0.36423576668505026,False,False,True
+LD,IMN,Isle of Man,0.0,,no_observed_benefit,3.4025363425873656e-06,0.00045478356567514025,False,False,True
+LD,IND,India,-0.0432842765203429,2058,opening_benefit_then_lost,-0.05855230678633142,1.3502061460319046,False,False,True
+LD,IOA,Indian Ocean Territories,0.0,2063,formed_then_lost,2.2024231268049333e-11,3.429219454587211e-07,False,False,True
+LD,IRL,Ireland,0.0,,no_observed_benefit,0.00025340642448757163,0.034095941303836724,False,False,True
+LD,IRN,Iran,0.0,2072,formed_then_lost,6.384109302892494e-05,0.12444376312969548,False,False,True
+LD,IRQ,Iraq,0.0,2075,formed_then_lost,-3.497491722571492e-05,0.03910476484626574,False,False,True
+LD,ISL,Iceland,0.0,,no_observed_benefit,1.8226963296290802e-05,0.0019930085210078754,False,False,True
+LD,ISR,Israel,0.0,2072,formed_then_lost,2.244789703701621e-05,0.015242259553861182,False,False,True
+LD,ITA,Italy,-0.0601057090379451,2044,opening_benefit_then_lost,-0.0665063801669537,0.30232961687451665,False,False,True
+LD,JAM,Jamaica,0.0,2040,formed_then_lost,8.328113461936385e-06,0.010156328305137713,False,False,True
+LD,JEY,Jersey,0.0,,no_observed_benefit,2.352580573004725e-06,0.0003290370887396334,False,False,True
+LD,JOR,Jordan,0.0,2071,formed_then_lost,2.3464403192044795e-05,0.012310642722929857,False,False,True
+LD,JPN,Japan,-0.0957245038755166,2066,opening_benefit_then_lost,-0.10734150888044794,0.38066025300370754,False,False,True
+LD,KAZ,Kazakhstan,0.0,2095,formed_then_lost,2.666235887414694e-05,0.00867121754303302,False,False,True
+LD,KEN,Kenya,0.0,,no_observed_benefit,0.0006156739939241682,0.07338487829988358,False,False,True
+LD,KGZ,Kyrgyzstan,0.0,,no_observed_benefit,0.00024991712948998536,0.0275914939790006,False,False,True
+LD,KHM,Cambodia,0.0,2041,formed_then_lost,0.0001327051439065387,0.023500862183441114,False,False,True
+LD,KIR,Kiribati,0.0,2058,formed_then_lost,2.196683038043609e-08,1.1527541467653632e-05,False,False,True
+LD,KNA,Saint Kitts and Nevis,0.0,2042,formed_then_lost,-3.026388649482012e-08,3.443231718427265e-05,False,False,True
+LD,KOR,South Korea,-0.0072474120912978,2051,opening_benefit_then_lost,-0.008708782763791976,0.11289909004779632,False,False,True
+LD,KOS,Kosovo,0.0,2052,formed_then_lost,-1.011391922871986e-05,0.005233502012010158,False,False,True
+LD,KWT,Kuwait,0.0,2077,formed_then_lost,-1.1479053783687502e-05,0.005086520196860192,False,False,True
+LD,LAO,Laos,0.0,2034,formed_then_lost,0.00012584985246106046,0.017902745817203383,False,False,True
+LD,LBN,Lebanon,0.0,2072,formed_then_lost,1.1803801482129812e-05,0.008245601256554715,False,False,True
+LD,LBR,Liberia,0.0,2037,formed_then_lost,1.5575162701446892e-05,0.003503101988312796,False,False,True
+LD,LBY,Libya,0.0,2093,formed_then_lost,-0.00010775586250746823,0.006109451916030238,False,False,True
+LD,LCA,Saint Lucia,0.0,2043,formed_then_lost,-6.693679760511313e-08,7.267435613876936e-05,False,False,True
+LD,LIE,Liechtenstein,0.0,2035,formed_then_lost,1.8649524291434095e-06,0.0003036476328302204,False,False,True
+LD,LKA,Sri Lanka,-0.0014038491089634,2063,opening_benefit_then_lost,-0.0020740123411999937,0.02278529173375165,False,False,True
+LD,LSO,Lesotho,0.0,,no_observed_benefit,4.2372531472883105e-05,0.004726790663653735,False,False,True
+LD,LTU,Lithuania,0.0008343303916948,,no_observed_benefit,0.0007019431086121405,0.02063595521389071,False,False,True
+LD,LUX,Luxembourg,-1.3703586579389364e-05,2032,opening_benefit_then_lost,-4.82305491748011e-05,0.003946893706758971,False,False,True
+LD,LVA,Latvia,0.0,,no_observed_benefit,0.00010629768689545812,0.013049279280611437,False,False,True
+LD,MAC,Macao S.A.R,0.0,2040,formed_then_lost,1.0778713853447165e-06,0.0002506267164006781,False,False,True
+LD,MAF,Saint Martin,0.0,2040,formed_then_lost,1.930750182803563e-08,1.8095495476098676e-05,False,False,True
+LD,MAR,Morocco,0.0,2072,formed_then_lost,1.7530293208538056e-05,0.03816132486293138,False,False,True
+LD,MCO,Monaco,0.0,2037,formed_then_lost,4.5983331045894474e-07,9.122208306147377e-05,False,False,True
+LD,MDA,Moldova,0.0,2070,formed_then_lost,9.192796169562938e-05,0.010889017539957038,False,False,True
+LD,MDG,Madagascar,0.0,2038,formed_then_lost,4.258072291045822e-05,0.009992531899892479,False,False,True
+LD,MDV,Maldives,0.0,2063,formed_then_lost,-8.331234017088515e-09,1.2421221669717679e-05,False,False,True
+LD,MEX,Mexico,0.0,2038,formed_then_lost,0.0009932190920864377,0.4367535915656885,False,False,True
+LD,MHL,Marshall Islands,0.0,2056,formed_then_lost,7.185326491715659e-09,2.4470049395288546e-06,False,False,True
+LD,MKD,North Macedonia,0.0,2040,formed_then_lost,2.4461072130066485e-05,0.006727334350228633,False,False,True
+LD,MLI,Mali,0.0,2038,formed_then_lost,5.621917338670532e-05,0.01403421362185562,False,False,True
+LD,MLT,Malta,0.0,2032,formed_then_lost,8.004779258674681e-06,0.002828445234785598,False,False,True
+LD,MMR,Myanmar,0.0,2047,formed_then_lost,0.0003174924173447478,0.06959867405783833,False,False,True
+LD,MNE,Montenegro,0.0,2036,formed_then_lost,4.804334125372699e-06,0.0009130739743486266,False,False,True
+LD,MNG,Mongolia,0.0,2060,formed_then_lost,9.163242711403086e-06,0.00715499524824136,False,False,True
+LD,MNP,Northern Mariana Islands,0.0,2056,formed_then_lost,6.570282853731579e-07,0.00022163193314028612,False,False,True
+LD,MOZ,Mozambique,0.0,,no_observed_benefit,0.00019131105835516215,0.023780230028652913,False,False,True
+LD,MRT,Mauritania,0.0,2042,formed_then_lost,8.016394992185325e-06,0.0035981162589639286,False,False,True
+LD,MUS,Mauritius,0.0,2047,formed_then_lost,-7.266169041145891e-07,0.003012360585594223,False,False,True
+LD,MWI,Malawi,0.0,,no_observed_benefit,0.0001847033018469211,0.020740376619626116,False,False,True
+LD,MYS,Malaysia,0.0,2061,formed_then_lost,9.635447613499855e-05,0.08545872378703412,False,False,True
+LD,NAM,Namibia,0.0,,no_observed_benefit,5.50797260467688e-05,0.006467310643615862,False,False,True
+LD,NCL,New Caledonia,0.0,2060,formed_then_lost,1.5879593506901898e-06,0.001065467234027987,False,False,True
+LD,NER,Niger,0.0,2057,formed_then_lost,-2.1046200530134142e-05,0.005091456674184205,False,False,True
+LD,NFK,Norfolk Island,0.0,2048,formed_then_lost,6.894748483494433e-08,1.552588409285657e-05,False,False,True
+LD,NGA,Nigeria,0.0,2041,formed_then_lost,0.0003736618171456923,0.1682030292791144,False,False,True
+LD,NIC,Nicaragua,0.0,,no_observed_benefit,8.111407569492087e-05,0.013299308945439275,False,False,True
+LD,NIU,Niue,0.0,2054,formed_then_lost,2.43356356271642e-08,6.833967152288438e-06,False,False,True
+LD,NLD,Netherlands,-0.0149902867092522,2064,opening_benefit_then_lost,-0.020188444240746888,0.04385239689266619,False,False,True
+LD,NOR,Norway,0.0,,no_observed_benefit,0.0003308169878909388,0.03631816298114341,False,False,True
+LD,NPL,Nepal,0.0,,no_observed_benefit,0.0003995165207348826,0.04388328025138176,False,False,True
+LD,NRU,Nauru,0.0,2071,formed_then_lost,-2.1461955231306458e-07,1.9133167525315524e-05,False,False,True
+LD,NZL,New Zealand,0.0,,no_observed_benefit,0.00035247241994838704,0.044066001293047705,False,False,True
+LD,OMN,Oman,0.0,2071,formed_then_lost,1.1365051176808595e-05,0.009285494922360055,False,False,True
+LD,PAK,Pakistan,0.0,2049,formed_then_lost,0.0008779363964493966,0.22850212589353516,False,False,True
+LD,PAN,Panama,0.0,,no_observed_benefit,0.00012509666685506682,0.016895783386213323,False,False,True
+LD,PER,Peru,0.0,,no_observed_benefit,0.0004977911914742401,0.0818604007573104,False,False,True
+LD,PHL,Philippines,-0.000165644238992,2059,opening_benefit_then_lost,-6.6933097994517155e-06,0.10256777982002921,False,False,True
+LD,PLW,Palau,0.0,2052,formed_then_lost,5.882185812760514e-08,1.6792336810156115e-05,False,False,True
+LD,PNG,Papua New Guinea,0.0,2047,formed_then_lost,1.9532112962484634e-05,0.004101976127467447,False,False,True
+LD,POL,Poland,-0.0066933132435234,2041,opening_benefit_then_lost,-0.012145498828348963,0.17726417840206837,False,False,True
+LD,PRI,Puerto Rico,0.0,2044,formed_then_lost,-2.7591904350937128e-05,0.016184621048941902,False,False,True
+LD,PRK,North Korea,0.0,2037,formed_then_lost,0.00024523417078629303,0.03790218504660632,False,False,True
+LD,PRT,Portugal,-0.0017900451427217,2033,opening_benefit_then_lost,-0.0019208394966024158,0.07063296445713425,False,False,True
+LD,PRY,Paraguay,0.0,,no_observed_benefit,0.00030022080022154237,0.03356608204148119,False,False,True
+LD,PSX,Palestine,0.0,2067,formed_then_lost,3.249027016374871e-05,0.008865120469400188,False,False,True
+LD,PYF,French Polynesia,0.0,2053,formed_then_lost,2.1376700085144407e-06,0.0005790177446461809,False,False,True
+LD,QAT,Qatar,0.0,2074,formed_then_lost,-1.4718151250004173e-06,0.006222319908652391,False,False,True
+LD,ROU,Romania,-0.0011306576904195,2028,opening_benefit_then_lost,-0.000711726539462386,0.14827974236345215,False,False,True
+LD,RUS,Russia,0.0,2055,formed_then_lost,0.004378225398999068,0.48222949985597535,False,False,True
+LD,RWA,Rwanda,0.0,,no_observed_benefit,9.801730129408227e-05,0.014563932505687903,False,False,True
+LD,SAH,Western Sahara,0.0,2085,formed_then_lost,-3.353741398913332e-08,7.065357527608933e-06,False,False,True
+LD,SAU,Saudi Arabia,0.0,2089,formed_then_lost,-0.00033509921080829047,0.0355309047201079,False,False,True
+LD,SDN,Sudan,0.0,2044,formed_then_lost,0.00024627470662522995,0.033368891405481264,False,False,True
+LD,SDS,South Sudan,0.0,2047,formed_then_lost,-7.477281955921761e-07,0.001464522238863926,False,False,True
+LD,SEN,Senegal,0.0,2044,formed_then_lost,7.518543724437803e-06,0.014268303952279123,False,False,True
+LD,SGP,Singapore,0.0,2049,formed_then_lost,2.042835417831655e-05,0.0048874094499236935,False,False,True
+LD,SHN,Saint Helena,0.0,2066,formed_then_lost,-8.817182805686524e-08,5.230239257884166e-06,False,False,True
+LD,SLB,Solomon Islands,0.0,2062,formed_then_lost,-2.496988332388876e-08,0.00020081784650061553,False,False,True
+LD,SLE,Sierra Leone,0.0,,no_observed_benefit,6.276321797329215e-05,0.007097888235719038,False,False,True
+LD,SLV,El Salvador,0.0,,no_observed_benefit,0.00013004595480379627,0.017619985350260475,False,False,True
+LD,SMR,San Marino,0.0,2036,formed_then_lost,6.973322672926415e-07,0.00012568529545269955,False,False,True
+LD,SOL,Somaliland,0.0,2042,formed_then_lost,3.4885268641163296e-06,0.001764128387088641,False,False,True
+LD,SOM,Somalia,0.0,2048,formed_then_lost,-1.7582095003835112e-06,0.002659789881120463,False,False,True
+LD,SPM,Saint Pierre and Miquelon,0.0,2033,formed_then_lost,6.688319951989506e-08,1.5087288129274852e-05,False,False,True
+LD,SRB,Republic of Serbia,0.0,2041,formed_then_lost,9.190548159317839e-05,0.031186581084772073,False,False,True
+LD,STP,São Tomé and Principe,0.0,2044,formed_then_lost,1.3954211250811093e-07,0.00013333927833002375,False,False,True
+LD,SUR,Suriname,0.0,,no_observed_benefit,1.449147432299545e-05,0.0027704740369589604,False,False,True
+LD,SVK,Slovakia,0.0,,no_observed_benefit,0.00031953867569232063,0.0397712265521306,False,False,True
+LD,SVN,Slovenia,0.0,,no_observed_benefit,0.0001084812494807615,0.015679459118044314,False,False,True
+LD,SWE,Sweden,0.0037012072044723,,no_observed_benefit,0.004079772679492813,0.06522310511363284,False,False,True
+LD,SWZ,eSwatini,0.0,,no_observed_benefit,2.5839048857855798e-05,0.00328312323685168,False,False,True
+LD,SXM,Sint Maarten,0.0,2040,formed_then_lost,4.547431336538785e-08,4.664036201967821e-05,False,False,True
+LD,SYC,Seychelles,0.0,2045,formed_then_lost,9.812790044684848e-08,0.00015786240130731297,False,False,True
+LD,SYR,Syria,0.0,2078,formed_then_lost,-3.8736664292852994e-05,0.02024402984722883,False,False,True
+LD,TCA,Turks and Caicos Islands,0.0,2042,formed_then_lost,-2.028747263221047e-08,3.102693441262092e-05,False,False,True
+LD,TCD,Chad,0.0,2049,formed_then_lost,-4.445215862072118e-06,0.003336531152085765,False,False,True
+LD,TGO,Togo,0.0,2041,formed_then_lost,2.4340571428077176e-05,0.00965276604653726,False,False,True
+LD,THA,Thailand,0.0,2058,formed_then_lost,0.0006127911054757685,0.23811020912332062,False,False,True
+LD,TJK,Tajikistan,0.0,,no_observed_benefit,0.0002320206471814672,0.025741424362655137,False,False,True
+LD,TKM,Turkmenistan,0.0,,benefit_without_observed_loss,-0.0002725701654859153,-0.02513389038764892,False,False,False
+LD,TLS,East Timor,0.0,2063,formed_then_lost,-8.452159357185512e-07,0.0019591145228108624,False,False,True
+LD,TON,Tonga,0.0,2059,formed_then_lost,4.2250699690589534e-08,1.3953234445711029e-05,False,False,True
+LD,TTO,Trinidad and Tobago,0.0,2043,formed_then_lost,-1.7862702002872154e-06,0.0017996197002773926,False,False,True
+LD,TUN,Tunisia,0.0,2067,formed_then_lost,9.516638772597485e-05,0.024748847339183633,False,False,True
+LD,TUR,Turkey,0.0,2038,formed_then_lost,0.0011324904732847407,0.2514764323258421,False,False,True
+LD,TWN,Taiwan,-0.0214114320853155,2099,opening_benefit_then_lost,-0.02897243803337506,0.002921365507422051,False,False,True
+LD,TZA,United Republic of Tanzania,0.0,2034,formed_then_lost,0.0003284727042828931,0.05783182983160214,False,False,True
+LD,UGA,Uganda,0.0,,no_observed_benefit,0.0003603220900424164,0.04131241836198972,False,False,True
+LD,UKR,Ukraine,0.0,2040,formed_then_lost,0.0017739500028546844,0.19538363830661584,False,False,True
+LD,URY,Uruguay,0.0,,no_observed_benefit,0.00014902176535789647,0.017972093454234485,False,False,True
+LD,USA,United States of America,-0.1000120978229487,2038,opening_benefit_then_lost,-0.11644703221772201,2.425904767943678,False,False,True
+LD,UZB,Uzbekistan,0.0,,benefit_without_observed_loss,-0.0008131738137039571,-0.07008170684360017,False,False,False
+LD,VAT,Vatican,0.0,2037,formed_then_lost,7.349232529247127e-08,1.3943065626536266e-05,False,False,True
+LD,VCT,Saint Vincent and the Grenadines,0.0,2042,formed_then_lost,-4.2735966415666045e-09,2.1583011570569023e-05,False,False,True
+LD,VEN,Venezuela,0.0,,no_observed_benefit,0.0006205855572893119,0.08714910679310321,False,False,True
+LD,VGB,British Virgin Islands,0.0,2045,formed_then_lost,-1.62014832734862e-08,6.554981053913686e-06,False,False,True
+LD,VIR,United States Virgin Islands,0.0,2043,formed_then_lost,-7.481671785530839e-07,0.000676532438415699,False,False,True
+LD,VNM,Vietnam,0.0,2048,formed_then_lost,0.0009530496475039683,0.2209267683137463,False,False,True
+LD,VUT,Vanuatu,0.0,2045,formed_then_lost,1.6861427735137912e-06,0.0003387628498331642,False,False,True
+LD,WLF,Wallis and Futuna,0.0,2053,formed_then_lost,6.187624757296784e-08,1.7486405695124337e-05,False,False,True
+LD,WSM,Samoa,0.0,2042,formed_then_lost,1.6527031815758823e-06,0.0003062864715711973,False,False,True
+LD,YEM,Yemen,0.0,2075,formed_then_lost,-1.495934453052938e-06,0.00771532115016113,False,False,True
+LD,ZAF,South Africa,-0.0239230298300597,2071,opening_benefit_then_lost,-0.031314053545242616,0.07895707458104155,False,False,True
+LD,ZMB,Zambia,0.0,,no_observed_benefit,0.000155062613582963,0.019840201917888968,False,False,True
+LD,ZWE,Zimbabwe,0.0,2038,formed_then_lost,6.448889472911474e-05,0.013683617357894279,False,False,True
